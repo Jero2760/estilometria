@@ -3,8 +3,8 @@
 Corpus abierto de obras literarias en español, en formato txt, para estudios de estilometría.
 
 Actualización Septiembre 2020
-- Novelas Siglo de Oro: 64
-- Comedias Siglo de Oro: 14
+- Novelas Siglo de Oro: 65
+- Comedias Siglo de Oro: 24
 - Entremeses Siglo de Oro: 11
 - Novelas 1880-1940: 42
 
