@@ -1,4 +1,5 @@
 # Estilometría
+
 Corpus abierto de obras literarias en español, en formato txt, para estudios de estilometría.
 
 Actualización Septiembre 2020
@@ -16,6 +17,10 @@ Repositorios utilizados:
 - Novelas 1880-1940 https://github.com/cligs/textbox/tree/master/spanish/novela-espanola Novelas 1880-1940
 - Otros http://www.cervantesvirtual.com/ Biblioteca Virtual Miguel de Cervantes
 
+# Colaboración
+
+Cualquier persona interesada en colaborar en este proyecto, puede hacerlo en Github o bien contactando por emai: info@publiconsulting.com
+
 # An open collection of Spanish literature
 
 Full text versions, in plain text format, harvested from trustworthy public domain sites.
@@ -24,5 +29,3 @@ Full text versions, in plain text format, harvested from trustworthy public doma
 
 <img src="https://licensebuttons.net/l/by/3.0/88x31.png">
 This collection is published under Creative Common Attribution CC BY. This license lets you distribute, remix, adapt, and build upon this repository, even commercially, as long as you credit this Github for the corpus creation.
-
-
