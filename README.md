@@ -2,9 +2,9 @@
 Corpus abierto de obras literarias en español, en formato txt, para estudios de estilometría.
 
 Actualización Septiembre 2020
-Novelas: 
-Comedias:
-Entremeses:
+- Novelas: 64
+- Comedias: 14
+- Entremeses: 10
 
 El corpus del Siglo de Oro se basa en los siguientes repositorios:
 
