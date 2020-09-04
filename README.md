@@ -20,7 +20,7 @@ Full text versions, in plain text format, harvested from trustworthy public doma
 
 # Copyright
 
-<img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png">
+<img src="https://licensebuttons.net/l/by/3.0/88x31.png">
 This collection is published under Creative Common Attribution CC BY. This license lets you distribute, remix, adapt, and build upon this repository, even commercially, as long as you credit this Github for the corpus creation.
 
 
