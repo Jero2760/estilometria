@@ -9,6 +9,7 @@ Actualización Septiembre 2020
 
 Repositorios utilizados:
 
+- Siglo de Oro - Comedias https://tc12.uv.es/ TC/12 Red del Patrimonio Teatral Clásico Español
 - Siglo de Oro - Novelas https://github.com/7PartidasDigital/NovelaBarroca José Manuel Fradejas Rueda (Universidad de Valladolid)
 - Siglo de Oro - Comedias, entremeses... http://www.comedias.org/textlist.html AHCT Lista de textos
 - Novelas 1880-1940 https://github.com/cligs/textbox/tree/master/spanish/novela-espanola Novelas 1880-1940
