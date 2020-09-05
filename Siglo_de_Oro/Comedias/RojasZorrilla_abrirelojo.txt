@@ -1,0 +1,12948 @@
+
+ 
+ 
+ Rojas, Francisco de 
+ Abrir el ojo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ejemplar utilizado: Madrid, BNE, Ti- (XIX). CO   Abrir el ojo , en  Comedias escojidas de don Francisco de Rojas Zorrilla , Madrid, Ortega y Compañía, , tomo II, pp. -. 
+ B   Abre el ojo , en  Comedias escogidas de don Francisco de Rojas Zorrilla , ed. Ramón de Mesonero Romanos, Madrid, Rivadeneyra, . Utilizamos la reimpresión de Madrid, Atlas,  (BAE, ), pp. -.  
+ Ts   Abre el ojo , en  Teatro selecto antiguo y moderno, nacional y extranjero, coleccionado e ilustrado con una introducción, notas, observaciones críticas, y biografías de los principales autores por Don Francisco José Orellana , Barcelona, Salvador Manero, , tomo II, pp. -. 
+ PR   Abrir el ojo , precedida de  Donde hay agravios no hay celos , ed. Felipe B. Pedraza Jiménez y Milagros Rodríguez Cáceres, Madrid, Castalia,  (“Clásicos Castalia, ), pp. -. 
+ REFUNDICIONES Y ADAPTACIONES Como hemos señalado, Abrir el ojo mereció a principios del siglo XIX una refundición de Félix Enciso Castrillón. De este texto, que modifica muy sustancialmente el de Rojas [vid. Pedraza, : -], conocemos los siguientes testimonios: 
+ R Abre el ojo. Comedia antigua en tres actos  escrita por D. Francisco de Roxas  y refundida por D. F[élix] E[nciso] Castrillón. 
+ [González Cañal, Cerezo y Vega, : núm. ]
+ Manuscrito,  fols. ( x  mm.), Madrid, BNE,  
+ R Abre el ojo, o sea el aviso a los solteros... , Madrid, iuda de Quiroga, .
+ [González Cañal, Cerezo y Vega, : núm. ]
+ En la Biblioteca Histórica del Ayuntamiento de Madrid se guarda un legajo (Tea --) que contiene tres carpetillas con sendos ejemplares del impreso de la Viuda de Quiroga () que fueron usados por los apuntes de los teatros madrileños. En sus páginas encontramos abundantes anotaciones escénicas correspondientes a representaciones de los años , ,  y -, varios repartos, no siempre completos, y las observaciones de la censura [vid. Pedraza, : -]. 
+ R   Abre el ojo . Comedia de Francisco de Rojas Zorrilla. Versión de José Manuel Caballero Bonald, Madrid, Editorial Vox, con la colaboración del Centro de Documentación Teatral, ,  pp. 
+ R   Abre el ojo  de Francisco de Rojas Zorrilla. Versión de Emilio del Valle. Dirección de Francisco Plaza. Producciones Inconstantes de Teatro [].
+	 Ejemplar mecanografiado,  pp. ( x  mm.). Biblioteca Pedraza-Rodríguez Cáceres. 
+ R   Abre el ojo  de Francisco de Rojas Zorrilla. Versión: Javier Mateo & Sofía Eiroa [].
+	 Ejemplar mecanografiado,  pp. ( x  mm.). Biblioteca Pedraza-Rodríguez Cáceres. 
+ FILIACIÓN  En este capítulo prescindiremos de las refundiciones y adaptaciones teatrales, que, obviamente, no son útiles para establecer el texto crítico. Excepción a este principio es el testimonio  D . Aun siendo un libreto preparado para el teatro con las acotaciones, tachaduras y cambios de la censura, merece una particular consideración por pertenecer al siglo XVII, cuando estaba vigente el sistema de representación para el que Rojas escribió la comedia. El testimonio más próximo al original es, sin duda,  P , que servirá de base a nuestra edición. De él deriva  P , que deturpa el texto de su fuente y pierde el v.  de la comedia. Esta laguna y otros errores compartidos nos permiten establecer que P es la fuente de una suelta tardía:  S  (probablemente de finales del siglo XVIII). Mesonero utilizó un ejemplar de  S  para fijar el texto de la “Biblioteca de autores españoles” ( B ); lo corrigió en algunos de sus errores y repuso, ope ingenii, el perdido v. . De la BAE se deriva la edición de Orellana ( Ts ). Como hemos señalado,  D  es una desgajada de  P , con corrección y notas de la censura de . Teniendo en cuenta el número de tachaduras, rectificaciones en la entrelínea o al margen y de fragmentos acotados con un no, lo consideraremos un testimonio independiente. El resto de las ediciones de  Abrir el ojo  no derivan de  P  sino de un testimonio perdido (α), que incluía alteraciones y supresiones similares a las de  D , pero conservan el v.  y cuatro sílabas del v.  que no se encuentran en  P . Ese testimonio perdido dio origen a dos series: una constituida exclusivamente por  S , y la otra por  S, S y CO , que derivan una de otra. Las dos ramas tienen en común algunos cortes, pero difieren en otros. Los pasajes documentados en una rama pero no en la otra tenían que figurar en la fuente perdida (α); los impresores debieron de cortar a su albedrío para ajustar el texto a los  folios en que querían encajarlo. Por último, nuestra edición de  ( PR ) utilizó como base  P , aunque corrigió con el resto de los testimonios sus erratas y errores. 
+ 
+ PERSONAS QUE HABLAN EN ELLA 
+ 
+ 
+ DON CLEMENTE 
+ DON JULIÁN DE LA MATA 
+ JUAN MARTÍNEZ CANIEGO 
+ DOÑA CLARA 
+ DOÑA HIPÓLITA 
+ DOÑA BEATRIZ 
+  MARICHISPA, criada 
+  LEONOR, criada 
+ CARTILLA, gracioso 
+  GANAPANES 
+ [UN SOLDADO] 
+ 
+ 
+ 
+ 
+ Jornada I 
+ 
+ 
+ Sale DON CLEMENTE,
+ como enojado, y DOÑA HIPÓLITA,   
+  viuda, deteniéndole. 
+ 
+ CLEMENTE 
+ Déjame ir. 
+ 
+ 
+ HIPÓLITA 
+ ¿Adónde vas?
+ 
+ 
+ ¿Que te quiera bien te enfada? 
+ 
+ 
+ CLEMENTE 
+ 
+ Si tú
+ no fueras cansada, 
+ 
+ te quisiera mucho más. 
+ 
+ 
+ HIPÓLITA 
+  
+¿Que te enojes de ese modo 
+ 
+ porque a detenerte salgo? 
+ 
+ 
+ CLEMENTE 
+  Déjame a mí
+ querer algo,
+ 
+ 
+ no te lo quieras tú todo.
+ 
+ 
+ 
+ HIPÓLITA 
+ Bien pagas un noble amor... 
+ 
+ 
+ CLEMENTE 
+   Porfía tu amor se llama. 
+ 
+ 
+ HIPÓLITA 
+  ...porque ves que no soy dama
+ 
+ 
+ de coche y calle Mayor. 
+ 
+Solo porque en mí no ves, 
+ 
+ aunque me la dé cualquiera, 
+  
+ hoy sacar una pollera, 
+ 
+ y mañana un guardapiés,
+ 
+ 
+y porque nunca al sotillo 
+ 
+ un verde me salgo a dar, 
+ 
+ ni me ves ir a buscar 
+  
+ a San Marcos el trapillo, 
+ 
+no me estimas ni me quieres, 
+ 
+ ni una caricia te escucho. 
+ 
+ Pues adviértote que hay mucho 
+ 
+ de mujeres a mujeres.
+ 
+  
+Ya yo entiendo tus desvelos, 
+ 
+ y ya sé lo que te enfada
+ 
+ 
+ no ver mi casa colgada
+ 
+ 
+ de muy lindos terciopelos.
+ 
+ 
+¡Lo que hubieras estimado
+ 
+  
+ hallar, cuando entras aquí, 
+ 
+ una cama carmesí
+ 
+ 
+ con goteras de brocado!
+ 
+ 
+Ya yo sé que tú quisieras
+ 
+ 
+ ver mis manos muy brillantes
+ 
+  
+ de sortijas de diamantes,
+ 
+ 
+ aunque tú no me las dieras.
+ 
+ 
+En el Prado en el verano
+ 
+ 
+ tú oyeras de buena gana:
+ 
+ «¿Quién va allí?» «Doña Fulana».
+ 
+  «¿Y quién la habla?» «Don Fulano».   
+ 
+Pues no hayas miedo, señor,
+ 
+ 
+ que a esto tu ruego me venza,
+ 
+ 
+ porque yo tengo vergüenza,
+ 
+ 
+ aunque ves que tengo amor.
+ 
+  
+Contigo fui desdichada, 
+ 
+ y aunque en amar y querer
+ 
+ 
+ he obrado como mujer,
+ 
+ 
+ he de parecer honrada.
+ 
+ 
+Nómbrame quien me nombró
+ 
+  
+  -esto examinarlo puedes- 
+ 
+ doña Hipólita Paredes,
+ 
+ 
+ pero  la Paredes, no.
+ 
+ 
+ Y es cosa muy desairada
+ 
+ 
+ que yo me llegue a prendar
+ 
+ 
+ de un...
+ 
+ 
+ 
+ CLEMENTE 
+   ¿Quiéreme dejar,
+ 
+ 
+ señora mujer honrada?
+ 
+ 
+Paso con ella una vida...
+ 
+ 
+ 
+ HIPÓLITA 
+  Dila.
+ 
+ 
+ 
+ CLEMENTE 
+  Déjeme, señora.
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿Qué es...?
+ 
+ 
+ 
+ CLEMENTE 
+ Que entro aquí cada hora
+ 
+  
+ y no hallo quien me lo impida.    
+ 
+ 
+ HIPÓLITA 
+ ¿Solo porque yo te quiero
+ 
+ 
+ esa falta me hallarás?
+ 
+ 
+ 
+ CLEMENTE 
+  Ítem, otra falta más:
+ 
+ 
+ que eres mujer de llavero.
+ 
+ 
+ 
+ HIPÓLITA 
+  
+¿Pues el llavero te enfada? 
+ 
+ ¡Oh, qué de faltas tenemos
+ 
+ 
+ las mujeres que queremos!
+ 
+ 
+ ¿Es mejor una afeitada,
+ 
+ 
+hamponaza de la yerba,
+ 
+  
+ de las de hender y rajar, 
+ 
+ que cuando se va a acostar,
+ 
+ 
+ echa la cara en conserva?
+ 
+ 
+¿Será mejor una hampona
+ 
+ 
+ de estas que traen con ruido
+ 
+  
+ el talle muy bien prendido
+ 
+ 
+ y muy suelta la persona?
+ 
+ 
+¿Es mejor una deidad
+ 
+ 
+ de las que con riesgo tanto
+ 
+ 
+ la gloria traen en el manto
+ 
+  
+ y el humo en la voluntad? 
+ 
+ 
+ CLEMENTE 
+ ¿Y es mejor 
+ -ya que te empeñas- 
+ 
+ 
+ lograr muy basto y grosero
+ 
+ 
+ un amorazo casero
+ 
+ 
+ que está durando por peñas?
+ 
+ 
+ 
+ HIPÓLITA 
+  
+ 
+   Mis requiebros siempre han sido   
+ 
+ 
+ hijos de mi voluntad.
+ 
+ 
+ 
+ CLEMENTE 
+ Y son por su antigüedad
+ 
+ 
+ de solar muy conocido.
+ 
+ 
+ 
+ HIPÓLITA 
+ Tu grosera sinrazón
+ 
+  
+ apasionada me deja, 
+ 
+ porque yo no soy tan vieja  
+ 
+ 
+ que...  
+ (Llora.) 
+ 
+ 
+ CLEMENTE 
+  
+Acabose: lagrimón.
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿Siempre con ira y desgarro,
+ 
+ 
+ siempre desdenes y fieros?
+ 
+ 
+ 
+ CLEMENTE 
+   ¿Quiere 
+no hacerme pucheros?    
+ 
+ Que haré pedazos el barro.
+ 
+ 
+Déjame, no me atormentes.
+ 
+ 
+ ¿Qué te debo yo?
+ 
+ 
+ 
+ HIPÓLITA 
+  
+ ¡Ah cruel!
+ 
+ 
+ 
+ CLEMENTE 
+  Acaba, di.
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+  
+¿Qué? Por él
+ 
+  
+ no me hablan ya mis parientes,   
+ 
+ 
+y el canónigo, mi tío,
+ 
+ 
+ ha sabido lo que pasa.
+ 
+ 
+ 
+ CLEMENTE 
+ No entraré más en tu casa.
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+Vuelve acá, Clemente mío.
+ 
+ 
+ 
+ 
+CLEMENTE 
+  Déjame salir de aquí. 
+ 
+ 
+ HIPÓLITA 
+  ¿Que me pagues de este modo?
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Quieres que te diga todo
+ 
+ 
+ lo que haces conmigo?
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+Di.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Doña Hipólita Paredes,
+ 
+  
+ tú eres dama principal;
+ 
+ 
+ tu hermosura, la que basta,
+ 
+ 
+ tu limpieza, un poco más.
+ 
+ 
+ Pero como ha ya seis años
+ 
+ 
+ que te vengo a vesitar,
+ 
+  
+ es fuerza que esté cansado
+ 
+ 
+ un amor de tanta edad.
+ 
+ 
+ Tú quieres tan apretado
+ 
+ 
+ que harás mal si no la das
+ 
+ 
+ ensanchas para que no
+ 
+  
+ reviente tu voluntad. 
+ 
+ 
+ Si muy de mañana vengo
+ 
+ 
+ tus ojos a idolatrar,
+ 
+ 
+ dices: «Señor don Clemente,
+ 
+ 
+ ¿tan temprano por acá?
+ 
+  
+ Poco te estima esa dama, 
+ 
+ pues que te hace levantar
+ 
+ 
+ a las seis de la mañana»,
+ 
+ 
+ aunque sean las diez y más.
+ 
+ 
+ Si entro a mediodía, dices
+ 
+  
+ que para todo hay lugar:
+ 
+ 
+ los medios días aquí,
+ 
+ 
+ las medias noches allá.
+ 
+ 
+ Si hablo recio, me replicas:
+ 
+ «Repare que hay vecindad,
+ 
+  
+ y aquí no es como en las casas    
+ 
+ donde no hay que reparar».
+ 
+ 
+ Si estoy triste, a media risa
+ 
+ 
+ me dices con falsedad:
+ 
+ «¿Tiene esa dama visita?
+ 
+  
+ Paciencia, luego se irá». 
+ 
+ Si ceno contigo, y traigo
+ 
+ 
+ tanta gana de cenar
+ 
+ 
+ que ceno aprisa, me dices:
+ 
+ «Come aspacio, que tiempo hay».
+ 
+  
+ Si como poco tal vez 
+ 
+ 
+  -que siempre esta vez es tal-,
+ 
+ 
+ dices: «Los enamorados
+ 
+ 
+ nunca suelen comer más».
+ 
+ 
+Si te traigo algún regalo,
+ 
+  
+ es lo que ha sobrado allá; 
+ 
+ y si no le traigo, dices:
+ 
+ «Somos tres, no hay que espantar».
+ 
+ 
+ Si suspiro, dices: «¡Fuego!»
+ 
+ 
+ Dices, si quiero cantar:
+ 
+  «Espanta tus males, hijo».
+ 
+ 
+ Si me voy: «¿Es hora ya?»
+ 
+ 
+ Mujer honrada, ¿qué quieres
+ 
+ 
+ de mí? ¿No me dejarás
+ 
+ 
+ que yo te vaya queriendo
+ 
+  
+ a mi paso natural?  
+ 
+ 
+ HIPÓLITA 
+  
+Yo bien quisiera templarme,
+ 
+ 
+ mas no me puedo templar.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿No me darás unos celos?
+ 
+ 
+ 
+ HIPÓLITA 
+  Muy fácil cosa será;
+ 
+  
+ pero, sobre tanto, es 
+ 
+ 
+ añadirme otro pesar:
+ 
+ 
+ que la mujer que picada
+ 
+ 
+ solicita otro galán,
+ 
+ 
+ por vengarse de su amante,
+ 
+  
+ se venga de sí no más. 
+ 
+ 
+ CLEMENTE 
+ Dicen bien, pero procura...
+ 
+ 
+ (Sale CARTILLA.) 
+ 
+ CARTILLA 
+ 
+   Tu padre te envía a llamar.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Qué
+ me quiere?
+ 
+ 
+ 
+ CARTILLA 
+ ¿Qué sé yo?
+ 
+ 
+ 
+ HIPÓLITA 
+  Váyase, que aguardará
+ 
+  
+ la dichosa que le goza, 
+ 
+ y después no habrá lugar.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Lleve el diablo la dichosa.
+ 
+ 
+ 
+ CARTILLA 
+ Y lléveme Barrabás
+ 
+ 
+ si su padre no le busca.
+ 
+ 
+ 
+ HIPÓLITA 
+   Picaño, sí
+ llevará. 
+ 
+ 
+ Vos sois quien...
+ 
+ 
+ 
+ CARTILLA 
+ Yo soy, señora,
+ 
+ 
+ un criado principal,
+ 
+ 
+ y yo no voy con mi amo
+ 
+ 
+ a esas andanzas jamás.
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿Pues se va solo tu amo?
+ 
+ 
+ 
+ CLEMENTE 
+  Mujer, ¿quiéresme dejar?
+ 
+ 
+ ¿Que se usen obligaciones?
+ 
+ 
+ 
+ HIPÓLITA 
+  Pues mira: aquí te has de estar,
+ 
+ 
+ o ha de ir contigo Andreílla
+ 
+  
+ a ver si a tu casa vas. 
+ 
+ 
+ 
+ CLEMENTE 
+  Aquí
+ he de estarme contigo.
+ 
+ 
+ Ya no me voy.
+ 
+ 
+ 
+ CARTILLA 
+ Hará mal.
+ 
+ 
+ (Aparte.)  
+ (Quiero ver si hablarle puedo.
+ 
+ 
+ 
+ Yo me llego.)   
+ 
+ 
+ (Va a llegarse a su amo.) 
+ 
+ 
+ HIPÓLITA 
+ ¿Adónde vais,
+ 
+  
+ alcahuete del señor  
+ 
+ don Clemente?
+ 
+ 
+ 
+ CARTILLA 
+ 
+ (Aparte.)    
+(Escribo mal. 
+ 
+ 
+ Doña Clara se ha mudado,
+ 
+ 
+ y a mí me importa avisar
+ 
+ 
+ que luego la vaya a ver,
+ 
+ 
+ que hay tiempo.)
+ 
+ 
+ 
+ CLEMENTE 
+   
+Porfiada estás.    
+ 
+ 
+ CARTILLA 
+ 
+ (Aparte, y tose.)  (De esta manera ha de ser.)   
+ 
+ 
+ HIPÓLITA 
+  ¿Qué
+ es esto, alcahuete? ¿Estáis
+ 
+ 
+ acatarrado o es seña?
+ 
+ 
+ Ea, ¿qué toséis? Hablad.
+ 
+ 
+ 
+ CLEMENTE 
+   ¿No es cosa estraña la tuya? 
+ 
+ ¡Que aun no pueda un hombre estar
+ 
+ 
+ acatarrado!
+ 
+ 
+ 
+ HIPÓLITA 
+ Más clara
+ 
+ 
+ tenéis la voz que Florián,
+ 
+ 
+ y os fingís malo del pecho.
+ 
+ 
+ 
+ CARTILLA 
+  
+ (Aparte.)   
+(Por Dios que le he de avisar 
+ 
+ que doña Clara le espera,
+ 
+ 
+ contando mi enfermedad.)
+ 
+ 
+ Señora, escúchame: Clara   
+ 
+ 
+ 
+ tengo la voz es verdad;
+ 
+  
+ espera y te contaré 
+ 
+ 
+ mi catarro de pe a pa.
+ 
+ 
+ Vamos presto al cómo fue:
+ 
+ 
+ señora mía, sabrás
+ 
+ 
+ que se ha mudado a otra casa
+ 
+  
+ mi comer y mi cenar.  
+ 
+ Como mi amo no da vino
+ 
+ 
+ y es agua cuanto me da,
+ 
+ 
+ en la calle de las Huertas 
+ 
+ vive uno y otro cuajar.
+ 
+  
+ El cuarto bajo es muy bueno;
+   
+ 
+ mas como tiene humedad,
+ 
+ 
+ me hace mal al pecho lo que
+ 
+ 
+ a la garganta no hará.
+ 
+ 
+ Clara está aguardando a ver   
+ 
+ 
+  
+ si tú quieres esterar 
+ 
+ 
+ a mi estómago, que es
+ 
+ 
+ todo el cuarto principal.
+ 
+ 
+ Clara espera, Clara aguarda,
+ 
+ 
+ clara mi garganta está,
+ 
+  
+ y si tú quieres que, clara,
+ 
+ 
+ no se venga a acatarrar,
+ 
+ 
+ remedia esta tos que tengo
+ 
+ 
+ pues te hablo con claridad.
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿No sabes qué he reparado?
+ 
+  
+ Que en diez palabras no más 
+ 
+ habéis dicho treinta «Claras».
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Yo apuesto que digas ya
+ 
+ 
+ que me habla de alguna Clara.
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+No te quiero violentar.
+ 
+  
+ Ve a saber lo que tu padre
+ 
+ 
+ quiere. ¿Cuándo volverás?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ A las diez.
+ 
+ 
+ 
+ HIPÓLITA 
+  
+Tomo a las doce.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Quieres que te quiera más?
+ 
+ 
+ 
+ HIPÓLITA 
+ Sí.
+ 
+ 
+ 
+ CLEMENTE 
+ Pues déjame quererte.
+ 
+ 
+ 
+ HIPÓLITA 
+ Yo voy fuera.
+ 
+ 
+ 
+ CLEMENTE 
+   ¿Adónde irás?   
+ 
+ 
+ HIPÓLITA 
+  
+Al Prado, que hoy tengo un coche.
+ 
+ 
+ 
+ CLEMENTE 
+  Eso sí, salte a espaciar.
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿No preguntas quién me ha dado
+ 
+ 
+ el coche?
+ 
+ 
+ 
+ CLEMENTE 
+  Sé
+ tu lealtad.
+ 
+ 
+ 
+ HIPÓLITA 
+   
+Y si no te pido celos,  
+ 
+ ¿es cierto que me querrás?
+ 
+ 
+ 
+ CLEMENTE 
+  
+Hoy te quiero, con pedirlos.
+ 
+ 
+ 
+ HIPÓLITA 
+  Pues de hoy más no te he de hablar
+ 
+ 
+ más en mis celos, Clemente.
+ 
+ 
+ 
+ CLEMENTE 
+  Con eso me obligarás.
+ 
+ 
+ 
+ HIPÓLITA 
+ Veamos cómo obras conmigo.
+ 
+ 
+ 
+ CLEMENTE 
+ Tendré
+ amor y tendrás paz.
+ 
+ 
+ 
+ HIPÓLITA 
+ De hierro seré en sufrirte.
+ 
+ 
+ 
+ CLEMENTE 
+ Yo te atraeré
+ como imán.
+ 
+ 
+ 
+ 
+HIPÓLITA 
+   
+Otra mujer has de verme. 
+ 
+ 
+ CLEMENTE 
+  Así
+ me aprisionarás.
+ 
+ 
+ 
+ HIPÓLITA 
+  
+Pues ve a ver esa señora,
+ 
+ 
+ y vuélvete luego.   
+ 
+ 
+ (Vase.) 
+ 
+ CARTILLA 
+ ¡Zas!
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Qué
+ me quiere esta mujer,
+ 
+ 
+ Cartilla amigo?
+ 
+ 
+ 
+ CARTILLA 
+    Querrá... 
+ 
+ Sal presto de la antesala.
+ 
+ 
+ 
+ (Van andando.) 
+ 
+ CLEMENTE 
+ Ya estamos en el zaguán,
+ 
+ 
+ y ya en la calle.
+ 
+ 
+ 
+ CARTILLA 
+ Volvamos
+ 
+ 
+ la esquina, que llamará.
+ 
+ 
+ 
+ CLEMENTE 
+  
+ ¿No creerás que abuchornado
+ 
+ 
+ salgo?
+ 
+ 
+ 
+ 
+CARTILLA 
+ Señor, tú haces mal:
+ 
+ 
+ estas damas del zapato
+ 
+ 
+ alpargatado jemal,
+ 
+ 
+ no tenerlas, o tenerlas
+ 
+  
+ para descansar no más.
+ 
+ 
+ 
+ CLEMENTE 
+ Yo la tengo obligación:
+ 
+ 
+ en mi prisión no vi entrar
+ 
+ 
+ otro amigo ni pariente.
+ 
+ 
+ Dime: en una enfermedad,
+ 
+  
+ que no me asistió mi padre,  
+ 
+ ¿gastose solo un real
+ 
+ 
+ que ella no enviase, fuera
+ 
+ 
+ de asistirme?
+ 
+ 
+ 
+ CARTILLA 
+ 
+Así
+ es verdad.
+ 
+ 
+ Y desde esta calle  -que es
+ 
+  
+ la calle del Carmen-  va
+ 
+ 
+ a la cárcel, si estás preso;
+ 
+ 
+ si retraído, a San Blas.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ En fin, ¿se mudó mi Clara?
+ 
+ 
+ 
+ CARTILLA 
+  Faltábala de cursar
+ 
+  
+ de la calle de las Huertas 
+ 
+ la docta universidad.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Sabes por qué se ha mudado?
+ 
+ 
+ 
+ CARTILLA 
+ Persíguela un don Julián
+ 
+ 
+ de Bocanegra.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Qué dices? 
+ 
+ 
+ CARTILLA 
+  Aquel que en 
+la Trinidad
+ 
+ 
+ te dio el domingo pasado
+ 
+ 
+ el grande chasco de hablar.
+ 
+ 
+ 
+ CLEMENTE 
+  Porque dije que hacía versos,
+ 
+ 
+ me dio con un madrigal
+ 
+  
+ de mil versos; porque hablé
+ 
+ 
+ de toros, habló en torear
+ 
+ 
+ tanto que me dio en la nuca
+ 
+ 
+ de no quererle oír más.
+ 
+ 
+ 
+ CARTILLA 
+ Él habla a turbiones. Pasa
+ 
+  
+ ese arroyo pian, pian, 
+ 
+ que de Puerta del Sol
+ 
+ 
+ es el verdinegro mar.
+ 
+ 
+ ¿Que aquí ponga el sol su puerta,
+ 
+ 
+ siendo tan limpio?
+ 
+ 
+ 
+ CLEMENTE 
+ Ahí verás.
+ 
+ 
+ 
+ CARTILLA 
+  Y por gran novedad suele
+ 
+ 
+ decir la gente vulgar
+ 
+ 
+ que adonde no está muy limpio
+ 
+ 
+ es adonde el sol no da.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Esta es 
+la Carrera, andemos.
+ 
+ 
+ (Van andando.) 
+ 
+ CARTILLA 
+  Y mi calle, voto a san... 
+ 
+ 
+ CLEMENTE 
+ ¿Por qué?
+ 
+ 
+ 
+ CARTILLA 
+  
+Porque cuando riño,
+ 
+ 
+ aquí vengo yo a parar.
+ 
+ 
+ 
+ CLEMENTE 
+ Oyes: ¿el cuarto de Clara
+ 
+ 
+ es bueno?
+ 
+ 
+ 
+ CARTILLA 
+  
+Cuarto será
+ 
+  
+ de cien ducados, y es bajo. 
+ 
+ 
+ CLEMENTE 
+ Y dime tú: ¿quién habrá
+ 
+ 
+ pagádola el medio año?
+ 
+ 
+ 
+ CARTILLA 
+  ¡Par Dios, linda necedad!
+ 
+ 
+ Como no le pagues tú,
+ 
+  
+ mas que le pague el soldán. 
+ 
+ Tú eres el del gusto agora.
+ 
+ 
+   No vayas a preguntar
+ 
+ 
+ 
+  quién le ha pagado o quién no,
+ 
+ 
+ porque te responderán
+ 
+  
+ que no le han pagado, y luego    
+ 
+ te le harán a ti pagar.
+ 
+ 
+ 
+ CLEMENTE 
+  Particular afición
+ 
+ 
+ debo a doña Clara ya.
+ 
+ 
+ 
+ CARTILLA 
+  ¡Oh! 
+La Clarilla es mujer
+ 
+  
+ de mucho particular.
+ 
+ 
+ 
+ CLEMENTE 
+  
+Esta es la calle del Lobo.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ 
+Desde que te sirvo, ha
+ 
+ 
+ que no he tomado esta calle.
+ 
+ 
+ 
+ CLEMENTE 
+ No ha habido necesidad.
+ 
+ 
+ 
+ CARTILLA 
+   Antes, si yo no 
+la tomo, 
+ 
+ ha sido porque la hay. 
+ 
+ 
+ CLEMENTE 
+ ¿Son esos los trucos?
+ 
+ 
+ 
+ CARTILLA 
+  Sí,
+ 
+ 
+ donde indio que entra a jugar
+ 
+ 
+ con el mozo de los trucos
+ 
+  
+ y otros leoneros que hay,
+ 
+ 
+ aunque armados de mil conchas,
+ 
+ 
+ entre en guerra, sale en paz.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿En qué
+ parte de la calle
+ 
+ 
+ es la casa?
+ 
+ 
+ 
+ CARTILLA 
+   Es más allá
+ 
+  
+ de la casa de dos puertas
+ 
+ 
+ cuatro casas.
+ 
+ 
+ 
+ CLEMENTE 
+   Cerca está
+ 
+ 
+ de la casa de Beatriz,
+ 
+ 
+ la que se quiso casar
+ 
+ 
+ conmigo, y me puso pleito.
+ 
+ 
+ 
+ CARTILLA 
+   
+Y no fue de nulidad.  
+ 
+ Pues en esa misma casa
+ 
+ 
+ vive Clara. ¿Importará
+ 
+ 
+ para que tú puedas ir
+ 
+ 
+ a verla?
+ 
+ 
+ 
+ CLEMENTE 
+  Ha un año que está
+ 
+  
+ en un convento, y yo tengo 
+ 
+ de uno y otro tribunal,
+ 
+ 
+ del señor nuncio y vicario,
+ 
+ 
+ dos autos conformes ya.
+ 
+ 
+ Y agora ha apelado a Roma.
+ 
+ 
+ 
+ CARTILLA 
+  
+Luego a Rota apelará. 
+ 
+ 
+ CLEMENTE 
+  
+Estese ella en el convento,
+ 
+ 
+ y ande el pleito.
+ 
+ 
+ 
+ CARTILLA 
+   
+ Dado has
+ 
+ 
+ con todo en tierra.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+¿Qué dices?
+ 
+ 
+ 
+ CARTILLA 
+  
+Que es el diablo don Julián.
+ 
+ 
+ 
+ CLEMENTE 
+   Volvámonos, que ha de vernos.
+ 
+ 
+ Anda apriesa.
+ 
+ 
+ (Vuelven la cara.) 
+ 
+ CARTILLA 
+ 
+   
+   No hay andar,
+ 
+ 
+ que nos ha visto y se viene
+ 
+ 
+ tras nosotros.
+ 
+ 
+ 
+ CLEMENTE 
+ Di: ¿qué hará
+ 
+ 
+ en esta esquina?
+ 
+ 
+ 
+ CARTILLA 
+ A estos barrios
+ 
+  
+ habrá venido no más.  
+ 
+ 
+ CLEMENTE 
+ Anda apriesa, anda.
+ 
+ 
+ 
+ (Sale DON JULIÁN.) 
+ 
+ 
+JULIÁN 
+ ¡Ah señor
+ 
+ 
+ don Clemente!
+ 
+ 
+ 
+ CARTILLA 
+  Oír y andar.
+ 
+ 
+ 
+ JULIÁN 
+ ¡Ah don Clemente!
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Quién llama?
+ 
+ 
+ 
+ JULIÁN 
+ Yo soy.
+ 
+ 
+ 
+ CLEMENTE 
+  ¡Señor don Julián!
+ 
+ 
+ 
+ JULIÁN 
+ ¡Amigo!
+ 
+ 
+ 
+ CLEMENTE 
+  
+  
+ Soylo muy vuestro.    
+ 
+ 
+ JULIÁN 
+  Abrazadme. ¿Cómo estáis?   
+ (Abrázale.) 
+ 
+ 
+ CARTILLA 
+  (Aún no le ha hablado dos veces,
+ 
+ 
+ y ya le quiere abrazar.)
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Qué hacéis en aquestos barrios?
+ 
+ 
+ 
+ JULIÁN 
+  
+ 
+Sabed que he visto pasar 
+ 
+ un carro lleno de ropa
+ 
+ 
+ de doña Clara Guzmán,
+ 
+ 
+ una dama a quien estimo,
+ 
+ 
+ y ella no me quiere mal,
+ 
+  
+ y sobre unos celos míos, 
+ 
+ por hacerme este pesar,
+ 
+ 
+ trataría de mudarse.
+ 
+ 
+ Pues hallé junto al corral
+ 
+ 
+ de las comedias un corro
+ 
+  
+ de amigos, púseme a hablar, 
+ 
+ y háseme perdido el carro
+ 
+ 
+ en la esquina.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ (Aparte.)  (Si es verdad  
+ 
+ que le quiere doña Clara,
+ 
+ 
+ hoy mi venganza verá.
+ 
+  
+ ¡Clara a don Julián estima!) 
+ 
+ ¿Pues agora qué aguardáis
+ 
+ 
+ si se ha desaparecido
+ 
+ 
+ el carro?
+ 
+ 
+ 
+ JULIÁN 
+  
+  Que ha de pasar
+ 
+ 
+ cuando vuelva de vacío,
+ 
+  
+ y cualquiera ganapán 
+ 
+ 
+ de los que mudan la ropa
+ 
+ 
+ dónde vive me dirá.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Si no es suyo carro y ropa?
+ 
+ 
+ 
+ JULIÁN 
+ Yo bien puedo asegurar
+ 
+  
+ que vi un estrado y alfombra, 
+ 
+ sin seis sillas de nogal
+ 
+ 
+ y vaqueta de Moscovia,
+ 
+ 
+ que, hecha la cuenta, me están
+ 
+ 
+ en tres mil reales de plata,
+ 
+  
+ que en vellón son cuatro y más.   
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ¿Quiéreos mucho la tal Clara?
+ 
+ 
+ 
+ JULIÁN 
+  
+Damas de esta calidad,
+ 
+ 
+ del capricho y del buen gusto,
+ 
+ 
+ nunca quieren al que da.
+ 
+ 
+ 
+ CLEMENTE 
+  (Mucho el sacalle
+ me importa 
+ 
+ de esta calle.)
+ 
+ 
+ 
+ JULIÁN 
+ ¿Y dónde vais
+ 
+ 
+ por estos barrios?
+ 
+ 
+ 
+ CLEMENTE 
+   
+Yo voy
+ 
+ 
+ al mentidero a ensayar
+ 
+ 
+ una comedia que ha escrito
+ 
+ 
+ un amigo.
+ 
+ 
+ 
+ JULIÁN 
+  Voy allá, 
+ 
+ 
+ que en mi vida he visto ensayo.
+ 
+ 
+ 
+ CLEMENTE 
+ Venid conmigo.
+ 
+ 
+ 
+ JULIÁN 
+ Guiad.
+ 
+ 
+ (Van andando.) 
+ 
+ 
+CARTILLA 
+ 
+ (Aparte.)   (Ya le sacó
+ de la calle  
+ 
+ 
+ mi amo. Mucho importará
+ 
+  
+ que este hombre nos deje luego.    
+ 
+ ¿Cómo le podré engañar?
+ 
+ 
+ El carro vuelve vacío;
+ 
+ 
+ no le podrá ver pasar
+ 
+ 
+ si me pongo de esta suerte.) 
+ 
+ 
+  
+ (Pónesele delante.)  
+ Aprisa, que es tarde ya, 
+   
+ 
+ 
+ y empezarán el ensayo.
+ 
+ (Pasó el carro.) 
+ 
+ (Díceselo a su amo.) 
+ 
+ 
+ CLEMENTE 
+ 
+ (Aparte.)    
+(Bien está. 
+ 
+ 
+ ¿Qué haré para que me deje?)
+ 
+ 
+ 
+ 
+CARTILLA 
+  Ansí, vamos a cobrar
+ 
+  
+ los dos mil reales, señor. 
+ 
+ 
+ CLEMENTE 
+ ¿Qué hora es? 
+ 
+ 
+ CARTILLA 
+ Las once darán.
+ 
+ 
+ 
+ CLEMENTE 
+  
+Pues dejo el ensayo. Adiós,
+ 
+ 
+ amigo mío.
+ 
+ 
+ 
+ JULIÁN 
+ Aguardad,
+ 
+ 
+ que yo iré con vos.
+ 
+ 
+ 
+ CLEMENTE 
+   
+ Es lejos.
+ 
+ 
+ 
+ JULIÁN 
+   ¿Pues qué
+ tan lejos será? 
+ 
+ 
+ CLEMENTE 
+  Es junto al rastro.
+ 
+ 
+ 
+ JULIÁN 
+ Yo tengo
+ 
+ 
+ un poco que hacer allá.
+ 
+ 
+ 
+ CLEMENTE 
+  
+Vamos por unos dineros.
+ 
+ 
+ 
+ CARTILLA 
+  
+Pues, por Dios, que real a real
+ 
+  
+ he de contar los dos mil,
+ 
+ 
+ (Aparte.)  
+ (De esta manera se irá.)   
+ 
+ No he de tomallos a peso.
+ 
+ 
+ 
+ JULIÁN 
+  Yo te ayudaré
+ a contar.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ 
+   (Aparte.)   (¡Ya escampa!) 
+ 
+ 
+ CLEMENTE 
+ 
+ 
+  (Aparte.)  
+  (¡Cielos! ¿Qué haré?) 
+ 
+ 
+ CARTILLA 
+  
+ Y de paso comprarás 
+ 
+ 
+ las treinta arrobas de lana.
+ 
+ 
+ 
+ JULIÁN 
+ Ansí a mí
+ me las darán
+ 
+ 
+ cuatro reales por arroba
+ 
+ 
+ menos que a otro.
+ 
+ 
+ 
+ CLEMENTE 
+ (¿Hay tal porfiar?) 
+ 
+  
+ Ansí, vamos al entierro
+ 
+ 
+ de don Carlos a San Juan
+ 
+ 
+  -que para ir por el dinero
+ 
+ 
+ a la tarde habrá lugar-,
+ 
+ 
+ que debo mucho a su casa.
+ 
+  
+ (Aparte.)  
+ (Con esto se quedará.)   
+ 
+ 
+ JULIÁN 
+ 
+¿A entierro vais?
+ 
+ 
+ 
+ CLEMENTE 
+ Es forzoso.
+ 
+ 
+ 
+ JULIÁN 
+ ¿Hay misa?
+ 
+ 
+ 
+ CLEMENTE 
+  
+  Y sermón habrá.
+ 
+ 
+ 
+ JULIÁN 
+ Pues adiós, que me congojo
+ 
+ 
+ de entierros.
+ 
+ 
+ 
+ 
+CARTILLA 
+ 
+ (Aparte.)  (Él se va.)  
+ 
+ 
+ CLEMENTE 
+  Era grande amigo mío
+ 
+ 
+ el muerto.
+ 
+ 
+ 
+ JULIÁN 
+  ¡Oh! Si hay amistad
+ 
+ 
+ tan grande, solo por vos
+ 
+ 
+ me iré con él a enterrar.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ (Aparte.)  (Enterrado te vea yo.) 
+ 
+ 
+ 
+ 
+ JULIÁN 
+  
+ (Aparte.)   
+(Estos me quieren dejar;   
+ 
+ pues yo quiero despedirme
+ 
+ 
+ y seguirlos.)
+ 
+ 
+ 
+ 
+CARTILLA 
+ 
+ [A DON CLEMENTE.]    
+(Di que vas   
+ 
+ a confesarte.)
+ 
+ 
+ 
+ JULIÁN 
+ ¿Oís, amigo?
+ 
+ 
+ Yo me llego aquí al corral
+ 
+  
+ a buscar un banco, que hoy 
+ 
+ hay comedia nueva.
+ 
+ 
+ 
+ CLEMENTE 
+ Andad.
+ 
+ 
+ A la tarde nos veremos.
+ 
+ 
+ 
+ JULIÁN 
+ Si no hay banco, iré al desván,
+ 
+ 
+ que allí es el sitio mejor
+ 
+  
+ para poder mormurar. 
+ 
+ Adiós, amigo.
+ 
+ 
+ 
+ CLEMENTE 
+ Él os guarde.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ (Aparte.)  (Seguirelos.) 
+   
+ 
+ 
+ 
+ 
+CARTILLA   
+ 
+ (Ya se va.)
+ 
+ 
+ 
+ JULIÁN 
+ 
+ (Aparte.)   (Veré por qué no querían  
+ 
+ que los siguiese.)
+ 
+ 
+ 
+ CARTILLA 
+   
+   He de andar
+ 
+  
+ hasta perdelle de vista, 
+ 
+ si importa, todo el lugar.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ (Aparte.)   (Tras de él he de ir, aunque vaya
+ 
+ 
+ 
+ hasta la Cruz de Morán.)
+ 
+ 
+ 
+ CLEMENTE 
+ 
+  [A CARTILLA.]  
+ 
+(Ten cuidado no nos siga.)  
+ 
+ 
+ 
+    
+ JULIÁN 
+ Adiós.
+ 
+ 
+ 
+   CLEMENTE 
+  Adiós, don Julián.
+ 
+ 
+ (Vanse.) 
+ (Sale DOÑA CLARA, y MARICHISPA,
+ criada.) 
+ 
+ CLARA 
+ 
+¿Marichispa?
+ 
+ 
+ 
+ MARICHISPA 
+   
+Mi señora.
+ 
+ 
+ 
+ CLARA 
+ Recado para lavar.
+ 
+ 
+ 
+ 
+MARICHISPA 
+  
+Deja primero mudar
+ 
+ 
+ todos los trastos ahora.
+ 
+ 
+ 
+ CLARA 
+ Dame la arquilla.
+ 
+ 
+ 
+ 
+MARICHISPA 
+    
+ Repara 
+ 
+ que aún queda mucho que hacer.
+ 
+ 
+ Múdate.
+ 
+ 
+ 
+ CLARA 
+ Yo he menester
+ 
+ 
+ mudar primero la cara.
+ 
+ 
+Ea, quiérome lavar,
+ 
+  
+ que tengo el rostro perdido 
+ 
+ del gran polvo.
+ 
+ 
+ 
+ MARICHISPA 
+ Aún no han traído
+ 
+ 
+ la botica de tocar.
+ 
+ 
+ 
+ CLARA 
+ Tarde es.
+ 
+ 
+ 
+ 
+MARICHISPA 
+   
+¿Dormiste tan bien
+ 
+ 
+ como en la otra casa?
+ 
+ 
+ 
+ CLARA 
+  Error:
+ 
+  
+ yo solo me hallo mejor 
+ 
+ cuando me mudo.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+   
+Haces bien.
+ 
+ 
+ 
+ CLARA 
+ Poquísima gente pasa
+ 
+ 
+ por esta calle.
+ 
+ 
+ 
+ 
+MARICHISPA 
+ ¿En qué has dado?
+ 
+ 
+ Oyes: ¿tienes ya pagado
+ 
+  
+ el dinero de la casa? 
+ 
+ 
+ 
+ CLARA 
+ 
+Don Sebastián me envió ayer
+ 
+ 
+ los cincuenta del medio año.
+ 
+ 
+ 
+ MARICHISPA 
+ Capricho tienes estraño.
+ 
+ 
+ Dime: ¿cuántos han de ser
+ 
+  
+los que admite tu afición?
+ 
+ 
+ Dime la verdad, señora.
+ 
+ 
+ 
+ CLARA 
+ Cuatro son no más agora
+ 
+ 
+ los que asisten.
+ 
+ 
+ 
+ 
+MARICHISPA 
+   
+Pocos son.
+ 
+ 
+Que tú sepas entenderte
+ 
+  
+ con cuatro es lo que yo estraño.    
+ 
+ 
+ CLARA 
+  
+Pues ves: a ninguno engaño.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+ ¿De qué
+ modo?
+ 
+ 
+ 
+ CLARA 
+   
+De esta suerte:
+ 
+ 
+Muchos son, amiga mía,
+ 
+ 
+ los piratas y cosarios
+ 
+  
+ que en corso de mi belleza 
+ 
+ surcan el golfo del Prado.
+ 
+ 
+ Apenas del puerto mío
+ 
+ 
+ las dos áncoras levanto
+ 
+ 
+ y la nao de mi hermosura
+ 
+  
+ se pone vergas en alto, 
+ 
+ cuando cercando mi coche,
+ 
+ 
+ que es mi nave, a un tiempo hallo
+ 
+ 
+ que hacen señal que me rinda
+ 
+ 
+ las naves de «Pie de Palo».
+ 
+  
+ Las naves de España allí 
+ 
+ disparan por el costado
+ 
+ 
+ versos que me dan asombro
+ 
+ 
+ y no me dan sobresalto.
+ 
+ 
+ Mas como saben que soy
+ 
+  
+ nave zorrera, disparo  
+ 
+ un pido, con que echo a fondo
+ 
+ 
+ a un tiempo todas las naos.
+ 
+ 
+ Y si algún navío rindo,
+ 
+ 
+ me le llevo remolcando
+ 
+  
+ a la isla Confitería  
+ 
+ en el golfo de Leplanto.
+ 
+ 
+ Si algún cosario perdido,
+ 
+ 
+ de aquellos que yo he robado,
+ 
+ 
+ se quiere abrigar conmigo,
+ 
+  
+ de mi bandera le aparto; 
+ 
+ que el grande golfo de Abido
+ 
+ 
+ solo es para los Leandros.
+ 
+ 
+ Si algún bergantín encuentro
+ 
+ 
+ de bergantes y taimados,
+ 
+  
+ que a vela y remo procuran 
+ 
+ darme caza, me adelanto
+ 
+ 
+ hacia la playa Viteli,
+ 
+ 
+ adonde al piloto llamo,
+ 
+ 
+ y digo: «¿Hay bajos aquí?
+ 
+  
+ ¿Surgiré en este playazo?» 
+ «Bajos hay -responden luego-,
+ 
+ 
+ pero como estos cosarios
+ 
+ 
+ no pueden sondar la playa,
+ 
+ 
+ peligran luego en los bajos».
+ 
+ 
+ Si llego...
+ 
+ 
+ 
+ 
+MARICHISPA 
+  Deja, señora, 
+ 
+ las metáforas, y vamos
+ 
+ 
+ a ver quién es de tu gusto
+ 
+ 
+ el más decente cuidado.
+ 
+ 
+ ¿Quieres a señores?
+ 
+ 
+ 
+ CLARA 
+ Sí.
+ 
+  
+ Pero yo los he cobrado
+ 
+ 
+ un miedo como un amor.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+ 
+Si son de un mesmo tamaño,
+ 
+ 
+ poco miedo los tendrás.
+ 
+ 
+ Mas di: ¿un señor no honra un barrio?,
+ 
+  
+ ¿no regala de contino?, 
+ 
+ ¿no quiere de cuando en cuando?
+ 
+ 
+ Y los señores que quieren
+ 
+ 
+ ¿no son fieles en amarnos?
+ 
+ 
+ 
+ CLARA 
+  
+Mira: como son tan fieles,
+ 
+  
+ entienden los pesos falsos. 
+ 
+ Acá con mis escuderos 
+ 
+ 
+ me entiendo, con mis hidalgos
+ 
+ 
+ me haga Dios bien; que a estos puedo
+ 
+ 
+ poner, al menor enfado,
+ 
+  
+ de paticas en la calle, 
+ 
+ si no se están en el patio. 
+ 
+ 
+ 
+ 
+MARICHISPA 
+  ¿Quién son estos que hoy admites?
+ 
+ 
+ 
+ CLARA 
+ Ya te he dicho que son cuatro.
+ 
+ 
+ Llamo a los cuatro estos nombres...
+ 
+ 
+ 
+ 
+MARICHISPA 
+  Dilos.
+ 
+ 
+ 
+ CLARA 
+  
+  
+ Son nombres estraños: 
+ 
+ Cisneris, Cominarata,
+ 
+ 
+ Cis y Chapetón Barbado.
+ 
+ 
+ Cisneris llamo al del gusto;
+ 
+ 
+ este es a quien quiero y amo,
+ 
+  
+ que es un hijo de familias, 
+ 
+ don Clemente de Montalvo.
+ 
+ 
+ Aquel que gasta conmigo
+ 
+ 
+ tanto en plata como en cuartos
+ 
+ 
+ Cominarata es; un hombre
+ 
+  
+ que, cuando busco prestado
+ 
+ 
+ sobre prenda, lo trae luego,
+ 
+ 
+ y en dos pleitos que ahora traigo
+ 
+ 
+ es mi agente, y aun me busca
+ 
+ 
+ casa si mudarme trato.
+ 
+  
+ Para esto tengo un Francisco 
+ 
+ de Pantoja, un hombre honrado,
+ 
+ 
+ que en Talavera no habrá
+ 
+ 
+ hombre de tan lindo barro.
+ 
+ 
+ Cis, mi tercero galán,
+ 
+  
+ llamo al galán de mi gasto,
+ 
+ 
+ que en cuartos me contribuye
+ 
+ 
+ estipendio cuotidiano.
+ 
+ 
+ Este es  -ya tú le conoces- 
+ 
+ 
+ cierto regidor de Almagro,
+ 
+  
+ Juan Martínez de Caniego,
+ 
+ 
+ con quien agora afianzo
+ 
+ 
+ mi comida, porque este es
+ 
+ 
+ lego, llano y abonado.
+ 
+ 
+ Tengo una persona grave,
+ 
+  
+ pretendiente y espetado,
+ 
+ 
+ que paga la casa y presta
+ 
+ 
+ el coche de cuando en cuando;
+ 
+ 
+ que se deja ver por meses
+ 
+ 
+ y me regala por años.
+ 
+  
+ Y este que no llamo nunca
+ 
+ 
+ llamo Chapetón Barbado.
+ 
+ 
+ Sin otros amantes muchos
+ 
+ 
+ que, si llegan al reclamo
+ 
+ 
+ de mi pico, astutamente
+ 
+  
+ les hago dar en el lazo:
+ 
+ 
+ verbi gratia, don Julián,
+ 
+ 
+ que anteayer me dio un estrado
+ 
+ 
+ y esas seis sillas que ves,
+ 
+ 
+ y desde anteayer le llamo
+ 
+  «el tonto de terciopelo»,
+ 
+ 
+ sobre ser tonto aforrado
+ 
+ 
+ en vaqueta de Moscovia.
+ 
+ 
+ 
+ MARICHISPA 
+ Y este regidor de Almagro
+ 
+ 
+ ¿cuánto te da cada día?
+ 
+ 
+ 
+ CLARA 
+   No me preguntes el cuánto. 
+ 
+ 
+ MARICHISPA 
+  A mí sé
+ que me da un pan.
+ 
+ 
+ 
+ CLARA 
+ 
+ Y a mí
+ me da un ordinario
+ 
+ 
+ que basta para el noturno
+ 
+ 
+ y meridiano pasto.
+ 
+ 
+ 
+ MARICHISPA 
+  ¿Quiéresle?
+ 
+ 
+ 
+ CLARA 
+  ¿No 
+ves que gasta?    
+ 
+ 
+ MARICHISPA 
+  Y de más a más ¿no da algo
+ 
+ 
+ como vestido y pollera,
+ 
+ 
+ siquiera una vez al año?
+ 
+ 
+ 
+ CLARA 
+  Él es la quintamiseria.
+ 
+ 
+ 
+ MARICHISPA 
+   
+Es verdad, y hoy me ha contado    
+ 
+ una ama que tiene en casa
+ 
+ 
+ que come un pastel de a cuarto
+ 
+ 
+ a mediodía, y de noche
+ 
+ 
+ un poco de pan tostado.
+ 
+  
+ No enciende luz en su casa;
+ 
+ 
+ antes, dice que a otro cuarto
+ 
+ 
+ de un vecino suyo ha hecho
+ 
+ 
+ agujero con un clavo,
+ 
+ 
+ y con sola la luz que entra
+ 
+  
+ por aquel sutil espacio,
+ 
+ 
+ hace todo cuanto es
+ 
+ 
+ en su casa necesario.
+ 
+ 
+ 
+ CLARA 
+  Él tiene muchos doblones.
+ 
+ 
+ 
+ MARICHISPA 
+  
+El ama los vio de paso,
+ 
+  
+ y dio por señas que estaban 
+ 
+ amarillos.
+ 
+ 
+ 
+ CLARA 
+ No me espanto,
+ 
+ 
+ que como no salen fuera,
+ 
+ 
+ deben de estar opilados.
+ 
+ 
+ 
+ MARICHISPA 
+ ¿Que admitas un miserable?
+ 
+ 
+ 
+ CLARA 
+  Mira, no estás en el caso:
+ 
+ 
+ mejor es un miserable
+ 
+ 
+ que tenga y no quiera darnos,
+ 
+ 
+ que no, aunque nos quiera dar,
+ 
+ 
+ quien no tiene, aunque sea franco;
+ 
+  
+ que aquel puede dar, si quiere,    
+ 
+ u de fino u de obligado,
+ 
+ 
+ y este, obligado ni fino,
+ 
+ 
+ no dará sin poder darlo.
+ 
+ 
+ Y comúnmente se dice
+ 
+  
+ que los hombres que son sanos    
+ 
+ mueren del primer achaque;
+ 
+ 
+ así, los que son cuitados
+ 
+ 
+ cuanto guardan de un ahorro
+ 
+ 
+ han de vomitar de un gasto.
+ 
+  
+ Déjame tú a mí, que yo...   
+ 
+ (Llaman a la puerta.)  
+ Pero a la puerta han llamado.
+ 
+ 
+ 
+ MARICHISPA 
+  ¿Quién es?
+ 
+ 
+ 
+ (Sale DON CLEMENTE.)
+ 
+ 
+ CLEMENTE 
+ 
+Yo soy.
+ 
+ 
+ 
+ CLARA 
+ ¿Don Clemente?
+ 
+ 
+ 
+ CLEMENTE 
+  ¡Doña Clara!
+ 
+ 
+ 
+ CLARA 
+ ¡Dueño amado!
+ 
+ 
+ Cierra esa puerta, Chispilla.   
+ 
+  
+ Llega, llégate a mis brazos.  
+ 
+ Dos días ha que no te veo,
+ 
+ 
+ dueño mío.
+ 
+ 
+ 
+ CLEMENTE 
+   
+Cierra el labio,
+ 
+ 
+ traidora, que ya encontró
+ 
+ 
+ mi sospecha con tu engaño.
+ 
+ 
+ 
+ CLARA 
+  ¿Qué dices?
+ 
+ 
+ 
+ CLEMENTE 
+   
+  Que don Julián,
+ 
+ 
+ ¡oh dueño mío tirano!,
+ 
+ 
+ es quien te cuesta más penas
+ 
+ 
+ que yo te debo cuidados;
+ 
+ 
+ es quien te merece fina,
+ 
+  
+ y el que agora me ha contado 
+ 
+ que por celos  -¿celos tienes?
+ 
+ 
+ ¿para cuándo, para cuándo
+ 
+ 
+ son las venganzas, si agora
+ 
+ 
+ en las quejas me embarazo?- 
+ 
+  
+ te mudaste. Di: ¿qué importa,    
+ 
+ dueño mío soberano,
+ 
+ 
+ si es don Julián tu elegido,
+ 
+ 
+ que yo sea tu llamado?
+ 
+ 
+ Ya sé que amando tus soles,
+ 
+  
+ cuyas luces idolatro,  
+ 
+ abogado de su pena,
+ 
+ 
+ dice su amor en estrados.
+ 
+ 
+ Tú le quieres y él lo dice.
+ 
+ 
+ 
+ CLARA 
+ Señor don Clemente, paso.
+ 
+  
+ ¿De cuándo acá vos celoso? 
+ 
+ ¿Vos de cuándo acá indignado
+ 
+ 
+ conmigo? Sabiendo vos
+ 
+ 
+ que en el amor de acá abajo
+ 
+ 
+ nunca puede pedir celos
+ 
+  
+ quien no los pide sobre algo. 
+ 
+ ¿Pobrecito y muy celoso?
+ 
+ 
+ ¿Vos pensáis que yo no valgo
+ 
+ 
+ más de aquello que yo os cuesto?
+ 
+ 
+ ¡Ah noramala! Templaos
+ 
+  
+ y, mirón de amor, tomad
+ 
+ 
+ lo que os dieren de barato.
+ 
+ 
+ Cuando estáis fino conmigo,
+ 
+ 
+ soléis decirme muy falso
+ 
+ «diosa mía». Si pensáis
+ 
+  
+ que soy diosa, es grande engaño;   
+ 
+ 
+ que animal soy racional
+ 
+ 
+ y yo como, visto y calzo.
+ 
+ 
+ ¿Traidora a mí, señor mío?
+ 
+ 
+ Pues ¿por qué no hacéis reparo
+ 
+  
+ que, en vez de haberos vendido,    
+ 
+ soy yo la que os he comprado?
+ 
+ 
+ Muy apriesa me celáis
+ 
+ 
+ y a espacio me amáis. Trocaldo:
+ 
+ 
+ queredme algo más apriesa,
+ 
+  
+ y celadme más a espacio. 
+ 
+ ¿Celos con gritillo? ¿Celos
+ 
+ 
+ al tono mismo del gasto?
+ 
+ 
+ ¿Ya echa por medio tan presto
+ 
+ 
+ quien ha de echar por un lado?
+ 
+  
+ No, mi señor don Clemente:
+ 
+ 
+ dejad los celos. Seamos
+ 
+ 
+ amigos como primero.
+ 
+ 
+ Un tiempo apacible y manso
+ 
+ 
+ yo os vi hacer que no mirabais;
+ 
+  
+ ya veis mucho, no veáis tanto   
+ 
+ 
+ si queréis.
+ 
+ 
+ 
+ CLEMENTE 
+ El arroyuelo
+ 
+ 
+ que desciende del peñasco
+ 
+ 
+ en fácil quiebra se estanca;
+ 
+ 
+ va poco a poco cobrando
+ 
+  
+ caudal de plata y, después
+ 
+ 
+ de seis auroras al plazo,
+ 
+ 
+ trincheras rompe de arena
+ 
+ 
+ y, cristalino soldado,
+ 
+ 
+ por el prado y por el monte
+ 
+  
+ lleva las flores a saco. 
+ 
+ Con tibias luces la luna
+ 
+ 
+ empieza, trémulo astro,
+ 
+ 
+ a escribir en la corona
+ 
+ 
+ del monte confuso el rayo;
+ 
+  
+ la estrella borró su luz;
+ 
+ 
+ crece luego, y crece tanto
+ 
+ 
+ que, celosa de las luces
+ 
+ 
+ de estrella vecina, al rasgo
+ 
+ 
+ lunar va dejando obscuros
+ 
+  
+ renglones que leyó claros.
+ 
+ 
+ Yo, a imitación de los dos,
+ 
+ 
+ te adoraba tan templado
+ 
+ 
+ que no pensé que tu amor
+ 
+ 
+ me costara un sobresalto.
+ 
+  
+ No había crecido mi amor; 
+ 
+ pero como voy cobrando,
+ 
+ 
+ como la luna, más luz,
+ 
+ 
+ borrar hoy he procurado
+ 
+ 
+ estos que en el cielo mío
+ 
+  
+ quieren parecer tus astros.
+ 
+ 
+ Y, como arroyo, mi amor
+ 
+ 
+ también se va despeñando,
+ 
+ 
+ porque le han dado caudal
+ 
+ 
+ las crecientes de mi llanto;
+ 
+  
+ que no quiere quien no tiene 
+ 
+ celos si hay en qué fundarlos,
+ 
+ 
+ ni se estrecharon dos almas
+ 
+ 
+ si no se asegura un lazo.
+ 
+ 
+ 
+ CLARA 
+  Don Julián, de quien recelas,
+ 
+  
+ no me debe un agasajo; 
+ 
+ antes, para despedirle,
+ 
+ 
+ le pedí para un estrado
+ 
+ -que este es para los que cansan
+ 
+ 
+ el ordinario despacho-,
+ 
+  
+ y él me le trujo anteayer. 
+ 
+ Hasta que, no habiendo hallado
+ 
+ 
+ modo para que me deje,
+ 
+ 
+ mudé casa y mudé barrio,
+ 
+ 
+ y aun temo que me halle aquí.
+ 
+ 
+ 
+ CLEMENTE 
+  
+Eso no te dé cuidado,  
+ 
+ que agora hacia Fuencarral
+ 
+ 
+ va siguiendo a mi criado,
+ 
+ 
+ y pienso que ha de llevarle
+ 
+ 
+ de Fuencarral a palacio.
+ 
+  
+ Yo me escondí en un zaguán.    
+ 
+ 
+ MARICHISPA 
+  Doña Beatriz de Bolaños,
+ 
+ 
+ que es la dueña de la casa,
+ 
+ 
+ baja a verte.
+ 
+ 
+ 
+ CLARA 
+ ¡Qué temprano
+ 
+ 
+ ha tomado la visita
+ 
+ 
+ la casera!
+ 
+ 
+ 
+ CLEMENTE 
+  
+ (Aparte.)  (¿Qué he escuchado?  
+ 
+ Vive el cielo que ha salido
+ 
+ 
+ del convento, y que si aguardo
+ 
+ 
+ a que baje y me halla aquí,
+ 
+ 
+ recelo...)
+ 
+ 
+ 
+ CLARA 
+   ¿Qué te has turbado?
+ 
+  
+¿Conoces a Beatriz? Di. 
+ 
+ 
+ CLEMENTE 
+  No, por tu vida. Aquí espero. 
+ 
+ 
+ CLARA 
+ Di: ¿qué quieres hacer?
+ 
+ 
+ 
+ CLEMENTE 
+ Quiero
+ 
+ 
+ esconderme agora aquí;
+ 
+ 
+que hallarme aquí no es razón,
+ 
+  
+ ni es a tu fama decente.
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  
+(¿Quién le mete a don Clemente  
+ 
+ en mirar por mi opinión?)
+ 
+ 
+ 
+ CLEMENTE 
+ Yo me escondo.
+ 
+ 
+ 
+ CLARA 
+ ¿Dónde vas,
+ 
+ 
+ don Clemente? Espera.
+ 
+ 
+ 
+ CLEMENTE 
+ Di:
+ 
+  
+ ¿quién ha de mirar por ti
+ 
+ 
+ si no es quien te quiere más?
+ 
+ 
+Yo me escondo.   
+ 
+ (Escóndese.) 
+ 
+ 
+ CLARA 
+ 
+Advierte que...
+ 
+ 
+ (El pesar me tiene muda.
+ 
+ 
+ Este conoce, sin duda,
+ 
+  
+ a doña Beatriz. ¿Qué haré? 
+ 
+¡Oh vil sospecha enemiga
+ 
+ 
+ que a mi dolor atropella!)
+ 
+ 
+ (Sale DOÑA BEATRIZ.)  
+ ¿Beatriz?
+ 
+ 
+ 
+ BEATRIZ 
+ ¿Doña Clara bella?
+ 
+ 
+ 
+ CLARA 
+ ¿Queréis sentaros?
+ 
+ 
+ 
+ BEATRIZ 
+ No, amiga.
+ 
+ 
+ 
+ CLARA 
+  Sentaos, haced lo que os ruego  
+ 
+ 
+ por la vuestra y por mi vida.
+ 
+ 
+ 
+ BEATRIZ 
+  A daros la bienvenida
+ 
+ 
+ vengo no más, y a irme luego.
+ 
+ 
+No he visto hermosura igual.
+ 
+ 
+ 
+ CLARA 
+   Poco estimáis a la vuestra.
+ 
+ 
+ 
+ BEATRIZ 
+  Esta es la llave maestra
+ 
+ 
+ de este cuarto principal.   
+ (Dale una llave.) 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (Que ni un remedio no halle  
+ 
+ para sabello más bien.)
+ 
+ 
+ 
+ BEATRIZ 
+  Esta es la llave también
+ 
+ 
+ de la puerta de la calle.   
+ 
+ 
+ (Dala otra.)  
+Mandad a vuestra criada,
+ 
+ 
+ pues ya vuestra virtud sé,
+ 
+ 
+ que antes de la noche esté
+ 
+  
+ toda la casa cerrada.  
+ 
+Mi opinión estimo más
+ 
+ 
+ que cuanto darme podéis.
+ 
+ 
+ 
+ CLARA 
+  En mi casa no veréis
+ 
+ 
+ un hombre solo jamás.
+ 
+ 
+ 
+ BEATRIZ 
+  Mucho por eso os estimo. 
+ 
+ 
+ CLARA 
+ Yo soy la que en eso gano.
+ 
+ 
+ 
+ BEATRIZ 
+ ¿Nadie os visita?
+ 
+ 
+ 
+ CLARA 
+  Mi hermano
+ 
+ 
+ no más, y tal vez mi primo.
+ 
+ 
+ 
+ BEATRIZ 
+ Vos sois en todo un milagro.
+ 
+ 
+ 
+ CLARA 
+   Daros es justo ese nombre. 
+ 
+ ¡Ah, sí! También un buen hombre.
+ 
+ 
+ 
+ BEATRIZ 
+  ¿Quién?
+ 
+ 
+ 
+ CLARA 
+   Un regidor de Almagro.
+ 
+ 
+No hay más entrante y saliente
+ 
+ 
+ que este, que es un hombre llano,
+ 
+  
+ tres amigos de mi hermano
+ 
+ 
+ y otro hidalgo, que es mi agente.
+ 
+ 
+ 
+ BEATRIZ 
+ 
+Muchos son ya, Clara bella.
+ 
+ 
+ 
+ CLARA 
+ 
+  (Aparte.)   (A saber mis celos voy.) 
+ 
+ ¿Qué estado?
+ 
+ 
+ 
+ BEATRIZ 
+ 
+   Doncella soy.
+ 
+ 
+ 
+ CLARA 
+  Cara tenéis de doncella. 
+ 
+Y me dijeron de vos...
+ 
+ 
+ 
+ BEATRIZ 
+ Decid, bien podéis hablar.
+ 
+ 
+ 
+ CLARA 
+ Madrid, maldito lugar.
+ 
+ 
+ ¡Qué lenguas, fuego de Dios!
+ 
+ 
+ 
+ BEATRIZ 
+  Hablad: lo que fuere sea. 
+ 
+ 
+ CLARA 
+  Dejadme acordar.
+ 
+ 
+ 
+ BEATRIZ 
+   Sí haré.
+ 
+ 
+ 
+ CLARA 
+ Que un don Clemente... -¿de qué?- 
+ 
+ 
+ de Montalvo, os galantea.
+ 
+ 
+ 
+ BEATRIZ 
+ 
+ (Aparte.)  (Volver por mi opinión quiero;  
+  
+ que le adoro callaré.) 
+ 
+ 
+ Ansí, amiga, ya yo sé.
+ 
+ 
+ 
+ 
+CLARA 
+ ¿Quién es?
+ 
+ 
+ 
+ BEATRIZ 
+ Es un majadero
+ 
+ 
+que ha dado en no me dejar
+ 
+ -yo no sé qué ha visto en mí- 
+ 
+  
+ (Aparte.)  
+ (de él me he de vengar así)   
+ 
+ y aun no quiere escarmentar
+ 
+ 
+en mi condición cruel.
+ 
+ 
+ 
+ CLARA 
+ ¡Ved qué lenguas hay aquí!
+ 
+ 
+ Y me dijeron a mí
+ 
+  
+ que os moríades por él.
+ 
+ 
+ 
+ BEATRIZ 
+ Dama que le quiere bien
+ 
+ 
+ lo diría.
+ 
+ 
+ 
+ CLARA 
+ Errada estás.
+ 
+ 
+ 
+ BEATRIZ 
+ 
+ (Aparte.)  (Esta vez quiero no más  
+ 
+ aprovechar un desdén.)
+ 
+  
+Él es quien me tiene amor,
+ 
+ 
+ y así advertid, doña Clara...
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (Miren aquí de qué cara  
+ 
+ se enamoró aquel traidor.)
+ 
+ 
+ 
+ BEATRIZ 
+ ...que si más, amante y ciego,
+ 
+  
+ a decir se descomide... 
+ 
+ 
+ MARICHISPA 
+  Licencia para entrar pide
+ 
+ 
+ Juan Martínez de Caniego.
+ 
+ 
+ 
+  CLARA 
+ Dile que entre.  
+ 
+ (Aparte.)  (Esto ha de ser;  
+ 
+ hoy me he de vengar así.
+ 
+  
+ ¿Que haya quien me logre a mí,    
+ 
+ y procure otra mujer?
+ 
+ 
+¡Oh ingrato! ¡Oh falso! ¡Oh traidor!
+ 
+ 
+ Tomar la venganza espero.)
+ 
+ 
+ 
+ BEATRIZ 
+ ¿Quién es este caballero?
+ 
+ 
+ 
+ CLARA 
+   El que os dije: el regidor.
+ 
+ 
+ 
+ BEATRIZ 
+ Pues voyme.
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (¿Cómo resisto  
+ 
+ dos penas, tormentos dos?)
+ 
+ 
+ 
+ BEATRIZ 
+ 
+ Adiós, doña Clara.   
+ 
+ 
+ (Vase.) 
+ 
+ CLARA 
+ Adiós.
+ 
+ 
+ (¡Vive amor...!)
+ 
+ 
+ (Sale JUAN MARTÍNEZ DE CANIEGO, vestido bastamente.) 
+ 
+ JUAN 
+  Loado sea Cristo.
+ 
+ 
+ 
+ CLARA 
+  Juan Martínez, mi señor. 
+ 
+ (Aparte.)  
+ (Agora, viven los cielos,   
+ 
+ con celos me he de vengar.)
+ 
+ 
+ ¿Qué os parece el cuarto?
+ 
+ 
+ 
+ JUAN 
+ Bueno.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ (Al paño.)  ¿Qué hombre de antaño es aquel  
+ 
+ que ha entrado en visita?
+ 
+ 
+ 
+ JUAN 
+  Cierto   
+ 
+ que me parece este cuarto
+ 
+ 
+ muy bien.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+¿Es porque es estrecho?
+ 
+ 
+ 
+ JUAN 
+  ¿Cuánto os cuesta, doña Clara?
+ 
+ 
+ 
+ CLARA 
+ Cuesta cien ducados.
+ 
+ 
+ 
+ JUAN 
+ ¡Fuego!
+ 
+  
+ Tasalle en pasando el año
+ 
+ 
+ o trampear antes medio.
+ 
+ 
+ 
+ CLARA 
+  Tasar la casa es de gente
+ 
+ 
+ sin palabra.
+ 
+ 
+ 
+ JUAN 
+ Bueno es eso;
+ 
+ 
+ pues yo he tasado una casa,
+ 
+  
+ y de un año me volvieron 
+ 
+ cien reales, siendo no más
+ 
+ 
+ el alquiler de trecientos.
+ 
+ 
+ Y ahora otra nueva demanda
+ 
+ 
+ tengo puesta a mi casero.
+ 
+ 
+ 
+ CLARA 
+ 
+¿Qué es?
+ 
+ 
+ 
+ JUAN 
+  Él me arrendó la casa  
+ 
+ 
+ para vivirla, y yo he hecho
+ 
+ 
+ cuenta del tiempo que he estado
+ 
+ 
+ fuera de casa, pues quiero
+ 
+ 
+ que el tiempo que yo estoy fuera
+ 
+  
+ no se me cuente aquel tiempo;   
+ 
+ 
+ que yo no vivo en la casa
+ 
+ 
+ si no es cuando vivo dentro.
+ 
+ 
+ 
+ MARICHISPA 
+  Y otra demanda también
+ 
+ 
+ le puede poner.
+ 
+ 
+ 
+ JUAN 
+   Di presto.
+ 
+ 
+ 
+ MARICHISPA 
+  Él te alquiló chimenea 
+ 
+ para que guises.
+ 
+ 
+ 
+ JUAN 
+ Es cierto.
+ 
+ 
+ 
+ MARICHISPA 
+  Pues si no te sirves de ella,
+ 
+ 
+ haz que te vuelvan el precio
+ 
+ 
+ que vale la chimenea
+ 
+ 
+ por un año.
+ 
+ 
+ 
+ JUAN 
+  Has dado en ello.   
+ 
+ ¿Cuántas piezas tiene?
+ 
+ 
+ 
+ CLARA 
+ Cinco.
+ 
+ 
+ 
+ MARICHISPA 
+  Y seis con él.
+ 
+ 
+ 
+ JUAN 
+ Me contento
+ 
+ 
+ con ser pieza en esta casa,
+ 
+ 
+ por serlo de este tablero.
+ 
+ 
+ 
+ MARICHISPA 
+  ¡Ay, que jugó del vocablo! 
+ 
+ ¡Qué donosura!
+ 
+ 
+ 
+ JUAN 
+ Y yo pienso
+ 
+ 
+ que nadie podrá soplarme
+ 
+ 
+ la dama como yo juego.
+ 
+ 
+ 
+ MARICHISPA 
+ Si come la dama, nadie
+ 
+ 
+ te la soplará.
+ 
+ 
+ 
+ JUAN 
+    Por eso.
+ 
+ 
+ 
+ CLARA 
+ Juan Martínez de mi vida...
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ (Aparte.)  (¡Lindo nombre de requiebros!) 
+ 
+ 
+ 
+ CLARA 
+  ...cuando no fuera tu talle,
+ 
+ 
+ tu divino entendimiento
+ 
+  
+ prendará los corazones.
+ 
+ 
+ ¡Qué arte! ¡Qué talle! ¡Qué aseo!
+ 
+ 
+ Pues, luego, ¿no es fino amante,
+ 
+ 
+ no es valiente, no es atento?;
+ 
+ 
+ y, luego, ¿no es generoso?
+ 
+ 
+ 
+ JUAN 
+   Eso es lo peor que tengo.
+ 
+ 
+ 
+ CLARA 
+  Señor mío, no gastar
+ 
+ 
+ y saber un hombre cuerdo
+ 
+ 
+ guardar un cuarto si importa...
+ 
+ 
+ 
+ JUAN 
+  (¿Luego dará este consejo
+ 
+  
+ una taimada que quiera 
+ 
+ dejar un amante en cueros?
+ 
+ 
+ La honra de esta mujer
+ 
+ 
+ me atraerá con un cabello.)
+ 
+ 
+ 
+ MARICHISPA 
+ ¡Ah Juan Martínez!
+ 
+ 
+ 
+ JUAN 
+ Muchacha,
+ 
+ 
+ ¿qué dices?
+ 
+ 
+ 
+ MARICHISPA 
+  ¿No esteraremos  
+ 
+ 
+ todo este cuarto?
+ 
+ 
+ 
+ JUAN 
+ Está ya
+ 
+ 
+ muy adelante el invierno.
+ 
+ 
+ 
+ MARICHISPA 
+ Diciembre es, tres meses faltan.
+ 
+ 
+ 
+ JUAN 
+  ¿En esteras mi dinero?
+ 
+  
+ Eso es querer que yo arroje
+ 
+ 
+ mi hacienda por esos suelos.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ (Aparte.)  
+(Este, en las señas y el talle,  
+ 
+ 
+ es el acreedor primero;
+ 
+ 
+ si esto gasta el que es del gasto,
+ 
+  
+ yo quiero gastar lo mesmo.) 
+ 
+ 
+ (Sale LEONOR.)
+ 
+ 
+ LEONOR 
+  Doña Beatriz de Bolaños
+ 
+ 
+ dice que en aquel talego,
+ 
+ 
+ que ha contado agora, faltan
+ 
+ 
+ veinte y seis reales y medio;
+ 
+  
+ que le hagáis gusto de enviarlos.    
+ 
+ 
+ CLARA 
+ 
+¿Contaron bien el dinero?
+ 
+ 
+ 
+ LEONOR 
+ 
+Cuarto a cuarto le han contado.
+ 
+ 
+ 
+ CLARA 
+  ¿Tiéneslos tú?
+ 
+ 
+ 
+ JUAN 
+ No los tengo.
+ 
+ 
+ 
+ CLARA 
+ ¿Qué he de hacer?
+ 
+ 
+ 
+ JUAN 
+ Responde tú
+ 
+  
+ que te dé una puerta menos.
+ 
+ 
+ 
+ LEONOR 
+ ¡Por Dios, linda menudencia!
+ 
+ 
+ 
+ CLARA 
+  Di de mi parte que luego
+ 
+ 
+ los subirá Sebastiana.
+ 
+ 
+ (Vase LEONOR.) 
+ 
+ JUAN 
+  ¿Veinte y seis reales y medio?
+ 
+  
+ No vale más en Almagro 
+ 
+ una casa. Ahora yo quiero
+ 
+ 
+ ver todo el cuarto, por ver
+ 
+ 
+ si lo vale el cuarto.
+ 
+ 
+ 
+ CLARA 
+  Quedo,
+ 
+ 
+ no entréis allá, que de trastos
+ 
+  
+ está lleno el aposento. 
+ 
+ 
+ JUAN 
+ Yo he de entrar.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ (Al paño.)  (Yo me retiro;  
+ 
+ no me vea.)
+ 
+ 
+ 
+ CLARA 
+ Vuelve luego
+ 
+ 
+ y le verás más despacio.
+ 
+ 
+ 
+ (Sale un GANAPÁN.) 
+ 
+ GANAPÁN 
+ Nuestra ama, ¿dónde pondremos
+ 
+ 
+ estos cofres?
+ 
+ 
+ 
+ CLARA 
+  Otro carro 
+ 
+ ha venido.
+ 
+ 
+ 
+ JUAN 
+ 
+ (Aparte.)    (Irme deseo;  
+ 
+ no pidan para beber
+ 
+ 
+ los ganapanes.) Ya entiendo
+ 
+ 
+ que se hace hora de comer.
+ 
+ 
+ 
+ CLARA 
+  ¿Has de volver?
+ 
+ 
+ 
+ JUAN 
+  En comiendo.   
+ 
+ 
+ MARICHISPA 
+ (Bien poco lleva que hacer.)
+ 
+ 
+ 
+ JUAN 
+ Adiós, Clara.   
+ 
+ 
+ 
+ (Vase.) 
+ 
+ CLARA 
+   Vuelve presto.
+ 
+ 
+ (Agora me he de vengar.) 
+ 
+ 
+ Salid acá, caballero,
+ 
+  
+ ciencontino de las casas 
+ 
+ de Castilla.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ (Sale.)  ¿Qué tenemos?
+ 
+ 
+ 
+ CLARA 
+ Traidor, infame...
+ 
+ 
+ (Quiere embestir a darle.) 
+ 
+ CLEMENTE 
+ Hablen labios
+ 
+ 
+ y callen manos.
+ 
+ 
+ 
+ CLARA 
+ No quiero.
+ 
+ 
+ Guedejas no han de quedarte.
+ 
+ 
+ 
+ CLEMENTE 
+   Detén las manos; porque eso 
+ 
+ es querer tomar ahora
+ 
+ 
+ la ocasión por los cabellos.
+ 
+ 
+ 
+ CLARA 
+  En fin, ¿es doña Beatriz
+ 
+ 
+ el dignísimo sujeto
+ 
+ 
+ que adoráis?
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Y Juan Martínez   
+ 
+ quién es?
+ 
+ 
+ 
+  CLARA 
+ 
+Decidme primero
+ 
+ 
+ si a doña Beatriz queréis.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Cómo puedo responderos
+ 
+ 
+ con un regidor de Almagro
+ 
+ 
+ a la vista?
+ 
+ 
+ 
+ CLARA 
+   Deteneos.  
+ 
+ ¿Celos de un hombre como este?
+ 
+ 
+ Tú sí, traidor...
+ 
+ 
+ 
+ CLEMENTE 
+  No os entiendo:
+ 
+ 
+ ¿celos me queréis pedir,
+ 
+ 
+ y que yo no os pida celos?
+ 
+ 
+ 
+ CLARA 
+  ¿Somos todos unos?
+ 
+ 
+ 
+ CLEMENTE 
+  No, 
+ 
+ porque yo no quiero empeño
+ 
+ 
+ con dama de un regidor.
+ 
+ 
+ Adiós, Clara Ayuntamiento.
+ 
+ 
+ 
+ CLARA 
+ Adiós, el de la Beatriz,
+ 
+  
+ que si a buena luz la veo, 
+ 
+ parece que se ha soltado
+ 
+ 
+ de alguna copia del Griego.
+ 
+ 
+ 
+ CLEMENTE 
+  No es hermosa por lo más,
+ 
+ 
+ mas quiéreme por lo menos.
+ 
+ 
+ 
+ CLARA 
+   No es muy galán mi galán, 
+ 
+ pero es de dura y provecho.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Quién puede ser quien se llama
+ 
+ 
+ Juan Martínez de Caniego?
+ 
+ 
+ 
+ CLARA 
+ La dama es muy como vuestra.
+ 
+ 
+ 
+ 
+CLEMENTE 
+  Y el galán muy como vuestro. 
+ 
+ 
+ CLARA 
+  Esto se ha acabado ya.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Pues cuándo ha empezado esto?
+ 
+ 
+ 
+ CLARA 
+ 
+  (Aparte.)   (¿Que le deje y no lo sienta?) 
+ 
+ 
+ CLEMENTE 
+ 
+ (Aparte.)  
+(¿Que no llore aunque la dejo?)  
+ 
+ 
+ CLARA 
+   Llévese ucé su retrato. 
+ 
+ No haya escarpín.
+ 
+ 
+ 
+ CLEMENTE 
+   Eso quiero.
+ 
+ 
+ (Rabiando de celos voy.)
+ 
+ 
+ 
+ CLARA 
+ (Muriendo de enojo quedo.)
+ 
+ 
+ 
+ 
+ 
+ 
+ Jornada II 
+ 
+Salen DON CLEMENTE y CARTILLA. 
+ 
+    CARTILLA 
+ ¿Eso pasa?
+ 
+ 
+ 
+ CLEMENTE 
+   Sí, Cartilla.
+ 
+ 
+ 
+ CARTILLA 
+  
+ ¿Que Clara te despidió?
+ 
+ 
+ 
+ CLEMENTE 
+  No me espanto, que es mujer.
+ 
+ 
+ 
+ CARTILLA 
+  Y más mujer que otras dos.
+ 
+ 
+ 
+ CLEMENTE 
+  No me puedo despicar.
+ 
+ 
+ 
+ CARTILLA 
+  No entiendo tu condición:
+ 
+  
+ doña Hipólita te busca,
+ 
+ 
+ y no te pide; Leonor
+ 
+ 
+ te regala, y no te cela;
+ 
+ 
+ Beatriz tiene linda voz,
+ 
+ 
+ ¿y te vienes a Clarilla?
+ 
+ 
+ 
+ CLEMENTE 
+   ¿Qué quieres? Téngola amor. 
+ 
+ 
+ CARTILLA 
+ ¿Es por fácil o por buena?
+ 
+ 
+ ¿O por clara?
+ 
+ 
+ 
+ CLEMENTE 
+ ¡Qué sé yo!
+ 
+ 
+ Porque hay otros que la quieran.
+ 
+ 
+ 
+ CARTILLA 
+ Mira: no haces bien, por Dios.
+ 
+  
+ Clara no es cesta de fruta 
+ 
+ puesta en la Puerta del Sol,
+ 
+ 
+ que porque la compran muchos
+ 
+ 
+ has de pensar que es mejor.
+ 
+ 
+ 
+ CLEMENTE 
+  Hipólita no merece
+ 
+  
+ que la aborrezca; mas yo 
+ 
+ no sé aborrecer a Clara,
+ 
+ 
+ ni me hallo cuando no soy
+ 
+ 
+ o fineza de su halago
+ 
+ 
+ o desdén de su rigor.
+ 
+ 
+ 
+ CARTILLA 
+   Si la quieres por barata,
+ 
+ 
+ más cara te sale hoy;
+ 
+ 
+ gastar confieso que es malo,
+ 
+ 
+ pero sufrir es peor.
+ 
+ 
+ 
+ CLEMENTE 
+ Con achaque de las Pascuas
+ 
+  
+ tengo determinación 
+ 
+ 
+ de enviar agora un regalo.
+ 
+ 
+ ¿Vendiste el salero?
+ 
+ 
+ 
+ CARTILLA 
+  ¡Ox!
+ 
+ 
+ Véndele tú, que no quiero
+ 
+ 
+ que me prendan.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Por qué no?
+ 
+ 
+ ¿Quién te ha de prender? 
+ 
+ 
+ 
+ CARTILLA 
+  Tu padre,  
+ 
+ 
+ que en la Platería hoy
+ 
+ 
+ hacía por su salero
+ 
+ 
+ apretada inquisición.
+ 
+ 
+ Si le vieras desalado
+ 
+  
+ ojear todo aparador 
+ 
+ 
+ de platero, y por la plaza
+ 
+ 
+ de allí a un instante pasó,
+ 
+ 
+ y viendo la horca puesta,
+ 
+ 
+ por el salero clamó,
+ 
+  
+ diciendo: «Aquí ha de venir 
+ 
+ a parar aquel ladrón».
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Cuánto pesa?
+ 
+ 
+ 
+ CARTILLA 
+ Doce onzas,
+ 
+ 
+ que viene a ser en vellón
+ 
+ 
+ más de ciento y treinta reales.
+ 
+ 
+ 
+ CLEMENTE 
+   Trae dos cajas de turrón 
+ 
+ de Alicante.
+ 
+ 
+ 
+ CARTILLA 
+   Son cuarenta.
+ 
+ 
+ 
+ CLEMENTE 
+  Dos pavos.
+ 
+ 
+ 
+ CARTILLA 
+ 
+   Son treinta y dos.
+ 
+ 
+ 
+ CLEMENTE 
+ Cuatro pares de perdices.
+ 
+ 
+ 
+ CARTILLA 
+ Son veinte y ocho.
+ 
+ 
+ 
+ CLEMENTE 
+ Pues pon
+ 
+  
+ los veinte reales de dulces. 
+ 
+ 
+ CARTILLA 
+  Todo lo yerras, señor.
+ 
+ 
+ Mira: si la envías dos pavos,
+ 
+ 
+ Clara  -es más claro que el sol- 
+ 
+ 
+ envía el uno a cierta vieja
+ 
+  
+ y otro a cierto chapetón, 
+ 
+ para coger con el pavo
+ 
+ 
+ otro regalo mayor;
+ 
+ 
+ a su agente las perdices;
+ 
+ 
+ una caja de turrón
+ 
+  
+ a una vecina, y la otra 
+ 
+ 
+ a otro solicitador,
+ 
+ 
+ para dar a los que piden
+ 
+ 
+ de beber la colación;
+ 
+ 
+ con que tu padre se queda
+ 
+  
+ sin salero; tú, señor, 
+ 
+ 
+ sin padre; Clara, sin todo;
+ 
+ 
+ y todos, que es lo peor,
+ 
+ 
+ el uno con tus perdices,
+ 
+ 
+ la otra con tu turrón,
+ 
+  
+ con tus pavos uno y otro,
+ 
+ 
+ y sin dinero tú y yo.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Qué he de hacer para que luzga
+ 
+ 
+ el dinero?
+ 
+ 
+ 
+ CARTILLA 
+ 
+ Hazlo vellón
+ 
+ 
+ y entra con tu esportillero
+ 
+ 
+ a darlo.
+ 
+ 
+ 
+ CLEMENTE 
+  
+  Mala elección. 
+ 
+ En plata se lo he de dar.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ No hagas tal.
+ 
+ 
+ 
+ CLEMENTE 
+ Tengo temor
+ 
+ 
+ que, al dar mis reales de a ocho,
+ 
+ 
+ no ha de creer que lo son.
+ 
+ 
+ 
+ CARTILLA 
+  ¿No quieres que los conozca?   
+ 
+ 
+ CLEMENTE 
+  Mira: las damas de hoy
+ 
+ 
+ el real de a ocho del pobre
+ 
+ 
+ le tienen por real de a dos,
+ 
+ 
+ y el real de a ocho del rico
+ 
+  
+ les parece que es doblón. 
+ 
+ 
+ CARTILLA 
+  Oyes: dáselo en salero.
+ 
+ 
+ ¿Vas hacia allá?
+ 
+ 
+ 
+ CLEMENTE 
+ A verla voy.
+ 
+ 
+ 
+ CARTILLA 
+  Pues si ella te siente blando,
+ 
+ 
+ lo echas a perder, por Dios.
+ 
+ 
+ 
+ CLEMENTE 
+   Yo la he de ir a ver de modo 
+ 
+ que no presuma que voy
+ 
+ 
+ por ella. Cuéntame, en tanto,
+ 
+ 
+ todo lo que te pasó
+ 
+ 
+ con don Julián.
+ 
+ 
+ 
+ CARTILLA 
+ Que me entré
+ 
+  
+ en San Luis, y él me siguió; 
+ 
+ que me puse en un altar
+ 
+ 
+ con muy grande devoción
+ 
+ 
+ a rezar, y don Julián
+ 
+ 
+ rezaba más que no yo.
+ 
+  
+ Salí a la calle después,
+ 
+ 
+ y fue tras mí; a un bodegón
+ 
+ 
+ me entré huyendo, y a la puerta
+ 
+ 
+ más de un hora me esperó.
+ 
+ 
+ ¿Qué hago? Hago cuenta que riño,
+ 
+  
+ echo a huir como un león,
+ 
+ 
+ yo apreté con la carrera
+ 
+ 
+ y él con el paso aflojó.
+ 
+ 
+ 
+ CLEMENTE 
+  Si en el portal no me escondo,
+ 
+ 
+ no me ha dejado hasta hoy.
+ 
+ 
+ 
+ CARTILLA 
+  
+ Ya hemos llegado a la casa. 
+ 
+ 
+ CLEMENTE 
+  Pues mira si en el balcón
+ 
+ 
+ de Beatriz hay quien nos mire
+ 
+ 
+ por las celosías.
+ 
+ 
+ 
+ CARTILLA 
+ No.
+ 
+ 
+ 
+ CLEMENTE 
+ A Hipólita temo más,
+ 
+  
+ que anoche salir me vio
+ 
+ 
+ de casa de doña Clara.
+ 
+ 
+ 
+ CARTILLA 
+ ¿Dístela satisfación?
+ 
+ 
+ 
+ CLEMENTE 
+  Y de doña Clara dije
+ 
+ 
+ mil faltas, que ella creyó.
+ 
+ 
+ 
+ CARTILLA 
+   Con eso la quedaría 
+ 
+ 
+ quietísimo el corazón.
+ 
+ 
+ Ahora nadie te ha seguido.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Entra, Cartilla.
+ 
+ 
+ 
+ CARTILLA 
+ Allá voy.
+ 
+ 
+ Llamo a la puerta.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+ (Dentro.)  
+¿Quién es? 
+ 
+ 
+ 
+ CARTILLA 
+  Si es...
+ 
+ 
+ 
+ MARICHISPA 
+ ¿A quién busca?
+ 
+ 
+ 
+ CARTILLA 
+  A vos.   
+ 
+ 
+ MARICHISPA 
+ 
+ Dígame quién es primero.
+ 
+ 
+ 
+ CLEMENTE 
+  Abre, muchacha, yo soy.
+ 
+ 
+ 
+ (Abre la puerta.) 
+ 
+ MARICHISPA 
+ ¡Oh mi señor don Julián!
+ 
+ 
+ Entrad y esperad. Ya voy
+ 
+  
+ a llamar a mi señora.  
+ 
+ 
+ CLEMENTE 
+  ¿Cartilla, oíste la voz?
+ 
+ 
+ Que soy don Julián presume.
+ 
+ 
+ 
+ CARTILLA 
+  Entra y siéntate, señor,
+ 
+ 
+ y juega con doña Clara,
+ 
+  
+ cuando salga, a luna y sol, 
+ 
+ que es un juego de muchachos
+ 
+ 
+ donde entra el buen bofetón.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+¿Que haya hombre honrado que dé
+ 
+ 
+ golpe a las mujeres?
+ 
+ 
+ 
+ CARTILLA 
+ Yo,
+ 
+  
+ la que me pone dos huesos 
+ 
+ en la frente sin dolor,
+ 
+ 
+ más abajo de la frente
+ 
+ 
+ la pongo cinco por dos.
+ 
+ 
+ 
+ CLEMENTE 
+ Entra.
+ 
+ 
+ 
+ CARTILLA 
+   Entro.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+  Don Julián
+ 
+  
+ hoy vera mi indignación. 
+ 
+ (Sale DOÑA CLARA.) 
+ 
+ CLARA 
+  ¡Dueño mío, don Julián!
+ 
+ 
+ ¿Qué es lo que he visto?
+ 
+ 
+ 
+ CLEMENTE 
+ No soy
+ 
+ 
+ sino don Clemente, Clara,
+ 
+ 
+ quien confiesa que debió
+ 
+  
+ tanta mentira a tus ojos 
+ 
+ como verdad a tu voz.
+ 
+ 
+ 
+ CLARA 
+ Pues, mi señor don Clemente...
+ 
+ 
+ (Sale MARICHISPA.) 
+ 
+ MARICHISPA 
+ 
+ (Aparte.)  (Bien mi ama le engañó 
+ 
+ 
+ dando a entender que le hablaba
+ 
+ 
+ por don Julián.)
+ 
+ 
+ 
+ CLARA 
+  ¿Cómo vos   
+ 
+ en mi cuarto?  
+ 
+ (Aparte.)  (Este me adora.)  
+ 
+ Responded.  
+ 
+ (Aparte.)  (Linda ocasión 
+ 
+ de picarle.)  
+ 
+  [A MARICHISPA.]  Ve al zaguán
+ 
+ 
+ y, si viene el regidor,
+ 
+  
+ avísame luego al punto. 
+ 
+ 
+ CARTILLA 
+  Baja, alcahueta.
+ 
+ 
+ 
+ MARICHISPA 
+ Yo voy.
+ 
+ 
+ (Vase.) 
+ 
+ CLARA 
+ 
+Decid: ¿qué queréis?
+ 
+ 
+ 
+ CLEMENTE 
+ Que sepas
+ 
+ 
+ que he venido a buscar hoy
+ 
+ 
+ razón para no quererte,
+ 
+  
+ y hoy me has dado la razón; 
+ 
+y aunque, a tus luces rendido,
+ 
+ 
+ fino parecí y constante,
+ 
+ 
+ no entré en tu casa de amante.
+ 
+ 
+ 
+ CLARA 
+  Pues ¿de qué?
+ 
+ 
+ 
+ CLEMENTE 
+ De agradecido.
+ 
+  
+Yo, Clara, nunca he intentado    
+ 
+  -nunca yo he tenido amor- 
+ 
+ 
+ hacer tema y pundonor
+ 
+ 
+ en dejar o ser dejado.
+ 
+ 
+Antes, por que no te quejes,
+ 
+  
+ darme el parabién ofrezco,
+ 
+ 
+ que importa, si te aborrezco,
+ 
+ 
+ que seas tú la que me dejes.
+ 
+ 
+Tú la olvidada serás,
+ 
+ 
+ y yo el feliz.
+ 
+ 
+ 
+ CLARA 
+ Si es así,
+ 
+  
+ dime a qué has venido aquí.   
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Si me escuchas, lo sabrás.
+ 
+ 
+Vengo a traerte...
+ 
+ 
+ 
+ CLARA 
+ (¡Oh traidor!)
+ 
+ 
+ 
+ CLEMENTE 
+ 
+...para no acordarme de ellos,
+ 
+ 
+ este cordón de cabellos  
+  
+ (Sácale.)  
+ que me diste por favor. 
+ 
+Papeles que merecí
+ 
+ 
+ también te vengo a traer.
+ 
+ 
+ 
+ CLARA 
+  No tenía yo qué hacer
+ 
+ 
+ cuando te los escribí.
+ 
+ 
+ 
+ CLEMENTE 
+  
+ (Aparte.)  (¡Más desdenes, dolor más!) 
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)   (Mejor así me he vengado.) 
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Yo anduve tan ocupado
+ 
+ 
+ que no los leí jamás.
+ 
+ 
+ 
+ CLARA 
+ Ni me enojas ni provocas
+ 
+  
+ oyendo tus groserías; 
+ 
+ 
+ muchas ternezas leerías,
+ 
+ 
+ pero verdades muy pocas.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Yo te he visto, enamorada,
+ 
+ 
+ no dejarme noche y día.
+ 
+ 
+ 
+ CLARA 
+  ¡Gran confianza! Bastaría
+ 
+ 
+ que estuviese bien hallada.
+ 
+ 
+ 
+ CLEMENTE 
+ Lindo término has hallado
+ 
+ 
+ para responderme.
+ 
+ 
+ 
+ CLARA 
+ Y di:
+ 
+ 
+ cuando reñiste por mí,
+ 
+ 
+ di, ¿qué estabas?
+ 
+ 
+ 
+ CLEMENTE 
+   Inclinado. 
+ 
+ 
+ CLARA 
+ ¿Inclinado? Bueno a fe.
+ 
+ 
+ Mejor término buscaste.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Y el día que te sangraste
+ 
+ 
+ solo porque me sangré?
+ 
+ 
+ 
+ CLARA 
+  No te lo puedo negar.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ¿No era amor? ¿Por qué lo hacías?
+ 
+ 
+ 
+ CLARA 
+ Porque había muchos días
+ 
+ 
+ que me quería sangrar.
+ 
+ 
+Yo a media noche escucharte
+ 
+  
+ junto a mis rejas solía. 
+ 
+ 
+ CLEMENTE 
+ Iba a otra parte, y hacía
+ 
+ 
+ la seña para engañarte.
+ 
+ 
+ 
+ CLARA 
+ Tu odio llego a conocer.
+ 
+ 
+ 
+ CLEMENTE 
+  Ya sé tu aborrecimiento.
+ 
+ 
+ 
+ CLARA 
+  ¿Los suspiros qué eran?
+ 
+ 
+ 
+ CLEMENTE 
+   Viento. 
+ 
+ ¿Las lágrimas?
+ 
+ 
+ 
+ CLARA 
+ De mujer.
+ 
+ 
+ 
+ CLEMENTE 
+ Yo, Clara...
+ 
+ 
+ 
+ CLARA 
+ Vete de aquí,
+ 
+ 
+ acaba.
+ 
+ 
+ 
+ CLEMENTE 
+ Ya me iba yo.
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)   (Que, en fin, este me engañó.)  
+ 
+ 
+ CLEMENTE 
+  
+ (Aparte.)   (Clara no me quiso a mí.)  
+ 
+ 
+ CLARA 
+ (¡Ah ingrato!)   
+ 
+ 
+ 
+ CLEMENTE 
+ (¡Ah falsa, cruel!) 
+ 
+ 
+ 
+ CLARA 
+ (¿Hay mujer tan infeliz?) 
+ 
+ 
+ Vaya a ver a su Beatriz,
+ 
+ 
+ que es sujeto para él.
+ 
+ 
+ 
+ CLEMENTE 
+  No es doña Clara más bella.   
+ 
+ 
+ CLARA 
+  Sí soy tal, por vida mía.
+ 
+ 
+ 
+ CLEMENTE 
+ Beatriz, aunque es algo fría,
+ 
+ 
+ es segura.
+ 
+ 
+ 
+ CLARA 
+  Tal es ella.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿El agua de Almagro (¡ah cruel!)
+ 
+ 
+ diz que hace digerir?
+ 
+ 
+ 
+ CLARA 
+  No, 
+ 
+ porque, aunque la bebo yo,
+ 
+ 
+ no le he digerido a él.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Pues los dos para otros dos. 
+ 
+ (Hace que se va.) 
+ 
+ 
+ CLARA 
+ 
+No volviera.
+ 
+ 
+ 
+ CLEMENTE 
+  No llamara.
+ 
+  
+ Adiós, la señora Clara. 
+ 
+ 
+ CLARA 
+ El señor Clemente, adiós.
+ 
+ 
+ 
+ CLEMENTE 
+ Vos sois dama muy hermosa,
+ 
+ 
+ y que he de estorbaros ved.
+ 
+ 
+ 
+ CLARA 
+  Señor mío, [es] vuesarced,
+ 
+  
+ para estorbar, poca cosa. 
+ 
+ 
+ CLEMENTE 
+ Si yo os quisiera, sospecho
+ 
+ 
+ que hiciera...
+ 
+ 
+ 
+ CLARA 
+   Lindo ademán.
+ 
+ 
+ 
+  (Dentro, DON JULIÁN.) 
+ 
+   JULIÁN 
+  ¿Doña Clara de Guzmán 
+ 
+ 
+ posa aquí?
+ 
+ 
+ 
+ CARTILLA 
+ Buena la has hecho.
+ 
+ 
+Sal presto.
+ 
+ 
+ 
+ CLARA 
+  Aguarda, detente.   
+ 
+ Aquí vive.  
+ 
+ (Aparte.)  (Por los cielos,  
+ 
+ que le he de abrasar a celos.)
+ 
+ 
+ 
+ (Sale DON JULIÁN.) 
+ 
+ JULIÁN 
+ ¡Gracias a Dios! ¿Don Clemente?
+ 
+ 
+ 
+ CLEMENTE 
+ ¡Amigo!
+ 
+ 
+ 
+ JULIÁN 
+   ¿Aquí estáis?
+ 
+ 
+ 
+ CLEMENTE 
+ (¿Qué haré? 
+ 
+  
+  Ella le llamó. ¡Ah traidora!) 
+ 
+ 
+ JULIÁN 
+  ¿Qué hacéis aquí?
+ 
+ 
+ 
+ CLEMENTE 
+ Vine agora...
+ 
+ 
+ 
+ CLARA 
+ Esperad, yo os lo diré.
+ 
+ 
+Pensó aqueste caballero
+ 
+ 
+ que estaba el cuarto vacío,
+ 
+ 
+ y entró a verle.
+ 
+ 
+ 
+ JULIÁN 
+  Amigo mío,
+ 
+ 
+ ¿casa os falta? Daros quiero
+ 
+ 
+un cuarto en mi calle, que es
+ 
+ 
+ el mejor que hay en Madrid.
+ 
+ 
+ Clara, ya vuelvo. Venid
+ 
+ 
+ a verle. 
+ (Tírale de la capa.) 
+ 
+ 
+ CLEMENTE 
+   Iremos después.
+ 
+ 
+ 
+ CARTILLA 
+ 
+(Vive el cielo que me río
+ 
+ 
+ de hombre tan impertinente.)
+ 
+ 
+ 
+ JULIÁN 
+  Clara, habla con don Clemente,
+ 
+ 
+ que es un grande amigo mío.
+ 
+ 
+ 
+ CLEMENTE 
+  (Agora, celos, agora.)  
+ 
+ 
+ 
+ CLARA 
+ 
+ (Vengareme.)
+ 
+ 
+ 
+ JULIÁN 
+ 
+Llega.
+ 
+ 
+ 
+ CLEMENTE 
+ Ved...
+ 
+ 
+ 
+ CLARA 
+  Conózcame vuesarced
+ 
+ 
+ por su mayor servidora.
+ 
+ 
+Pues basta...
+ 
+ 
+ 
+ CLEMENTE 
+  
+ (¿Qué es lo que escucho?)  
+ 
+ 
+ 
+ CLARA 
+  
+  (Aparte.)   (Hoy mi venganza verán.) 
+ 
+ ...ser amigo de Julián
+ 
+ 
+ para que yo os quiera mucho.
+ 
+ 
+ 
+ CLEMENTE 
+ La merced debo estimar,
+ 
+ 
+ y que me hallaréis espero
+ 
+  
+ en este cuarto primero  
+ 
+ (Señala arriba.)  
+ cuando me queráis mandar.
+ 
+ 
+ 
+ JULIÁN 
+ 
+¿Cúyo es?
+ 
+ 
+ 
+ CLARA 
+ 
+ (¡Oh celos villanos!)
+ 
+ 
+ 
+ CLEMENTE 
+ 
+De una prima mía es.
+ 
+ 
+ 
+ JULIÁN 
+  ¿Vais a verla?
+ 
+ 
+ 
+ CLEMENTE 
+ Sí.
+ 
+ 
+ 
+ JULIÁN 
+  Después
+ 
+  
+ la iré yo a besar las manos. 
+ 
+ 
+ CLARA 
+ (¿Pues agora qué he de hacer?)
+ 
+ 
+ 
+ CARTILLA 
+ 
+ [A DON CLEMENTE.]   ¿Qué aguardas?    
+ 
+ 
+ JULIÁN 
+ ¿Me esperáis?
+ 
+ 
+ 
+ CLEMENTE 
+  Sí.
+ 
+ 
+ (Aparte.)  
+ (Don Julián se queda aquí.)   
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (A doña Beatriz va a ver.)  
+ 
+ 
+ CLEMENTE 
+ ¿Habéis de venir?
+ 
+ 
+ 
+ JULIÁN 
+   Sí, amigo;   
+ 
+ esperadme.
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (Ya se va.)
+ 
+ 
+ 
+ CLEMENTE 
+ Venid presto.
+ 
+ 
+ 
+ CLARA 
+ Luego irá,
+ 
+ 
+ que agora queda conmigo.
+ 
+ 
+ 
+ CLEMENTE 
+ Adiós.
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (¡Oh viles recelos!) 
+  
+ 
+ 
+ CLEMENTE 
+  (¿Qué hay que hacer?)
+ 
+ 
+ 
+ CLARA 
+  (¿Qué hay que esperar?) 
+ 
+ 
+ 
+ CLEMENTE 
+  (Con celos me he de curar.)
+ 
+ 
+ (Vase.) 
+ 
+ CLARA 
+  
+ (Celos se curan con celos.)
+ 
+ 
+ 
+ JULIÁN 
+ ¿Fuese ya?
+ 
+ 
+ 
+ CLARA 
+ Sí, ya se fue.
+ 
+ 
+ 
+ JULIÁN 
+ Pues salga desde el secreto
+ 
+  
+ del corazón hasta el labio... 
+ 
+ 
+ CLARA 
+  Esperad, sentaos primero,
+ 
+ 
+ que tengo mucho que hablaros.
+ 
+ 
+ 
+ JULIÁN 
+ Yo soy el que...
+ 
+ 
+ 
+ CLARA 
+   Deteneos,
+ 
+ 
+ hablad quedo.
+ 
+ 
+ 
+ JULIÁN 
+ La razón
+ 
+  
+ nunca sabe hablar más quedo.    
+ 
+ 
+ (Al paño,  DON CLEMENTE y CARTILLA.) 
+ 
+ CLEMENTE 
+  Entra, Cartilla.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Sí haré.
+ 
+ 
+ 
+ CLEMENTE 
+  A ese aposento primero
+ 
+ 
+ ve pasando poco a poco.
+ 
+ 
+ (Pasan por detrás de las dos sillas los dos.) 
+ 
+ CLARA 
+  ¿Qué decís? Que no os entiendo.
+ 
+ 
+ 
+ JULIÁN 
+  Yo me explicaré con vos. 
+ 
+ 
+ CLEMENTE 
+ 
+ (Pisa sin ruido.)
+ 
+ 
+ 
+ CARTILLA 
+   (Más temo
+ 
+ 
+ a su olfato que a su oído.)
+ 
+ 
+ 
+ CLEMENTE 
+  (Ya llegamos.)
+ 
+ 
+ 
+ CARTILLA 
+ (Entra dentro.)
+ 
+ 
+ 
+ CLARA 
+ Pues veamos en qué fundáis
+ 
+ 
+ vuestra queja.
+ 
+ 
+ 
+ CLEMENTE 
+  
+ (Escucha atento.)    
+ 
+ 
+ JULIÁN 
+  Mi señora doña Clara
+ 
+ 
+ de Guzmán, que guarde el cielo
+ 
+ 
+ tantos años como son
+ 
+ 
+ los apasionados vuestros...
+ 
+ 
+ 
+ CARTILLA 
+  (No se morirá jamás.)
+ 
+ 
+ 
+ JULIÁN 
+ Ya os acordáis...
+ 
+ 
+ 
+ CLARA 
+  No me acuerdo
+ 
+ 
+ de nada.
+ 
+ 
+ 
+ JULIÁN 
+ Yo sí, señora,
+ 
+ 
+ y que feriara os prometo
+ 
+ 
+ un poco de mi memoria
+ 
+  
+ a un poco de entendimiento. 
+ 
+ Digo, pues, que habrá dos meses,
+ 
+ 
+ poco más o poco menos,
+ 
+ 
+ que viéndoos ir al estribo
+ 
+ 
+ de un coche, quedé tan muerto
+ 
+  
+ de ver por las celosías 
+ 
+ del manto un lucero negro,
+ 
+ 
+ que me echaron de ver todos
+ 
+ 
+ ser mi mal, mal de ojo vuestro.
+ 
+ 
+ Díjeos, siempre que pasaba,
+ 
+  
+ muy mentiroso y muy tierno,
+ 
+ 
+ mil necedades pulidas
+ 
+ 
+ que allí pasan por requiebros.
+ 
+ 
+ Hablásteisme muy afable,
+ 
+ 
+ celebrasteis un soneto
+ 
+  
+ que os dije, con estrambote 
+ 
+ sobre el estribillo puesto.
+ 
+ 
+ Seguí el coche a vuestra casa,
+ 
+ 
+ trasladé un papel que tengo
+ 
+ 
+ que viene a todas las damas.
+ 
+  
+ No escribisteis luego, luego.
+ 
+ 
+ Busqué luego a cierto amigo
+ 
+ 
+ que hace versos, y muy cuerdo
+ 
+ 
+ me hizo un romance peinado,
+ 
+ 
+ y tanto, que vino a pelo.
+ 
+  
+ Respondisteis al romance
+ 
+ 
+ en vuestro latín; mas pienso
+ 
+ 
+ que el latín de las mujeres
+ 
+ 
+ nunca ha menester comento.
+ 
+ 
+ Dísteisme entrada una tarde,
+ 
+  
+ entré en vuestra casa a veros; 
+ 
+ vendísteisme la fineza,
+ 
+ 
+ yo la fineza agradezco.
+ 
+ 
+ Pedísteisme no sé qué;
+ 
+ 
+ di lo que pedisteis luego,
+ 
+  
+ y ya el respeto perdido 
+ 
+  -que siempre ocasiona a esto
+ 
+ 
+ la que pide-, más hallado,
+ 
+ 
+ me fui a aprovechar del ruego.
+ 
+ 
+ Que con respeto os tratase
+ 
+  
+ dijisteis y, menos ciego, 
+ 
+ conocí que erais mujer
+ 
+ 
+ que tendría su respeto.
+ 
+ 
+ Fuisteis dando plazos largos
+ 
+ 
+ a mi amor y mi deseo;
+ 
+  
+ yo, muy fino de picado, 
+ 
+ me empeñé en amaros, viendo
+ 
+ 
+ muchas señas de posible,
+ 
+ 
+ con algunas de no serlo;
+ 
+ 
+ hasta que, con verme un día
+ 
+  
+ que de fino estaba recto,
+ 
+ 
+ me tirasteis una herida
+ 
+ 
+ tan franca hacia mi dinero
+ 
+ 
+ que doña Blanca os llamé
+ 
+ 
+ de Narváez y Pacheco.
+ 
+  
+ Trújeos un estrado y sillas  
+ 
+ de vaqueta y terciopelo,
+ 
+ 
+ y desde este día os tuve
+ 
+ 
+ por mujer de mucho asiento.
+ 
+ 
+ Premiasteis mi voluntad,
+ 
+  
+ y más ufano del premio,
+ 
+ 
+ quise llevaros tras mí,
+ 
+ 
+ móvil de vuestros dos cielos.
+ 
+ 
+ Hasta que con solo el plazo
+ 
+ 
+ de un día que no fui a veros,
+ 
+  
+ me disteis salto de mata,
+ 
+ 
+ por no aguardar a otro ruego.
+ 
+ 
+ Fuime a la Puerta del Sol,
+ 
+ 
+ y uno de los que trujeron
+ 
+ 
+ la ropa me dijo adónde
+ 
+  
+ vivís. Y saber espero  
+ 
+ cómo, sin decirme nada,
+ 
+ 
+ me dejáis, y si es bien hecho.
+ 
+ 
+ 
+ CLARA 
+ Señor don Julián de Mata,
+ 
+ 
+ si me escucháis...
+ 
+ 
+ 
+ JULIÁN 
+  Nada os creo.
+ 
+  
+ ¿Salto de mi nombre a mí, 
+ 
+ con alhajas de por medio?
+ 
+ 
+ Señora, ¿a mí que las compro
+ 
+ 
+ decís?, ¿a mí que las vendo?
+ 
+ 
+ 
+ CLARA 
+ 
+ Digo que yo me empeñaba
+ 
+  
+ en amaros y en quereros 
+ 
+ tanto que a mí me temía.
+ 
+ 
+ 
+ CLEMENTE 
+  (Cartilla, ¿qué dices de esto?)
+ 
+ 
+ 
+ CLARA 
+ Y en viéndome enamorada,
+ 
+ 
+ para templar este incendio,
+ 
+  
+ resueltamente me quise 
+ 
+ aprovechar de un despecho,
+ 
+ 
+ y dije: «Yo he de morir
+ 
+ 
+ agora, si verme dejo
+ 
+ 
+ del basilisco; pues muera
+ 
+  
+ sin mirar aquello mesmo 
+ 
+ que es lo que yo quiero más.
+ 
+ 
+ Los ojos acostumbremos
+ 
+ 
+ a no mirar lo que quieren,
+ 
+ 
+ y no se le dé al deseo
+ 
+  
+ rienda con que desbocado 
+ 
+ se precipite soberbio». 
+ 
+ De ti huyo porque te adoro,
+ 
+ 
+ y retirada al secreto
+ 
+ 
+ de mi dolor, solicito...
+ 
+ 
+ 
+ JULIÁN 
+   Doña Clara, no os entiendo.
+ 
+ 
+ ¿Por qué me queréis huir?
+ 
+ 
+ Perdonad que no agradezco
+ 
+ 
+ que me hagáis tanto favor.
+ 
+ 
+ Y así, suplicaros quiero
+ 
+  
+ que, por que yo os deba más, 
+ 
+ me queráis un poco menos.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ [A DON CLEMENTE.]  (¿Oyes? Envía los pavos  
+ 
+ 
+ y el turrón.)
+ 
+ 
+ 
+ CLARA 
+ Y demás de esto,
+ 
+ 
+ sabed, señor, que en mi casa
+ 
+ 
+ tengo un empeño.
+ 
+ 
+ 
+ JULIÁN 
+  
+Eso es bueno; 
+ 
+ yo en casa de un mercader
+ 
+ 
+ tengo por vos otro empeño.
+ 
+ 
+ 
+ CLARA 
+ 
+ Vos, señor, a todas horas
+ 
+ 
+ no podéis verme...
+ 
+ 
+ 
+ JULIÁN 
+ Sí puedo.
+ 
+ 
+ 
+ CLARA 
+   ...porque a un riesgo os exponéis.   
+ 
+ 
+ JULIÁN 
+ Yo nunca temo los riesgos.
+ 
+ 
+ 
+ CLARA 
+  Yo tengo una obligación.
+ 
+ 
+ 
+ JULIÁN 
+ Yo hice otra.
+ 
+ 
+ 
+ CLARA 
+   Ya estás grosero,
+ 
+ 
+ y yo no vendo favores.
+ 
+ 
+ 
+ JULIÁN 
+  Yo los compro por lo menos.  
+ 
+ 
+ 
+ CLARA 
+ 
+ ¿Qué me queréis, don Julián,
+ 
+ 
+ cada día aquí? ¿Qué es esto?
+ 
+ 
+ 
+ JULIÁN 
+ Cada día veo aquí
+ 
+ 
+ mi estrado de terciopelo
+ 
+ 
+ y mis sillas.
+ 
+ 
+ 
+ CLARA 
+  
+¿Qué ha costado?    
+ 
+ 
+ JULIÁN 
+ Tres mil de plata.
+ 
+ 
+ 
+ CLARA 
+ ¿Y qué es eso
+ 
+ 
+ para un favor?
+ 
+ 
+ 
+ JULIÁN 
+  Mi señora,
+ 
+ 
+ vos no habéis visto en talegos
+ 
+ 
+ lo que montan en vellón.
+ 
+  
+ Yo sí, que anduve con ellos 
+ 
+ contándolos por menudo
+ 
+ 
+ y dándolos por entero.
+ 
+ 
+ 
+ CLARA 
+ 
+ Pues ved...
+ 
+ 
+ 
+ MARICHISPA 
+ Ya entró por la calle
+ 
+ 
+ Juan Martínez de Caniego.
+ 
+ 
+ 
+ CLARA 
+  Escondeos en esa pieza, 
+ 
+ don Julián.
+ 
+ 
+ 
+ MARICHISPA 
+ Buena la has hecho.
+ 
+ 
+ 
+ JULIÁN 
+  Yo no juego al escondite
+ 
+ 
+ con las damas.
+ 
+ 
+ 
+ CLARA 
+ Ved que arriesgo
+ 
+ 
+ mi honor y fama por vos.
+ 
+ 
+ 
+ JULIÁN 
+  ¿Quién es este caballero? 
+ 
+ 
+ CLARA 
+ El que hoy me debe mi honor.
+ 
+ 
+ 
+ JULIÁN 
+ 
+¿Es eso verdad?
+ 
+ 
+ 
+ CLARA 
+ 
+Es cierto.
+ 
+ 
+ 
+ JULIÁN 
+  ¿Y podré, si él no me viese,
+ 
+ 
+ veros siempre?
+ 
+ 
+ 
+ CLARA 
+ Yo lo ofrezco.
+ 
+ 
+ 
+ JULIÁN 
+ ¿Y me queréis?
+ 
+ 
+ 
+ CLARA 
+  Yo os adoro. 
+ 
+ 
+ JULIÁN 
+ Pues perdonad, que no puedo.
+ 
+ 
+ 
+ CLARA 
+ Hombre, ¿qué quieres de mí?
+ 
+ 
+ 
+ JULIÁN 
+ 
+ Señora, ¿qué privilegio
+ 
+ 
+ han ganado las mujeres
+ 
+  
+ para dejar, en queriendo 
+ 
+ dejar, y para obligar
+ 
+ 
+ si nosotros no queremos?
+ 
+ 
+ 
+ CLARA 
+  Don Julián, que sube.
+ 
+ 
+ 
+ JULIÁN 
+  Suba.
+ 
+ 
+ 
+ CLARA 
+ ¿Qué intentas?
+ 
+ 
+ 
+ JULIÁN 
+ Agora quiero
+ 
+  
+ hacerme amigo del que es, 
+ 
+ sea quien fuere.
+ 
+ 
+ 
+ (Sale JUAN MARTÍNEZ.) 
+ 
+ JUAN 
+ Laus Deo. 
+ 
+ 
+ CARTILLA 
+  (El regidor en campaña.)
+ 
+ 
+ 
+ JUAN 
+ 
+ ¿Qué hace aquí este caballero?
+ 
+ 
+ 
+ CLARA 
+ 
+Dice que este cuarto es suyo,
+ 
+  
+ que tiene hecho arrendamiento 
+ 
+ a doña Beatriz Bolaños
+ 
+ 
+ por un año; y muy resuelto
+ 
+ 
+ viene a decir que me mude,
+ 
+ 
+ porque él tiene hecho primero
+ 
+  
+ escritura para el cuarto. 
+ 
+ 
+ JUAN 
+ Dos escrituras ha hecho.
+ 
+ 
+ 
+ JULIÁN 
+  Y la mía es anterior
+ 
+ 
+ por derecho.
+ 
+ 
+ 
+ JUAN 
+ Sea, por cierto;
+ 
+ 
+ pero en provincia os dirán 
+ 
+  
+ si tenéis mejor derecho, 
+ 
+ que este no es el escritorio.
+ 
+ 
+ 
+ JULIÁN 
+ Yo solamente en mi acero
+ 
+ 
+ fundo mi justicia, y hoy
+ 
+ 
+ a quien lo impida...
+ 
+ 
+ (Empuñan las espadas.) 
+ 
+ CARTILLA 
+ (Esto es hecho.)
+ 
+ 
+ 
+ JUAN 
+  ¿Sabéis que soy regidor 
+ 
+ de Almagro?
+ 
+ 
+ 
+ JULIÁN 
+ ¿Y qué sois con eso?
+ 
+ 
+ 
+ JUAN 
+  Hombre, ¿no sabéis que soy
+ 
+ 
+ Juan Martínez de Caniego?
+ 
+ 
+ 
+ JULIÁN 
+  ¡Amigo del alma mía!
+ 
+ 
+ 
+ JUAN 
+ ¿Amigo?
+ 
+ 
+ 
+ JULIÁN 
+  Viven los cielos
+ 
+ 
+ que si a mi padre encontrara,
+ 
+ 
+ no me holgara más.
+ 
+ 
+ 
+ JUAN 
+ ¿Qué es esto?
+ 
+ 
+ 
+ JULIÁN 
+  Mas ¿que no caéis en mí?
+ 
+ 
+ 
+ JUAN 
+ No caigo, pero tropiezo.
+ 
+ 
+ 
+ JULIÁN 
+   ¿No os acordáis que en Almagro  
+ 
+ 
+ comí con vos?
+ 
+ 
+ 
+ JUAN 
+ No lo creo.
+ 
+ 
+ 
+ JULIÁN 
+  Cuando yo pasé a Granada,
+ 
+ 
+ ¿no os acordáis del cortejo
+ 
+ 
+ que me hicisteis?
+ 
+ 
+ 
+ JUAN 
+  ¿Cuánto ha?
+ 
+ 
+ 
+ JULIÁN 
+  Habrá un año.
+ 
+ 
+ 
+ JUAN 
+  
+ No me acuerdo.
+ 
+ 
+ 
+ JULIÁN 
+ Quien recibe el beneficio
+ 
+ 
+ se ha de acordar de él.
+ 
+ 
+ 
+ JUAN 
+ Yo pienso
+ 
+ 
+ que debe de ser verdad.
+ 
+ 
+ Digo que sí. (¿Yo qué pierdo
+ 
+  
+ en que este hombre sea mi amigo?)    
+ 
+ 
+ JULIÁN 
+ ¿Cómo quedan vuestros deudos?
+ 
+ 
+ Que a todos les debo mucho.
+ 
+ 
+ 
+ JUAN 
+ Gracias a Dios, todos buenos.
+ 
+ 
+ 
+ JULIÁN 
+  ¿Nunca os hablaron de mí?
+ 
+ 
+ 
+ JUAN 
+  Dos mil recados me dieron 
+ 
+ para vos.
+ 
+ 
+ 
+ JULIÁN 
+ ¿Y cómo está
+ 
+ 
+ esa mi señora?
+ 
+ 
+ 
+ JUAN 
+ Quedo,
+ 
+ 
+ que yo nunca fui casado.
+ 
+ 
+ 
+ JULIÁN 
+ (Cogiome.) Preguntar quiero
+ 
+  
+ por aquella mi señora... 
+   ¿Ya me entendéis?
+ 
+ 
+ 
+ JUAN 
+ Ya os entiendo.  
+ 
+ 
+ 
+ CLARA 
+ ¿Qué dama es esa?
+ 
+ 
+ 
+ JUAN 
+ Mi hermana.
+ 
+ 
+ (Aparte.)  
+ (Este hombre sabe un secreto  
+ 
+ 
+ que a ninguno he revelado.
+ 
+  
+ Por el siglo de mi abuelo, 
+ 
+ que se le he contado yo,
+ 
+ 
+ aunque agora no me acuerdo.)
+ 
+ 
+ 
+ JULIÁN 
+ ¡Qué casa tiene en Almagro
+ 
+ 
+ el señor Martínez!
+ 
+ 
+ 
+ JUAN 
+ Eso,
+ 
+  
+ la mejor que hay en la Mancha. 
+ 
+ 
+ JULIÁN 
+ 
+Pues luego ¿no tiene el pueblo
+ 
+ 
+ en un puño?
+ 
+ 
+ 
+ MARICHISPA 
+  Y en un puño
+ 
+ 
+ lo tiene todo.
+ 
+ 
+ 
+ JUAN 
+ (Creer quiero
+ 
+ 
+ que este hombre es mi grande amigo;
+ 
+  
+ pero lo que yo no creo 
+ 
+ es que haya sido mi huésped.)
+ 
+ 
+ 
+ CLARA 
+ Muchacha, trae luces presto,
+ 
+ 
+ que anochece ya.
+ 
+ 
+ 
+ MARICHISPA 
+  Aquí están. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ JULIÁN 
+ 
+Venid, que llevaros quiero
+ 
+  
+ a mi casa a que cenéis 
+ 
+ 
+ conmigo.
+ 
+ 
+ 
+ JUAN 
+ Yo nunca ceno.
+ 
+ 
+ (Sale MARI CHAVES, con luces.) 
+ 
+ MARICHISPA 
+ 
+Buenas noches.
+ 
+ 
+ 
+ JUAN 
+ Lindas velas.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ Las de Almagro para eso,
+ 
+ 
+ que allí las traen de Jaén,
+ 
+ 
+ como de cera.
+ 
+ 
+ 
+ JUAN 
+  
+Ello es hecho.
+ 
+ 
+ 
+ JULIÁN 
+  Ea, venid a cenar
+ 
+ 
+ conmigo.
+ 
+ 
+ 
+ JUAN 
+ Ahora no puedo.
+ 
+ 
+ 
+ JULIÁN 
+ Cierto que sois hombre corto.
+ 
+ 
+ 
+ MARICHISPA 
+  Él siempre lo es.
+ 
+ 
+ 
+ JULIÁN 
+ Fuera bueno
+ 
+  
+ que se dijera en Madrid 
+ 
+ que cuando en Madrid os veo,
+ 
+ 
+ no os llevo a mi misma casa
+ 
+ 
+ a cortejaros.
+ 
+ 
+ 
+ CLARA 
+ Ya es eso
+ 
+ 
+ no estimar vuestros amigos.
+ 
+ 
+ Id con él.
+ 
+ 
+ 
+ JUAN 
+  Ya os obedezco. 
+ 
+ (¿Qué pierdo en ir a cenar?
+ 
+ 
+ ¿Soy yo el que a cenar le llevo?)
+ 
+ 
+ Ea, manos a la obra.
+ 
+ 
+ 
+ JULIÁN 
+ 
+No creeréis lo que agradezco
+ 
+ 
+ tal merced.
+ 
+ 
+ 
+ JUAN 
+  Soy vuestro amigo.  
+ 
+ 
+ 
+ MARICHISPA 
+ Y lo será muy estrecho.
+ 
+ 
+ 
+ JUAN 
+ ¡Válgate Dios por amigo!
+ 
+ 
+ 
+ JULIÁN 
+ 
+ (Ansí he de saber qué empeño
+ 
+ 
+ tiene el señor Juan Martínez
+ 
+ 
+ con doña Clara.)
+ 
+ 
+ 
+ JUAN 
+  (Yo quiero  
+ 
+ 
+ dejar los catorce reales
+ 
+ 
+ por si esta noche no vuelvo.)
+ 
+ 
+ ¡Mariquilla!
+ 
+ 
+ 
+ MARICHISPA 
+ Señor mío.
+ 
+ 
+ 
+ JUAN 
+  Los catorce.
+ 
+ 
+ (Dáselos en un papel por un lado.) 
+ 
+ MARICHISPA 
+ Ya os entiendo.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ Ea, ¿no vamos?
+ 
+ 
+ 
+ JUAN 
+  Ya voy. 
+ 
+ 
+ 
+MARICHISPA 
+ ¿Y mi pan?
+ 
+ 
+ 
+ JUAN 
+ Ahí va en dinero.
+ 
+ 
+ Alto, a cenar.
+ 
+ 
+ 
+ CLARA 
+ (Él se ahíta.)
+ 
+ 
+ 
+ JULIÁN 
+ Señora, guárdeos el cielo.
+ 
+ 
+ Yo soy don Julián de Mata,
+ 
+  
+ y siempre al servicio vuestro.    
+ 
+ 
+ JUAN 
+ ¿Don Julián de Mata sois?
+ 
+ 
+ Otra vez a daros vuelvo
+ 
+ 
+ estos brazos en albricias
+ 
+ 
+ de haberos hallado.    
+ (Abrázale.) 
+ 
+ 
+ JULIÁN 
+  Luego
+ 
+  
+ ¿no me habíais conocido?
+ 
+ 
+ 
+ JUAN 
+ Mirad cuál soy; no por cierto.
+ 
+ 
+ 
+ JULIÁN 
+  ¿Eso me decís?
+ 
+ 
+ 
+ JUAN 
+   Agora
+ 
+ 
+ acabo de conoceros.
+ 
+ 
+ 
+ JULIÁN 
+  Pues, ea, vamos a mi casa.
+ 
+ 
+ 
+ JUAN 
+   ¿Posible es que os hablo y veo? 
+ 
+ 
+ JULIÁN 
+  Adiós, señora.
+ 
+ 
+ 
+ JUAN 
+  Adiós, Clara.
+ 
+ 
+ 
+ CLARA 
+ 
+¿Quién es este caballero?
+ 
+ 
+ 
+ JUAN 
+  Es un grande amigo mío.
+ 
+ 
+ 
+ CLARA 
+ ¿Qué tanto habrá que lo es vuestro?
+ 
+ 
+ 
+ JUAN 
+   Yo no le he visto otra vez, 
+ 
+ pero ha muchísimo tiempo.
+ 
+ 
+ (Vanse los dos.) 
+ 
+ MARICHISPA 
+  Ya se fue «Pan y catorce».
+ 
+ 
+ 
+ CLARA 
+ 
+ ¿Fuéronse ya?
+ 
+ 
+ 
+ MARICHISPA 
+  Ya se fueron.
+ 
+ 
+ 
+ CLARA 
+  Cuando en el zaguán estabas,
+ 
+ 
+ ¿viste salir...
+ 
+ 
+ 
+ CLEMENTE 
+  
+ [A CARTILLA.]  
+(Oye atento.)   
+ 
+ 
+ 
+ CLARA 
+ 
+ ...a don Clemente?
+ 
+ 
+ 
+ MARICHISPA 
+ 
+ Yo no.
+ 
+ 
+ 
+ CLARA 
+  ¿Ni al criado?
+ 
+ 
+ 
+ MARICHISPA 
+ 
+ No, por cierto.
+ 
+ 
+ 
+ CLARA 
+ 
+ Pues al cuarto de Beatriz
+ 
+ 
+ entraron.
+ 
+ 
+ 
+ MARICHISPA 
+ Eso recelo. 
+ 
+ 
+ 
+ CLARA 
+   Pues a la puerta del cuarto
+ 
+ 
+ vamos a ver si podemos
+ 
+ 
+ escucharlos.
+ 
+ 
+ 
+ MARICHISPA 
+   Bien has dicho.
+ 
+ 
+ ¿Hemos de dejar abierto
+ 
+ 
+ el cuarto, pues no han venido
+ 
+  
+ Luisa y Otáñez, que fueron 
+ 
+ a traer de la otra casa
+ 
+ 
+ los vidrios?
+ 
+ 
+ 
+ CLARA 
+ No.
+ 
+ 
+ 
+ MARICHISPA 
+   Pues yo cierro.
+ 
+ 
+ 
+ CLARA 
+ Si está dentro, he de sacarle
+ 
+ 
+ de su cuarto.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+   Y yo prometo
+ 
+  
+ que este mal cristiano sepa 
+ 
+ cuántos son los mandamientos.
+ 
+ 
+ (Vanse, y cierra MARI CHAVES, y salen los dos.) 
+ 
+ 
+CLEMENTE 
+  ¿Cerraron?
+ 
+ 
+ 
+ CARTILLA 
+    Sí.
+ 
+ 
+ 
+ CLEMENTE 
+  Al cuarto van
+ 
+ 
+ de Beatriz.
+ 
+ 
+ 
+ CARTILLA 
+ 
+   ¿Ahora qué haremos?
+ 
+ 
+ 
+ CLEMENTE 
+ Las almohadas y sillas  
+ 
+ (Va a sacar la daga.)  
+ quiero hacer pedazos.
+ 
+ 
+ 
+ CARTILLA 
+   Quedo.   
+ 
+ Si rompes doce almohadas
+ 
+ 
+ y haces amistades luego,
+ 
+ 
+ es fuerza que tú la compres
+ 
+ 
+ otras doce; y para esto,
+ 
+  
+ un salero es tu caudal. 
+ 
+ Cada una vale eso mesmo.
+ 
+ 
+ Pues déjalas, que tu padre
+ 
+ 
+ no tiene doce saleros.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Oyes, Cartilla?
+ 
+ 
+ 
+ CARTILLA 
+ Señor.
+ 
+ 
+ 
+ CLEMENTE 
+  Este escritorio está abierto.
+ 
+ 
+ 
+ CARTILLA 
+  Repasemos las gavetas;
+ 
+ 
+ veamos qué tienen dentro.
+ 
+ 
+ (Miran las gavetas.) 
+ 
+ CLEMENTE 
+  Esta es toda de papeles.
+ 
+ 
+ 
+ CARTILLA 
+ No los tiene más compuestos
+ 
+ 
+ un depositario.
+ 
+ 
+ 
+ CLEMENTE 
+    En todos
+ 
+ 
+ hay su retulito puesto.
+ 
+ 
+ (Sacan papeles.)  «Papel de Cominarata»,
+ 
+ 
+ dice aquí.
+ 
+ 
+ 
+ CARTILLA 
+ ¿Pues no sabremos
+ 
+ 
+ Cominarata quién es?
+ 
+ 
+ 
+ CLEMENTE 
+   Otro renglón dice luego: 
+ «De Francisco de Pantoja,
+ 
+ 
+ mi agente». Léele.
+ 
+ 
+ 
+ CARTILLA 
+ Luego.
+ 
+ 
+ 
+ CLEMENTE 
+  Vamos hacia otro.
+ 
+ 
+ 
+ CARTILLA 
+ Aquí dice:
+ 
+ «Del Chapetón».
+ 
+ 
+ 
+ CLEMENTE 
+ 
+No lo entiendo. 
+ (Lee.) 
+ «Hija, tú
+ dices que se da tan barato ese estrado y tan de balde esas sillas, que te envío los mil reales que me pides». 
+ 
+ 
+   CARTILLA 
+   
+Tente, no pases de ahí. 
+ 
+ Considera, ¡oh pasajero!,
+ 
+ 
+ lo que somos los amantes.
+ 
+ 
+ Párate aquí, y toma ejemplo
+ 
+ 
+ en el infeliz Julián
+ 
+  
+ y en este Chapetón necio,
+ 
+ 
+ que el uno compra el estrado
+ 
+ 
+ por cuatro mil, y a otro luego
+ 
+ 
+ se le vendieron por mil;
+ 
+ 
+ con que ambos, a un mismo tiempo,
+ 
+  
+ cada uno piensa que es suyo; 
+ 
+ uno pagó por entero,
+ 
+ 
+ y otro dio una tercia parte.
+ 
+ 
+ Los que dais estrados nuevos
+ 
+ 
+ no deis más que las tarimas,
+ 
+  
+ que estos que dan terciopelos 
+ 
+ ambos a dos los compraron
+ 
+ 
+ y a ambos a dos los vendieron.
+ 
+ 
+ 
+ CLEMENTE 
+  Ya el basilisco a los ojos,
+ 
+ 
+ ya a los labios el veneno,
+ 
+  
+ ¿a qué aguardo? ¡Oh! Salgan ya
+ 
+ 
+ mis voces de mi silencio.
+ 
+ 
+ Mas no pronuncie el dolor
+ 
+ 
+ mis pasiones hacia el pecho;
+ 
+ 
+ gástense entre lengua y labio,
+ 
+  
+ por ser indignos mis celos.
+ 
+ 
+ Siéntalos yo y no los diga,
+ 
+ 
+ porque al referirlos temo
+ 
+ 
+ que me los murmure el Prado
+ 
+ 
+ si me los repite el eco.
+ 
+ 
+ Déjame salir.
+ 
+ 
+ 
+ CARTILLA 
+  
+Detente, 
+ 
+ que está cerrado.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Llamemos
+ 
+ 
+   
+a doña Clara. Abre aquí.
+ 
+ 
+ 
+ (Salen DOÑA CLARA y MARI CHAVES.) 
+ 
+ CARTILLA 
+  Ya abren la puerta.
+ 
+ 
+ 
+ MARICHISPA 
+ ¿Qué es esto?
+ 
+ 
+ 
+ 
+CLARA 
+ ¿Aquí estabas?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Aquí estoy.
+ 
+ 
+ Déjame salir.
+ 
+ 
+ 
+ CLARA 
+    Primero 
+ 
+ me has de escuchar.
+ 
+ 
+ 
+ CLEMENTE 
+ Déjame.
+ 
+ 
+ 
+ CLARA 
+  Cierra la puerta.
+ 
+ 
+ 
+ MARICHISPA 
+ Ya cierro.
+ 
+ 
+ 
+ CLARA 
+  ¡Mi bien, mi señor!
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Harás
+ 
+ 
+ que me mate, vive el cielo.
+ 
+ 
+ (Paséase y anda tras él [DOÑA CLARA].) 
+ 
+ CLARA 
+ Yo soy...
+ 
+ 
+ 
+ CARTILLA 
+  De cuatro hasta ahora.   
+ 
+ 
+ CLARA 
+ 
+ Mira, señor...
+ 
+ 
+ 
+ 
+CLEMENTE 
+ Estoy ciego.
+ 
+ 
+ 
+ 
+CLARA 
+ ¡Mi Clemente!
+ 
+ 
+ 
+ CARTILLA 
+ Está inclemente.
+ 
+ 
+ 
+ 
+CLARA 
+  Escúchame.
+ 
+ 
+ 
+ CARTILLA 
+ 
+   No queremos.
+ 
+ 
+ 
+ 
+CLARA 
+ Cartilla.
+ 
+ 
+ 
+ CARTILLA 
+ 
+   No has de leerme.
+ 
+ 
+ 
+ CLARA 
+  Ábrele. Váyase luego  
+ 
+ si no me quiere escuchar.
+ 
+ 
+ 
+ CLEMENTE 
+ Abre la puerta.
+ 
+ 
+ 
+ MARICHISPA 
+  No quiero,
+ 
+ 
+ hasta que pida perdón
+ 
+ 
+ a mi ama.
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte a CARTILLA.)   (Yo te ofrezco 
+ 
+  
+ un vestido si le tienes.) 
+ 
+ 
+ CARTILLA 
+ (¿De qué?)
+ 
+ 
+ 
+ CLARA 
+   (De paño.)
+ 
+ 
+ 
+ CARTILLA 
+  (Lo aceto.)
+ 
+ 
+ Señor, no tienes razón.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Cartilla, ¿tú dices eso?
+ 
+ 
+ ¿No has leído estos papeles?
+ 
+ 
+ 
+ CARTILLA 
+  No la tienes.
+ 
+ 
+ 
+ CLEMENTE 
+    ¿No la tengo? 
+ 
+ 
+ CARTILLA 
+ ¿Te ha pedido algún estrado?
+ 
+ 
+ ¿Qué te quejas?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Y dime esto:
+ 
+ 
+ ¿el que la envió los mil reales...?
+ 
+ 
+ 
+ CLARA 
+  Cartilla, es un hombre viejo
+ 
+  
+ que tiene noventa años. 
+ 
+ 
+ CARTILLA 
+  Los que tiene. Más de ciento
+ 
+ 
+ que tuviera yo a estas horas,
+ 
+ 
+ cantara misa muy presto.
+ 
+ 
+ 
+ CLEMENTE 
+  Cartilla, ¿catorce reales
+ 
+ 
+ son más que yo?
+ 
+ 
+ 
+ CARTILLA 
+  
+ No, por cierto.    
+ 
+ 
+ MARICHISPA 
+ Cartilla, ¿y es cuerpo santo
+ 
+ 
+ mi señora?
+ 
+ 
+ 
+ CARTILLA 
+ 
+Ya lo veo.
+ 
+ 
+ 
+ CLEMENTE 
+  Cartilla, dime: ¿el agente
+ 
+ 
+ de la petición es viejo
+ 
+ 
+ como el del papel?
+ 
+ 
+ 
+ CLARA 
+  Cartilla,
+ 
+ 
+ ya no tengo ningún pleito.
+ 
+ 
+ 
+ CLEMENTE 
+  Di, Cartilla: ¿y don Julián?
+ 
+ 
+ 
+ CLARA 
+  Cartilla, si le aborrezco
+ 
+ 
+ y no me quiere dejar,
+ 
+ 
+ ¿qué puedo hacer yo? 
+ 
+ 
+ (Llaman a una ventana baja que ha de haber.) 
+ 
+ CARTILLA 
+  ¿Qué es esto?   
+ 
+ 
+ CLARA 
+ ¿Llamaron?
+ 
+ 
+ 
+ MARICHISPA 
+  Sí.
+ 
+ 
+ 
+ CLEMENTE 
+   ¿Hay laberinto
+ 
+ 
+ como este? Agora has de ver,
+ 
+ 
+ traidora...
+ 
+ 
+ 
+ CLARA 
+ ¿Quién puede ser?
+ 
+ 
+ 
+ CARTILLA 
+ Ábrele, que será el quinto.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿No ves quién eres? ¿No ves?   
+ 
+ 
+ CLARA 
+  Escucha, y no te apasiones.
+ 
+ 
+ 
+ CLEMENTE 
+  Dame ahora satisfaciones.
+ 
+ 
+ 
+ CLARA 
+ Abre, y sepamos quién es.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Dice bien; callad y oíd,
+ 
+ 
+ 
+ CLARA 
+ ¿Quién ha llamado?
+ 
+ 
+ 
+ CLEMENTE 
+  ¡Oh tirana!   
+ 
+ 
+ CLARA 
+  ¿Quién llama a aquesta ventana?
+ 
+ 
+ (DOÑA HIPÓLITA a la ventana.) 
+ 
+ HIPÓLITA 
+ 
+ [Dentro.]  
+ Una mujer es. Abrid.    
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Quién será?
+ 
+ 
+ 
+ CARTILLA 
+ (¡Viven los cielos
+ 
+ 
+ que es la viuda!)
+ 
+ 
+ (Dentro, HIPÓLITA.) 
+ 
+   HIPÓLITA 
+ Acabad ya. 
+ 
+ 
+ 
+ CLEMENTE 
+  Alguna mujer será  
+ 
+ que te venga a pedir celos
+ 
+ 
+de algún galán.
+ 
+ 
+ 
+ CLARA 
+ Abre.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ No abra.
+ 
+ 
+ (Aparte.)  
+ (La viuda es; es evidente.)   
+ 
+ 
+ CLARA 
+  ¿A quién busca?
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+A don Clemente
+ 
+  
+ quiero hablar una palabra. 
+ 
+ 
+ CARTILLA 
+ (Pesconos; es cosa llana.)
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Advierte que yo, señora...
+ 
+ 
+ 
+ CLARA 
+  ¡Pídeme celos agora
+ 
+ 
+ del que llamó a la ventana!
+ 
+ 
+ 
+ CLEMENTE 
+  Mucho siento que me halle.   
+ 
+ 
+ CLARA 
+ Acaba, respóndeme.
+ 
+ 
+ 
+ HIPÓLITA 
+  Abrid o alborotaré
+ 
+ 
+ toda la casa y la calle.
+ 
+ 
+ 
+ CARTILLA 
+ 
+(Y tendrá dos mil razones.)
+ 
+ 
+ 
+ HIPÓLITA 
+  La ventana he de romper. 
+ 
+ 
+ CLARA 
+  Yo haré...
+ 
+ 
+ 
+ CLEMENTE 
+  Clara, a esta mujer
+ 
+ 
+ tengo mil obligaciones
+ 
+ 
+de antes que te viese a ti;
+ 
+ 
+ y aunque solo tu amor precio,
+ 
+  
+ para no hacella un desprecio
+ 
+ 
+ me quiero esconder aquí.
+ 
+ 
+ 
+ CLARA 
+ No es eso lo que yo quiero.
+ 
+ 
+ 
+ CLEMENTE 
+ ¡Cruel estás!
+ 
+ 
+ 
+ CARTILLA 
+ 
+¡Terrible eres!
+ 
+ 
+ 
+ CLARA 
+  Despídela si me quieres.
+ 
+ 
+ 
+ HIPÓLITA 
+  
+¿No sale ese caballero?
+ 
+ 
+ 
+ CLARA 
+ 
+Esto toca al pundonor.
+ 
+ 
+ 
+ CLEMENTE 
+ Obedecerte no puedo.
+ 
+ 
+ Si ella se va y yo me quedo,
+ 
+ 
+ ¿qué quieres más de mi amor?
+ 
+ 
+ 
+ HIPÓLITA 
+  Acabad, que estoy cansada.   
+ 
+ 
+ MARICHISPA 
+  ¿Parécete que abra?
+ 
+ 
+ 
+ CLARA 
+ Tente.
+ 
+ 
+ (Aparte.)  
+ (Yo temo que don Clemente 
+ 
+ 
+ me ha de dejar desairada.)
+ 
+ 
+ 
+ HIPÓLITA 
+ Ea, ¿no me abren?
+ 
+ 
+ 
+ CLARA 
+ 
+ (Aparte.)  (Y así,  
+  
+ no me pretendo arriesgar. 
+ 
+ Lo mejor será negar
+ 
+ 
+ que don Clemente está aquí.
+ 
+ 
+Resuelta a negarlo estoy.)
+ 
+ 
+ Apartaos de aquí.
+ 
+ 
+ 
+ CLEMENTE 
+  Sí haré.
+ 
+ 
+ (Apártanse a un lado.) 
+ 
+ HIPÓLITA 
+  ¡Ah don Clemente!
+ 
+ 
+ 
+ MARICHISPA 
+  ¿Abriré?  
+ 
+ 
+ 
+ CLARA 
+  Abre.
+ 
+ 
+ 
+ MARICHISPA 
+   ¿Quién llama?
+ 
+ 
+ 
+ HIPÓLITA 
+ Yo soy.
+ 
+ 
+ (Abre la ventana DOÑA CLARA, 
+y habla HIPÓLITA de la parte de adentro.) 
+ 
+ CLARA 
+ ¿A quién buscáis?
+ 
+ 
+ 
+ HIPÓLITA 
+ Bien por Dios,
+ 
+ 
+ a don Clemente, señora.
+ 
+ 
+ 
+ CLARA 
+ 
+ ¿Qué don Clemente?
+ 
+ 
+ 
+ HIPÓLITA 
+  El que agora,
+ 
+  
+ estaba hablando con vos. 
+ 
+ 
+ CLARA 
+ Mirad...
+ 
+ 
+ 
+ HIPÓLITA 
+  Digo que le oí.
+ 
+ 
+ 
+ CLARA 
+ Advierta ucé, reina mía...
+ 
+ 
+ 
+ HIPÓLITA 
+ Si no abrís, hasta otro día
+ 
+ 
+ no me he de quitar de aquí.
+ 
+ 
+ 
+ CARTILLA 
+  Resuelta está, vive Dios. 
+ 
+ 
+ HIPÓLITA 
+  Y a un alcalde haré llamar.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ Señora, déjala entrar,
+ 
+ 
+ y escondámonos los dos.
+ 
+ 
+ 
+ CLARA 
+ Entrad.
+ 
+ 
+ 
+ CLEMENTE 
+ Temo que me halle.
+ 
+ 
+ 
+ HIPÓLITA 
+  
+Venga a abrir una criada 
+ 
+ la puerta, que está cerrada.
+ 
+ 
+ 
+ CLARA 
+  ¿Cuál?
+ 
+ 
+ 
+ HIPÓLITA 
+ La puerta de la calle.
+ 
+ 
+ 
+ CLARA 
+ 
+Ingrato, agora he de ver
+ 
+ 
+ si me quieres.
+ 
+ 
+ 
+ CLEMENTE 
+ Tú verás
+ 
+  
+ que a ti te quiero no más. 
+ 
+ 
+ CLARA 
+ Pero no te has de esconder.
+ 
+ 
+ 
+ MARICHISPA 
+ La viuda ansí como así
+ 
+ 
+ le ha de hallar.
+ 
+ 
+ 
+ CARTILLA 
+  Hasla hecho buena.
+ 
+ 
+ 
+ CLARA 
+  Oyes, en esta alacena
+ 
+ 
+ caben los dos.
+ 
+ 
+ 
+ CARTILLA 
+  
+Es ansí. 
+ 
+ 
+ CLEMENTE 
+ 
+Y así te deberé más.
+ 
+ 
+ 
+ CLARA 
+ 
+Pues entra.
+ 
+ 
+ 
+ CARTILLA 
+ Buena empanada.
+ 
+ 
+ (Mételos en una alacena que ha de haber,
+y ciérrala.) 
+ 
+   CLARA 
+ Mira que si desairada
+ 
+ 
+ me dejas...
+ 
+ 
+ 
+ CLEMENTE 
+ Tú lo verás.
+ 
+ 
+ 
+ (Sale HIPÓLITA.) 
+ 
+ HIPÓLITA 
+  Quédate en este zaguán. 
+ 
+ Dios os guarde, Clara bella.
+ 
+ 
+ 
+ CLARA 
+  Guárdeos el cielo.
+ 
+ 
+ 
+ HIPÓLITA 
+   Vos sois
+ 
+ 
+ muy hermosa.
+ 
+ 
+ 
+ CLARA 
+  Pasadera.
+ 
+ 
+ 
+ HIPÓLITA 
+ Yo soy...
+ 
+ 
+ 
+ CLARA 
+ Decid vuestro nombre.
+ 
+ 
+ 
+ HIPÓLITA 
+  Curso tan poco en la escuela
+ 
+ 
+ de las damas de Madrid
+ 
+ 
+ que, aunque decírosle quiera,
+ 
+ 
+ no sabréis por él quién soy.
+ 
+ 
+ 
+ CLARA 
+  ¿Pues qué mandáis?
+ 
+ 
+ 
+ HIPÓLITA 
+ Con vergüenza
+ 
+  
+ os diré que quiero bien
+ 
+ -¡oh, mátenme ya mis penas!- 
+ 
+ a don Clemente.
+ 
+ 
+ 
+ CLARA 
+ ¿De qué?
+ 
+ 
+ 
+ HIPÓLITA 
+ De Montalvo. ¡Haceos de nuevas!
+ 
+ 
+ Digo, pues, divina Clara, 
+ 
+  
+ que de una vecina vuestra
+ 
+ 
+ hoy supe que don Clemente
+ 
+ 
+ os sirve y os galantea.
+ 
+ 
+ Yo ha seis años que le quiero,
+ 
+ 
+ seis años ha que confiesa
+ 
+  
+ que me adora; y aún no ha un día    
+ 
+ que, viéndome fina y tierna,
+ 
+ 
+ solicitó con su llanto
+ 
+ 
+ consuelos para mi queja.
+ 
+ 
+ 
+ CLARA 
+ ¿Tan tierno estaba?
+ 
+ 
+ 
+ HIPÓLITA 
+  Y tan falso
+ 
+  
+ que, sin mirar a las deudas 
+ 
+ de mi amor y obligaciones,
+ 
+ 
+ le escuché desde esta reja
+ 
+ 
+ dar voces tan destempladas
+ 
+ 
+ que sonaron como quejas.
+ 
+  
+ Salga y diga, pues a dos 
+ 
+ solicita y galantea,
+ 
+ 
+ a cuál de las dos estima.
+ 
+ 
+ Y caso que me aborrezca,
+ 
+ 
+ desengañada os prometo
+ 
+  
+ no verle más, aunque pierda
+ 
+ 
+ vida y fama, y el amor
+ 
+ 
+ que a mi obligación confiesa,
+ 
+ 
+ y por que las dos a un tiempo
+ 
+ 
+ quedemos de esta manera
+ 
+  
+ desengañadas y amigas, 
+ 
+ vos muy mía y yo muy vuestra.
+ 
+ 
+ 
+ CLARA 
+ ¿Es posible que una dama
+ 
+ 
+ de esa autoridad y prendas
+ 
+ 
+ confiese que quiere bien?
+ 
+  
+ Gran falta en mujer tan cuerda.   
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿De chanza me respondéis?
+ 
+ 
+ Pues yo tomaré esta vela
+ 
+ 
+ para examinar la casa.
+ 
+ 
+ 
+ CLARA 
+ 
+ Advertid...
+ 
+ 
+ 
+ HIPÓLITA 
+  Soy muy resuelta;
+ 
+  
+ y esto ha de ser de esta suerte.    
+ 
+ (Vase, y MARI CHAVES tras ella,
+y abren la alacena los dos.) 
+ 
+ CLARA 
+ 
+  [A MARICHISPA.]  (Oyes, éntrate con ella.)
+ 
+ 
+ Don Clemente.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Qué me dices?
+ 
+ 
+ 
+ CLARA 
+  ¿Cómo no tienes vergüenza
+ 
+ 
+ de tener tan fea dama?
+ 
+ 
+ 
+ CLEMENTE 
+  Es bien entendida.
+ 
+ 
+ 
+ CLARA 
+  Esa 
+ 
+ es la disculpa de todos
+ 
+ 
+ los que tienen damas feas.
+ 
+ 
+ ¿Es parienta de Beatriz,
+ 
+ 
+ la de arriba?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ No es parienta.
+ 
+ 
+ 
+ CLARA 
+  Se parecen en la cara.  
+ 
+ 
+ CLEMENTE 
+ 
+¿Quién no es fea en tu presencia?
+ 
+ 
+ 
+ CLARA 
+ 
+ ¿Cuánto gana cada día
+ 
+ 
+ a hacer valonas y vueltas
+ 
+ 
+ de la calle de las Postas?
+ 
+ 
+ 
+ CARTILLA 
+ 
+ Conforme trabaja.
+ 
+ 
+ 
+ CLEMENTE 
+    Cierra, 
+ 
+ que viene.
+ 
+ 
+ 
+ CLARA 
+  Irase la viuda,
+ 
+ 
+ y luego te has de ir tras ella.
+ 
+ 
+ 
+ (Salen HIPÓLITA y MARI CHAVES.)
+ 
+ 
+ HIPÓLITA 
+ Yo le oí hablar.
+ 
+ 
+ 
+ MARICHISPA 
+   Es engaño.
+ 
+ 
+ 
+ CLARA 
+ Ya estás cansada y grosera, 
+ 
+  
+ y yo soy mucha mujer
+ 
+ 
+ para que a mi casa venga
+ 
+ 
+ galán que es vuestro galán.
+ 
+ 
+ 
+ HIPÓLITA 
+  Claro está que hay diferencia
+ 
+ 
+ de mí a vos, que en esta corte
+ 
+  
+ hay muchos hombres que sepan   
+ 
+ 
+ quién sois vos, y no hay más de uno
+ 
+ 
+ que sepa quién soy en ella.
+ 
+ 
+ 
+ CLARA 
+ Jurara yo que la viuda
+ 
+ 
+ es honrada, aunque no quiera;
+ 
+  
+ sujeto es de no pedir.  
+ 
+ 
+ HIPÓLITA 
+ 
+Solo pido que me quieran,
+ 
+ 
+ que yo tengo que me sobra
+ 
+ 
+ y una casa.
+ 
+ 
+ 
+ CLARA 
+ 
+Que la cuesta
+ 
+ 
+ cuatrocientos. Y tendrá
+ 
+  
+ seis sillas de su edad mesma, 
+ 
+ un bufete un poco hendido,
+ 
+ 
+ dos tarimas muy estrechas,
+ 
+ 
+ una cama de nogal,
+ 
+ 
+ un estrado de bayeta,
+ 
+  
+ un velón, para cuando hay
+ 
+ 
+ visitas, por cabecera
+ 
+ 
+ de estrado un contadorcillo
+ 
+ 
+ con cuatro o con seis gavetas,
+ 
+ 
+ un cofre de ropa blanca
+ 
+  
+ y otro de sayas enteras, 
+ 
+ y una honraza como suya.
+ 
+ 
+ 
+ HIPÓLITA 
+  Pues veme. De esta manera
+ 
+ 
+ me quiere a mí don Clemente,
+ 
+ 
+ y hoy me dijo cosas de ella,
+ 
+ 
+ como de ella.
+ 
+ 
+ 
+ CLARA 
+  ¿Qué la dijo? 
+ 
+ 
+ HIPÓLITA 
+  Que aunque a veces viene a verla,
+ 
+ 
+ la ha visitado...
+ 
+ 
+ 
+ CLARA 
+ ¿Por qué?
+ 
+ 
+ 
+ HIPÓLITA 
+ ...por otra, y no por más buena.
+ 
+ 
+ 
+ CLARA 
+  ¿Eso dijo?
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+  Y que era fácil.
+ 
+ 
+ 
+ CLARA 
+ ¿Eso dijo?
+ 
+ 
+ 
+ HIPÓLITA 
+  Y que era fea, 
+ 
+ 
+ y que tenía en Almagro
+ 
+ 
+ un censo puesto en cabeza
+ 
+ 
+ de un fulano de Caniego.
+ 
+ 
+ 
+ CLARA 
+  ¿Eso dijo?
+ 
+ 
+ 
+ HIPÓLITA 
+ Y que se afeita
+ 
+  
+ tanto que se le han caído 
+ 
+ cuatro dientes y tres muelas,
+ 
+ 
+ y que los tiene postizos.
+ 
+ 
+ 
+ CLARA 
+  ¿Eso dijo?
+ 
+ 
+ 
+ HIPÓLITA 
+ Y dio más señas:
+ 
+ 
+ que tiene un olor de boca
+ 
+  
+ que puede dar pestilencia,
+ 
+ 
+ y que erais mujer barata.
+ 
+ 
+ 
+ CLARA 
+ 
+Ya no puede haber paciencia.
+ 
+ 
+ ¿Barata a mí? ¿Hay tal injuria?
+ 
+ 
+ Caballeros, salid fuera,
+ 
+ 
+ 
+ (Abre la alacena y sácalos.)  
+ que hoy he de ver...
+ 
+ 
+ 
+ HIPÓLITA 
+  ¡Oh traidor! 
+ 
+ ¿Aquí estáis?
+ 
+ 
+ 
+ CLEMENTE 
+   Detente, espera...
+ 
+ 
+ 
+ HIPÓLITA 
+ Estas casas queréis vos,
+ 
+ 
+ donde andéis por alacenas.
+ 
+ 
+ Salid acá el del catarro
+ 
+ 
+ y el de las Claras. 
+ (Saca a CARTILLA.) 
+ 
+ 
+ CARTILLA 
+  
+  ¿Qué intentas?
+ 
+ 
+ 
+ HIPÓLITA 
+  Vengarme en los dos.
+ 
+ 
+ 
+ CLEMENTE 
+ Aguarda.
+ 
+ 
+ 
+ HIPÓLITA 
+ Venid conmigo.
+ 
+ 
+ 
+ CLARA 
+ 
+Eso fuera
+ 
+ 
+ para que yo le matara.
+ 
+ 
+ 
+ HIPÓLITA 
+  Sígueme a mí.
+ 
+ 
+ 
+ CLARA 
+ 
+No, te queda.
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿A qué esperas?
+ 
+ 
+ 
+ CLARA 
+  ¿A qué aguardas?  
+ 
+ 
+ 
+ (Llaman a la puerta.) 
+ 
+ CARTILLA 
+  Llamando están a la puerta.
+ 
+ 
+ 
+ MARICHISPA 
+  Yo abro, y sea quien fuere.
+ 
+ 
+ 
+ CLARA 
+ 
+Abre. 
+ 
+ 
+ (Sale DOÑA BEATRIZ, con luz.) 
+ 
+ BEATRIZ 
+ 
+  ¿Qué voces son estas
+ 
+ 
+ en mi casa y a estas horas? 
+ 
+  
+ ¿Aún no habéis entrado en ella    
+ 
+ y hay este ruido? ¡Qué miro!
+ 
+ 
+ ¿Don Clemente?
+ 
+ 
+ 
+ CARTILLA 
+ Otra pendencia
+ 
+ 
+ tenemos con la Beatriz. 
+ 
+ 
+ BEATRIZ 
+  Vos ¿cómo en mi casa mesma 
+ 
+ 
+ os entráis...
+ 
+ 
+ 
+ CLEMENTE 
+  (Estoy perdido.) 
+ 
+ 
+ BEATRIZ 
+  ...a blasonar...
+ 
+ 
+ 
+ CLARA 
+  (Estoy muerta.)
+ 
+ 
+ 
+ BEATRIZ 
+ ...de un honor...
+ 
+ 
+ 
+ HIPÓLITA 
+ (¿Qué es lo que escucho?)
+ 
+ 
+ 
+ BEATRIZ 
+ ...de una fama...
+ 
+ 
+ 
+ CLEMENTE 
+ 
+(No hay paciencia.)
+ 
+ 
+ 
+ BEATRIZ 
+  ...que por vos tengo perdida? 
+ 
+ 
+ 
+ HIPÓLITA 
+   (Sin Clara, ¿otra dama nueva?)   
+ 
+ Traidor, ¿esto era quererme?
+ 
+ 
+ 
+ CLARA 
+ ¿Esto era amarme de veras?
+ 
+ 
+ 
+ BEATRIZ 
+ ¿A mis ojos dos injurias?
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿Que eran falsas tus finezas?
+ 
+ 
+ 
+ BEATRIZ 
+  Ven conmigo.
+ 
+ 
+ 
+ CLARA 
+  No te vayas. 
+ 
+ 
+ CLEMENTE 
+  ¿Qué he de hacer?
+ 
+ 
+ 
+ CLARA 
+ Aquí te queda.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ¡Clara! ¡Hipólita! ¡Beatriz!
+ 
+ 
+ 
+ CLARA 
+  Habla.
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿Qué dices?
+ 
+ 
+ 
+ BEATRIZ 
+ ¿Qué intentas? 
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Que a una quiero de las tres.
+ 
+ 
+ 
+ CLARA 
+ 
+ ¿Soy yo?
+ 
+ 
+ 
+ CLEMENTE 
+  Una sola es mi prenda.  
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿Soy quien te merece fina?
+ 
+ 
+ 
+ CLEMENTE 
+  Tú eres quien...
+ 
+ 
+ 
+ BEATRIZ 
+   Dilo, ¿qué esperas?
+ 
+ 
+ 
+ CLEMENTE 
+ Tú serás...
+ 
+ 
+ 
+ CLARA 
+ Paga mi fe.
+ 
+ 
+ 
+ CLEMENTE 
+ Tú eres sola...
+ 
+ 
+ 
+ CLARA 
+ ¿En qué te hielas?
+ 
+ 
+ 
+ CLEMENTE 
+ Pues para no dejar...
+ 
+ 
+ 
+ TODAS 
+  ¿Qué?
+ 
+ 
+ 
+ CLEMENTE 
+  ...dos quejosas...
+ 
+ 
+ 
+ CLARA 
+ ¿A qué esperas?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ...he de responder...
+ 
+ 
+ 
+ HIPÓLITA 
+ Responde.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ...a las tres de esta manera.  
+ 
+ (Vase huyendo.) 
+ 
+ 
+ HIPÓLITA 
+ Él me aborrece.
+ 
+ 
+ 
+ BEATRIZ 
+ Él me olvida.
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+Él me agravia.
+ 
+ 
+ 
+ CLARA  
+  Él me desprecia.  
+ 
+ 
+ 
+ BEATRIZ 
+ 
+ ¡Deme el dolor sufrimiento!
+ 
+ 
+ 
+ HIPÓLITA 
+ ¡Deme consuelo mi pena!
+ 
+ 
+ 
+ BEATRIZ 
+ ¡Deme venganza mi agravio!
+ 
+ 
+ 
+ CLARA 
+ 
+¡Denme los cielos paciencia!
+ 
+ 
+ 
+ 
+ 
+ 
+ Jornada III 
+ 
+   Salen   
+  DON CLEMENTE y  
+   CARTILLA, atrás, 
+con ropilla, espada y capa. 
+ 
+ CLEMENTE 
+  
+Acaba presto, Cartilla. 
+ 
+ 
+ CARTILLA 
+ Sin juicio estás.
+ 
+ 
+ 
+ CLEMENTE 
+   Estoy loco.
+ 
+ 
+ 
+ CARTILLA 
+ Señor, vete poco a poco.
+ 
+ 
+ 
+ CLEMENTE 
+  Ponme bien esta golilla.
+ 
+ 
+ 
+ CARTILLA 
+ Pues di: ¿qué te sucedió?
+ 
+ 
+ 
+ CLEMENTE 
+ ¿No me dejas?
+ 
+ 
+ 
+ CARTILLA 
+   No te dejo.
+ 
+ 
+ ¿Ha echado menos el viejo
+ 
+ 
+ los cuatro tapices?
+ 
+ 
+ 
+ CLEMENTE 
+ No.
+ 
+ 
+ 
+ CARTILLA 
+ 
+¿No entró a verte muy severo?
+ 
+ 
+ Pues dime qué te quería.
+ 
+ 
+ 
+ CLEMENTE 
+  A aconsejarme venía  
+ 
+ que le volviese el salero.
+ 
+ 
+ 
+ CARTILLA 
+ Tarde viene. Dime agora
+ 
+ 
+ el dolor que te maltrata,
+ 
+ 
+ acaba.
+ 
+ 
+ 
+ CLEMENTE 
+ ¡Oh Beatriz ingrata!
+ 
+ 
+ 
+ CARTILLA 
+ 
+Habla.
+ 
+ 
+ 
+ CLEMENTE 
+  ¡Oh Hipólita traidora!   
+ 
+ 
+ CARTILLA 
+ Tu matutino dolor
+ 
+ 
+ refiere.
+ 
+ 
+ 
+ CLEMENTE 
+  No he de decillo.
+ 
+ 
+ 
+ CARTILLA 
+ ¿Te han pedido en el Barquillo
+ 
+ 
+ algún almuerzo, señor?
+ 
+ 
+ 
+ CLEMENTE 
+  Ya Hipólita me ha vendido,  
+ 
+ 
+ doña Beatriz se ha vengado,
+ 
+ 
+ doña Clara me ha negado,
+ 
+ 
+ y yo estoy...
+ 
+ 
+ 
+ CARTILLA 
+  No te he entendido.
+ 
+ 
+¿Hipólita fue traidora?
+ 
+ 
+ ¿A ti te ha dejado?
+ 
+ 
+ 
+ CLEMENTE 
+  A mí.
+ 
+ 
+ 
+ CARTILLA 
+  ¿Con toda su honra?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Sí.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ ¿Y a otro prefiere?
+ 
+ 
+ 
+ CLEMENTE 
+ A otro adora.
+ 
+ 
+ 
+ CARTILLA 
+ ¿Beatriz por qué se mudó?
+ 
+ 
+ 
+ CLEMENTE 
+  Porque también es mujer.
+ 
+ 
+ 
+ CARTILLA 
+  Pues ¿no te adoraba ayer? 
+ 
+ 
+ CLEMENTE 
+ 
+ Y ayer de mí se olvidó.
+ 
+ 
+ 
+ CARTILLA 
+ En fin, ¿te dejaron tres?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Sí, amigo. Dame la capa.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ Un remedio hallo excelente...
+ 
+ 
+ 
+ CLEMENTE 
+   Pues ¿no me le das? ¿Qué aguardas?   
+ 
+ 
+ CARTILLA 
+  ...para que tú quedes limpio
+ 
+ 
+ de esta polvareda.
+ 
+ 
+ 
+ CLEMENTE 
+   Acaba.
+ 
+ 
+ 
+ CARTILLA 
+  Pues es el remedio...
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Qué?
+ 
+ 
+ (Dale la capa, y sacúdesela.) 
+ 
+ CARTILLA 
+ ...que te sacudas la capa.
+ 
+ 
+ 
+ CLEMENTE 
+   Ea, salgamos a la calle.
+ 
+ 
+ Cierra esa puerta.
+ 
+ 
+ 
+ CARTILLA 
+ Cerrada.   
+ (Cierra.) 
+ 
+ 
+ CLEMENTE 
+ La llave.
+ 
+ 
+ 
+ CARTILLA 
+   Toma la llave.
+ 
+ 
+ 
+ CLEMENTE 
+  Requerir quiero esta espada,  
+ 
+ 
+ (Tienta la espada.)  
+ no esté gastado el botón
+ 
+ 
+ de la espiga.
+ 
+ 
+ 
+ CARTILLA 
+  
+   ¿A eso te paras?    
+ 
+ 
+ CLEMENTE 
+ 
+Sí, porque voy a dar muerte
+ 
+ 
+ al regidor.
+ 
+ 
+ 
+ CARTILLA 
+ 
+  ¿Por qué causa?
+ 
+ 
+ 
+ CLEMENTE 
+ Porque me ha desafiado.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Dime cuándo.
+ 
+ 
+ 
+ CLEMENTE 
+   Esta mañana.
+ 
+  
+ Porque anoche con Hipólita 
+ 
+ le hallé dentro de su casa.
+ 
+ 
+ 
+ CARTILLA 
+ ¿Te buscó?
+ 
+ 
+ 
+ CLEMENTE 
+   Me envió un papel.
+ 
+ 
+ 
+ CARTILLA 
+  ¿Con buena nota?
+ 
+ 
+ 
+ CLEMENTE 
+   Estremada.
+ 
+ 
+ 
+ CARTILLA 
+ Deja que le lea.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+   Lee. 
+    (Dale el papel.) 
+ 
+ 
+ CARTILLA 
+ 
+Dice de esta suerte.
+ 
+ 
+ 
+ CLEMENTE 
+  Acaba. 
+ 
+ 
+    CARTILLA 
+ (Lee.) 
+ «Por ruegos de doña Hipólita, me retiré  anoche, y por que se entienda que obedecer a una mujer no es temer a un hombre, le espero en el remate de la calle de las Huertas con un amigo».
+ 
+ 
+ ¿Viose papel más gracioso?
+ 
+ 
+ Yo digo que si le matas,
+ 
+ 
+ pierde Almagro un gran sujeto.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Llevar quiero un camarada, 
+ 
+  
+ pues él lleva otro consigo. 
+ 
+ 
+ CARTILLA 
+ 
+ Vete solo, y que se vaya
+ 
+ 
+ el padrino que él trujere.
+ 
+ 
+ ¡Lo que me pudre y me mata
+ 
+ 
+ el que usen llevar padrinos! 
+ 
+  
+ ¿Que se esté un hombre en su casa,   
+ 
+ 
+ con su quietud, con sus hijos
+ 
+ 
+ y su mujer, y que haya
+ 
+ 
+ quien diga: «Veníos conmigo,
+ 
+ 
+ que a reñir voy a campaña,
+ 
+  
+ que hago confianza de vos»? 
+ 
+ Ladrón, haz de ti confianza,
+ 
+ 
+ y riñe tú tu pendencia,
+ 
+ 
+ pues eres tú quien la causa.
+ 
+ 
+ Llevar a uno por padrino
+ 
+  
+ a una boda, aun eso vaya,
+ 
+ 
+ aunque también es pendencia
+ 
+ 
+ hacerle a un hombre que salga
+ 
+ 
+ por padrino de un bateo;
+ 
+ 
+ vaya con Dios, aunque gasta
+ 
+  
+ una vela y un mantillo 
+ 
+ y un pomo de agua de ámbar,
+ 
+ 
+ los derechos de la iglesia,
+ 
+ 
+ la comadre y la criada
+ 
+ 
+ que lleve el niño, sin otras
+ 
+  
+ menudencias de otra data. 
+ 
+ Pero que llamen padrino
+ 
+ 
+ al que va de mala gana
+ 
+ 
+ con la cólera del otro
+ 
+ 
+ a irse a matar a estocadas,
+ 
+  
+ es cosa que ha de pudrirme; 
+ 
+ pero lo que más me mata
+ 
+ 
+ no es que haya tontos que llamen,
+ 
+ 
+ es que haya locos que vayan.
+ 
+ 
+ 
+ CLEMENTE 
+  Yo es fuerza que llame a uno.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Yo iré contigo.
+ 
+ 
+ 
+ CLEMENTE 
+   ¿A que hagas  
+ 
+ 
+ lo que sueles?
+ 
+ 
+ 
+ CARTILLA 
+ ¡Qué de veces
+ 
+ 
+ me has dado con esto en cara!
+ 
+ 
+ ¿Es más de que corro bien?
+ 
+ 
+ A la pelota no es falta.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿A quién llevaré a mi lado? 
+ 
+ (Ande por el tablado.) 
+ 
+ CARTILLA 
+  Par Dios, no lo sé. ¡Ah, sí! Llama
+ 
+ 
+ a don Bernardo, que es hombre
+ 
+ 
+ que en una pendencia honrada
+ 
+ 
+ nunca volvió paso atrás.
+ 
+  
+ Verdad es que, por desgracia,    
+ 
+ sacó tres grandes heridas.
+ 
+ 
+ 
+ CLEMENTE 
+  Cartilla, de mejor gana
+ 
+ 
+ llevara a quien se las dio.
+ 
+ 
+ 
+ CARTILLA 
+ Y aun yo te lo aconsejara.
+ 
+  
+ Válgame Dios, ¿quién irá
+ 
+ 
+ contigo?
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Mi maestro de armas
+ 
+ 
+ será bueno?
+ 
+ 
+ 
+ CARTILLA 
+ 
+ No, señor,
+ 
+ 
+ que esto es con espadas blancas.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+¿Y don Nicolás es bueno?
+ 
+ 
+ 
+ CARTILLA 
+  Es miserable.
+ 
+ 
+ 
+ CLEMENTE 
+  
+¿Esa es falta 
+ 
+ para reñir?
+ 
+ 
+ 
+ CARTILLA 
+ 
+  ¿Cómo quieres
+ 
+ 
+ que dé las heridas francas?
+ 
+ 
+ Mas tente, que ya le he hallado.
+ 
+ 
+ 
+ CLEMENTE 
+ Dímele.
+ 
+ 
+ 
+ CARTILLA 
+  Si me lo pagas.
+ 
+ 
+ 
+ CLEMENTE 
+  
+El vestido de bayeta  
+ 
+ con pestaña te doy. Habla.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Vestido con tantos ojos
+ 
+ 
+ fuerza es que tenga pestañas.
+ 
+ 
+ 
+ CLEMENTE 
+  Grande majadero eres.
+ 
+ 
+ 
+ CARTILLA 
+  Con la bayetilla rancia
+ 
+ 
+ bien puedo ser majadero,
+ 
+ 
+ mas no frisado.
+ 
+ 
+ 
+ CLEMENTE 
+ No me hagas
+ 
+ 
+ perder el juicio.
+ 
+ 
+ 
+ CARTILLA 
+ Ya es tarde.
+ 
+ 
+ 
+ CLEMENTE 
+ Dime el que eliges, acaba.
+ 
+ 
+ 
+ CARTILLA 
+  Pues yo elijo...
+ 
+ 
+ 
+ CLEMENTE 
+  
+Acaba presto, 
+ 
+ dilo.
+ 
+ 
+ 
+ CARTILLA 
+ A don Julián de Mata.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ¿Tienes tú satisfación
+ 
+ 
+ de su acero?
+ 
+ 
+ 
+ CARTILLA 
+ La que basta;
+ 
+ 
+ mas no le elijo por eso.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Pues ¿por qué?
+ 
+ 
+ 
+ CARTILLA 
+  
+   Escucha la causa.
+ 
+ 
+ Este hombre es entretenido.
+ 
+ 
+ 
+ CLEMENTE 
+  Adelante.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Este hombre anda
+ 
+ 
+ entremetiéndose con
+ 
+ 
+ tus Beatrices y tus Claras.
+ 
+  
+ Pues entresácale ahora 
+ 
+ a reñir a la campaña,
+ 
+ 
+ y una de dos, señor: u
+ 
+ 
+ le cascan u no le cascan.
+ 
+ 
+ Si te le zurran, te vengan
+ 
+  
+ de él; mas si él se da tal maña 
+ 
+ que sacude, te venga él
+ 
+ 
+ del regidor de la Mancha. 
+ 
+ Y así de una suerte y otra,
+ 
+ 
+ dé o tome, tomas venganza:
+ 
+  
+ del regidor, si le zurran; 
+ 
+ del Julián, si le badanan.
+ 
+ 
+ 
+ CLEMENTE 
+  Dices bien. ¿Dónde he de hallarle?
+ 
+ 
+ 
+ CARTILLA 
+ En la puerta de su casa
+ 
+ 
+ está todos los más días
+ 
+  
+ dos horas por la mañana
+ 
+ 
+ a hacerse por fuerza amigo
+ 
+ 
+ de no más de los que pasan.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Pues cerca estamos.
+ 
+ 
+ 
+ CARTILLA 
+ Y tanto,
+ 
+ 
+ que es aquel.
+ 
+ 
+ 
+ CLEMENTE 
+   Bien dices, anda.
+ 
+ 
+ 
+ CARTILLA 
+   Oyes, pásate de largo. 
+ 
+ Verás cómo sin buscarla
+ 
+ 
+ se entra en la pendencia, aunque
+ 
+ 
+ no le hables una palabra.
+ 
+ 
+ 
+ CLEMENTE 
+ Mejor es que él quiera ir.
+ 
+ 
+ Bien has dicho.
+ 
+ 
+ 
+ CARTILLA 
+  
+Pues enzaina   
+ 
+ 
+ el sombrero y ponte luego
+ 
+ 
+ al estómago la daga,
+ 
+ 
+ agóbiate de cintura,
+ 
+ 
+ saca hacia fuera la espalda,
+ 
+  
+ ponte crudo y mira al suelo,
+ 
+ 
+ y verás cómo se clava.
+ 
+ 
+ 
+ CLEMENTE 
+  Pasemos 
+ 
+ 
+ CARTILLA 
+ No nos ha visto.
+ 
+ 
+ 
+ (Mira al vestuario.)  
+ Párate aquí un poco y habla
+ 
+ 
+ conmigo como enojado.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ No nos mira. ¿Hay tal?
+ 
+ 
+ 
+ CARTILLA 
+  Aguarda,  
+ 
+ 
+ que te vio.
+ 
+ 
+ 
+ CLEMENTE 
+   ¿Viene ya?
+ 
+ 
+ 
+ CARTILLA 
+ Sí.
+ 
+ 
+ 
+ CLEMENTE 
+ Pues él se nos viene, vaya.
+ 
+ 
+ 
+ (Sale DON JULIÁN.) 
+ 
+ JULIÁN 
+ ¿Don Clemente?
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Don Julián?
+ 
+ 
+ 
+ JULIÁN 
+  ¿Dónde vais tan de mañana
+ 
+  
+ por esta calle del Prado? 
+ 
+ 
+ CLEMENTE 
+ 
+ A un negocio de importancia
+ 
+ 
+ voy de priesa. Adiós, amigo.
+ 
+ 
+ 
+ JULIÁN 
+ Él os guarde.
+ 
+ 
+ (Vase.) 
+ 
+ CARTILLA 
+  (Y si importara 
+ 
+ 
+ apartarle de nosotros,
+ 
+  
+ se estuviera hasta mañana.) 
+ 
+ (Sale DON JULIÁN.) 
+ 
+ JULIÁN 
+ 
+Ansí...
+ 
+ 
+ 
+ CLEMENTE 
+ 
+¿Qué decís?
+ 
+ 
+ 
+ JULIÁN 
+ 
+...parece
+ 
+ 
+ que vais mohíno.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+  No es nada.
+ 
+ 
+ Quedaos con Dios.
+ 
+ 
+ 
+ JULIÁN 
+ Si es pendencia,
+ 
+ 
+ vuestro soy, y traigo espada.
+ 
+ 
+ 
+ CARTILLA 
+  
+Pendencia es; pero no importa,   
+ 
+ 
+ que es en el campo.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+No me hagas
+ 
+ 
+ que te rompa la cabeza,
+ 
+ 
+ pícaro.
+ 
+ 
+ (Hace que quiere dar al criado.) 
+ 
+ JULIÁN 
+  Tened la daga.
+ 
+ 
+ ¿Vais a reñir?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+  [A CARTILLA.]  No voy tal, 
+ 
+ gallina.
+ 
+ 
+ 
+ CARTILLA 
+  Yo soy un mandria;
+ 
+ 
+ pero ¿quién podrá mejor
+ 
+ 
+ ir a tu lado a campaña
+ 
+ 
+ como el señor don Julián,
+ 
+ 
+ que a menudas estocadas
+ 
+  
+ le contará los botones  
+ 
+ al Cid, aunque no los traiga?
+ 
+ 
+ 
+ JULIÁN 
+ Y eso es desconfiar de mí,
+ 
+ 
+ y en la Alemania Alta y Baja
+ 
+ 
+ saben quién es el alférez
+ 
+ 
+ don Julián de Mata.
+ 
+ 
+ 
+ CARTILLA 
+   Y basta
+ 
+ 
+ reñir un hombre con uno,
+ 
+ 
+ sin irse a meter en danza
+ 
+ 
+ con dos.
+ 
+ 
+ 
+ JULIÁN 
+ Pues ¿con dos queréis
+ 
+ 
+ reñir solo?
+ 
+ 
+ 
+ CARTILLA 
+ 
+(Dio en la trampa.)
+ 
+ 
+ 
+ CLEMENTE 
+  
+ Pues ¿no basta mi criado? 
+ 
+ 
+ CARTILLA 
+ Yo sé si 
+ basta o no basta,
+ 
+ 
+ y a toda ley don Julián...
+ 
+ 
+ 
+ JULIÁN 
+  Y yo tengo con vos tanta
+ 
+ 
+ que de vos no he de apartarme.
+ 
+ 
+ 
+ CLEMENTE 
+  
+Pues, Cartilla, vete a casa, 
+ 
+ que ya vamos dos a dos.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Pues adiós.
+ 
+ 
+ (Vase.) 
+ 
+ JULIÁN 
+ 
+¿Adónde aguardan
+ 
+ 
+ los que os esperan?
+ 
+ 
+ 
+ CLEMENTE 
+ Están
+ 
+ 
+ a la vuelta de esas tapias,
+ 
+  
+ que son de los trinitarios 
+ 
+ descalzos.
+ 
+ 
+ (Anden por el tablado.) 
+ 
+ JULIÁN 
+   ¿Sabré la causa
+ 
+ 
+ por que os han desafiado,
+ 
+ 
+ amigo?
+ 
+ 
+ 
+ CLEMENTE 
+ Por una dama.
+ 
+ 
+ (Sale CARTILLA, detrás.) 
+ 
+ CARTILLA 
+  (Poco a poco he de seguirlos,
+ 
+  
+ y he de hacer la patarata 
+ 
+ de valiente a su ocasión.)
+ 
+ 
+ 
+ JULIÁN 
+ ¿Sabéis jugar bien las armas?
+ 
+ 
+ 
+ CLEMENTE 
+  Con cólera no hay destreza.
+ 
+ 
+ 
+ JULIÁN 
+  Yo no la tengo, y me holgara
+ 
+  
+ aprovechar dos liciones 
+ 
+ de Carranza.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Heridas falsas
+ 
+ 
+ son todas las que enseñó.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ Quien no sabe ejecutarlas
+ 
+ 
+ las llama así; mas yo sé
+ 
+  
+ si son finas o son falsas. 
+ 
+ 
+ CLEMENTE 
+ 
+¿Habéis jugado en Madrid?
+ 
+ 
+ 
+ JULIÁN 
+ 
+Con los hombres de más fama.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Dan aquí unas zambullidas
+ 
+ 
+ excelentes.
+ 
+ 
+ 
+ JULIÁN 
+ 
+Estremadas.
+ 
+  
+ Para librar zambullidas
+ 
+ 
+ yo sé una lición bizarra.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ Decídmela.
+ 
+ 
+ 
+ JULIÁN 
+ No jugar
+ 
+ 
+ con quien las juega.
+ 
+ 
+ 
+ CARTILLA 
+  No es mala.
+ 
+ 
+ 
+ CLEMENTE 
+ Aquestas las tapias son.
+ 
+ 
+ 
+ JULIÁN 
+ Y este el campo.
+ 
+ 
+ 
+ CLEMENTE 
+  
+Y allí aguarda.   
+ 
+ 
+ 
+ (Sale JUAN MARTÍNEZ.) 
+ 
+ JUAN 
+  Bienvenido, don Clemente.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Ya yo vengo a la campaña
+ 
+ 
+ a cumplir mi obligación.
+ 
+ 
+ 
+ JUAN 
+  Señor don Julián de Mata,
+ 
+ 
+ ¿vos contra mí?
+ 
+ 
+ 
+ JULIÁN 
+    Cuando salgo   
+ 
+ llamado, del que me llama
+ 
+ 
+ soy amigo solamente.
+ 
+ 
+ 
+ CLEMENTE 
+  Pues ea, sacad la espada,
+ 
+ 
+ llamad a vuestro padrino.
+ 
+ 
+ ¿Qué aguardáis?
+ 
+ 
+ 
+ JUAN 
+  Una palabra:   
+ 
+ yo vengo solo.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+  ¿Por qué?
+ 
+ 
+ 
+ JUAN 
+  Fui a buscar un camarada,
+ 
+ 
+ que es valiente, de mi tierra,
+ 
+ 
+ y me han contado en su casa
+ 
+  
+ que ayer tarde se fue a Almagro;    
+ 
+ que yo en esta confianza
+ 
+ 
+ os escribí que trujeseis
+ 
+ 
+ otro con vos. Pero basta
+ 
+ 
+ que riñamos vos y yo.
+ 
+  
+ Vuestro padrino se vaya
+ 
+ 
+ a prevenir confesor,
+ 
+ 
+ y saquemos las espadas,
+ 
+ 
+ y a quien se la diere Dios,
+ 
+ 
+ que se la perdone el papa.
+ 
+ 
+ 
+ JULIÁN 
+   Decís bien. Mas yo he salido
+ 
+ 
+ a reñir a la campaña,
+ 
+ 
+ y a un hidalgo de mi porte,
+ 
+ 
+ de mi obligación y fama,
+ 
+ 
+ le toca, en saliendo al campo,
+ 
+  
+ reñir. Vuelva, si le agrada,
+ 
+ 
+ a buscar otro padrino,
+ 
+ 
+ y a mi propio padre traiga;
+ 
+ 
+ que, en el campo, con mi padre
+ 
+ 
+ me he de matar a estocadas.
+ 
+ 
+ 
+ JUAN 
+  ¿Vos no sois mi grande amigo?   
+ 
+ Responded.
+ 
+ 
+ 
+ JULIÁN 
+ Fuilo en la Mancha,
+ 
+ 
+ y este es otro arzobispado.
+ 
+ 
+ 
+ CARTILLA 
+  (Ahora entra mi patarata.)
+ 
+ 
+ ¿Oye vucé? Traiga dos.
+ 
+ 
+ 
+ JUAN 
+ ¿Dos? ¿Por qué?
+ 
+ 
+ 
+ CARTILLA 
+   Vucé los traiga,  
+ 
+ 
+ que del lado de mi amo
+ 
+ 
+ no he de irme.
+ 
+ 
+ 
+ CLEMENTE 
+  Uno solo basta,
+ 
+ 
+ que yo haré que nos deje.
+ 
+ 
+ 
+ CARTILLA 
+ No hayas miedo que tal hagas,
+ 
+  
+ que yo he comido tu pan,
+ 
+ 
+ aunque he bebido tu agua,
+ 
+ 
+ y de aquí no he de apartarme
+ 
+ 
+ hasta que a su lado salga
+ 
+ 
+ un valiente motilón
+ 
+  
+ con quien darme de las astas.    
+ 
+ 
+ CLEMENTE 
+ 
+¿De cuándo acá tú valiente?
+ 
+ 
+ ¿Desde ahora?
+ 
+ 
+ 
+ CARTILLA 
+ Hay horas menguadas.
+ 
+ 
+ 
+ JUAN 
+ Don Clemente, oíd por Dios.
+ 
+ 
+ 
+ CLEMENTE 
+ Idos, no estéis importuno.
+ 
+ 
+ 
+ JUAN 
+  Basta ir a buscar a uno, 
+ 
+ sin que haya de buscar dos,
+ 
+ 
+o haréis los tres que me alabe
+ 
+ 
+ que estoy solo.
+ 
+ 
+ 
+ CLEMENTE 
+ Tú te has de ir.
+ 
+ 
+ Di: ¿por qué quieres reñir?
+ 
+ 
+ 
+ CARTILLA 
+  
+Yo he de saber a qué sabe. 
+ 
+  (Aparte.)  
+(Este hombre no reñirá, 
+ 
+ y yo quedo por valiente.)
+ 
+ 
+ 
+ JUAN 
+ 
+Voy por otro amigo.
+ 
+ 
+ 
+ JULIÁN 
+ Tente,
+ 
+ 
+ que un remedio he hallado ya.
+ 
+ 
+ 
+ CARTILLA 
+  Si me toca al pundonor, 
+ 
+ no le oigo.
+ 
+ 
+ 
+ CLEMENTE 
+ Hablad.
+ 
+ 
+ 
+ JULIÁN 
+ Ya le digo.
+ 
+ 
+ 
+ JUAN 
+  ¿Qué es?
+ 
+ 
+ 
+ JULIÁN 
+ Yo soy tan vuestro amigo
+ 
+ 
+ como soy del regidor.
+ 
+ 
+ 
+ JUAN 
+ Antigua es nuestra amistad.
+ 
+ 
+ 
+ CARTILLA 
+  
+(En paz los quiere meter.)  
+ 
+ 
+ JULIÁN 
+ Él no sabe a quién traer
+ 
+ 
+ por padrino.
+ 
+ 
+ 
+ CLEMENTE 
+ Así es verdad.
+ 
+ 
+ 
+ JULIÁN 
+ Pues yo me paso a su lado,
+ 
+ 
+ por que esto se empiece ya.
+ 
+  
+ Y a vuestro lado podrá
+ 
+ 
+ reñir...
+ 
+ 
+ 
+ CLEMENTE 
+ 
+¿Quién?
+ 
+ 
+ 
+ JULIÁN 
+  ...vuestro criado.
+ 
+ 
+Para esto le dad licencia.
+ 
+ 
+ Dos a dos, los cuatro así
+ 
+ 
+ reñiremos, que por mí
+ 
+  
+ no se ha deshecho pendencia.    
+ 
+Porque no es razón  ni quiero
+ 
+ 
+ ahora, aunque sea razón,
+ 
+ 
+ que se deje esta cuestión
+ 
+ 
+ por no hallar su compañero.
+ 
+ 
+ (Pásase al lado del REGIDOR.) 
+ 
+ CLEMENTE 
+  ¿Vos no venisteis conmigo?  
+ 
+ 
+ 
+ JULIÁN 
+ Haced vos cuenta que no.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ¿Y queréis que riña yo
+ 
+ 
+ con vos? Responded.
+ 
+ 
+ 
+ JULIÁN 
+ No, amigo.
+ 
+ 
+ 
+ CLEMENTE 
+ Pues ¿cómo os vais de mi lado
+ 
+  
+ hoy, que a reñir os provoca 
+ 
+ mi amor?
+ 
+ 
+ 
+ JULIÁN 
+  Es que a mí me toca
+ 
+ 
+ reñir con vuestro criado.
+ 
+ 
+ 
+ CARTILLA 
+ No toca, y hay otros modos
+ 
+ 
+ para hallar suave medio.
+ 
+ 
+ 
+ JULIÁN 
+  Yo no hallo mejor remedio 
+ 
+ para que riñamos todos.
+ 
+ 
+ 
+ CARTILLA 
+ Entremetido malino,
+ 
+ 
+ respóndeme: ¿de qué suerte
+ 
+ 
+ te has metido por meterte
+ 
+  
+ en meterte a ser padrino? 
+ 
+ 
+ CLEMENTE 
+ Yo de su modo civil
+ 
+ 
+ tomaré venganza honrosa.
+ 
+ 
+ 
+ JULIÁN 
+  Don Clemente, esto no es cosa
+ 
+ 
+ que no la han hecho dos mil.
+ 
+ 
+ 
+ CLEMENTE 
+  Razón y acero serán
+ 
+ 
+ los que me venguen aquí.
+ 
+ 
+ (Sacan las espadas.) 
+ 
+ CARTILLA 
+ (El diablo me metió a mí
+ 
+ 
+ en llamar a don Julián.)
+ 
+ 
+ 
+ JULIÁN 
+ Sacad la espada.
+ 
+ 
+ 
+ CARTILLA 
+ 
+¿Hay tal loco?
+ 
+ 
+ (Riñen CARTILLA y DON JULIÁN.) 
+ 
+ JULIÁN 
+  El lacayo muestra bríos. 
+ 
+ 
+ CLEMENTE 
+  ¿Vos qué aguardáis?
+ 
+ 
+ 
+   JUAN 
+ Reyes míos,
+ 
+ 
+ 
+  (Saca la espada, y tírale DON CLEMENTE.)  
+ matémonos poco a poco.
+ 
+ 
+¿Cómo tiráis estocadas?
+ 
+ 
+ Eso es quererme matar.
+ 
+ 
+ 
+ CLEMENTE 
+ ¿Qué he de hacer?
+ 
+ 
+ 
+ JUAN 
+  En mi lugar   
+ 
+ reñimos a cuchilladas.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Cerrada conmigo la hace.
+ 
+ 
+ 
+ JUAN 
+ Tened. ¿No queréis teneros?
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Qué hay?
+ 
+ 
+ 
+ JUAN 
+  Troquemos compañeros;
+ 
+ 
+ pasaos acá.
+ 
+ 
+ 
+ JULIÁN 
+  
+Que me place. 
+ 
+ (Truecan, pasándose DON JULIÁN a reñir con DON CLEMENTE,
+y CARTILLA con el REGIDOR.)  
+Ea, riñamos, amigo,
+ 
+ 
+ que yo a todo me acomodo.
+ 
+ 
+ 
+ CARTILLA 
+ (Por solo meterse en todo,
+ 
+ 
+ se mete a reñir contigo.)
+ 
+ 
+ 
+ JULIÁN 
+  Entrad recto y con valor.
+ 
+ 
+ (Tíranse.) 
+ 
+ CLEMENTE 
+ Sois diestro.
+ 
+ 
+ 
+ JULIÁN 
+ Como valiente.
+ 
+ 
+ 
+ JUAN 
+  Mal por mal, venga el sirviente.
+ 
+ 
+ 
+ CARTILLA 
+  Mal por mal, el regidor;
+ 
+ 
+Ea, ese brazo tended.
+ 
+ 
+ 
+ JULIÁN 
+ Partid conmigo.
+ 
+ 
+ 
+ CLEMENTE 
+  Ya parto. 
+ 
+ 
+ JULIÁN 
+ Va por el círculo cuarto
+ 
+ 
+ esta estocada, tened.
+ 
+ 
+ 
+   (Dale una estocada DON CLEMENTE a DON JULIÁN.) 
+ 
+    CLEMENTE 
+ ¿En qué
+ os suspendéis?
+ 
+ 
+ 
+ JULIÁN 
+ Sospecho
+ 
+ 
+ que herido agora me habéis
+ 
+  
+ sin saber lo que os hacéis. 
+ 
+ 
+ CLEMENTE 
+ ¿Dónde es la herida?
+ 
+ 
+ 
+ JULIÁN 
+ En el pecho.
+ 
+ 
+ 
+ CLEMENTE 
+ No puede ser.
+ 
+ 
+ 
+ JULIÁN 
+ Esto es cierto.
+ 
+ 
+ ¿Sabéis por qué me habéis dado?
+ 
+ 
+ 
+ CLEMENTE 
+ Decid por qué.
+ 
+ 
+ 
+ JULIÁN 
+  De confiado. 
+ 
+  
+ Mal haya el partir abierto; 
+ 
+pero, más que la destreza,
+ 
+ 
+ sangre y valor me apasiona.
+ 
+ 
+ 
+ (Riñen.) 
+ 
+ CLEMENTE 
+ Decís bien.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Arda Bayona.
+ 
+ 
+ 
+ CLEMENTE 
+  ¿Qué es eso?
+ 
+ (Dale en la cabeza.) 
+ 
+ 
+ JULIÁN 
+ Otra en la cabeza. 
+ 
+  
+Don Clemente, oíd, por Dios: 
+ 
+ el reñir con vos aquí
+ 
+ 
+ yo no lo hago por mí.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Pues ¿por quién lo hacéis?
+ 
+ 
+ 
+ JULIÁN 
+  Por vos.
+ 
+ 
+ 
+ CLEMENTE 
+ Yo hago a los cielos testigos
+ 
+  
+ que conozco lo que os debo.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ Miren aquí lo que llevo
+ 
+ 
+ por servir a mis amigos;
+ 
+ 
+hasta vengarme es preciso
+ 
+ 
+ que pelee como un Cid.
+ 
+ 
+ (Sale un SOLDADO.) 
+ 
+ SOLDADO 
+   Caballeros, advertid  
+ 
+ que en Atocha han dado aviso
+ 
+ 
+a un alcalde que allí estaba.
+ 
+ 
+ 
+ CARTILLA 
+  Pues yo me voy a sagrado.
+ 
+ 
+ 
+ SOLDADO 
+  Y a un ministro muy de lado
+ 
+  
+ escuché que le contaba 
+ 
+que por una dama era,
+ 
+ 
+ doña Clara de Guzmán.
+ 
+ 
+ Y tan cerca de aquí están
+ 
+ 
+ sus ministros, que quisiera
+ 
+  
+templar vuestra indignación.    
+ 
+ Cercano el riesgo mirad
+ 
+ 
+ y la pendencia dejad
+ 
+ 
+ para mejor ocasión,
+ 
+ 
+pues vuestra fortuna quiso
+ 
+  
+ que el aviso os venga a dar. 
+ 
+ 
+ CLEMENTE 
+  Pues para no malograr
+ 
+ 
+ la indinación y el aviso,
+ 
+ 
+en otra ocasión espero
+ 
+ 
+ tomar la satisfación.
+ 
+ 
+ 
+ JULIÁN 
+   Y yo soy de esa opinión. 
+ 
+ 
+ JUAN 
+ Y agora llevaros quiero,
+ 
+ 
+pues herido estáis por mí,
+ 
+ 
+ donde sin riesgo os curéis.
+ 
+ 
+ Vos es justo que aviséis
+ 
+  
+ a esa dama, por que así
+ 
+ 
+se libre.
+ 
+ 
+ 
+ CARTILLA 
+  Yo voy a hacella
+ 
+ 
+ que mude todo el ajuar,
+ 
+ 
+ por lo que puede importar. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ JULIÁN 
+  ¿Es por ella?
+ 
+ 
+ 
+ CLEMENTE 
+ No es por ella;
+ 
+  
+pero habrán imaginado 
+ 
+ que ella ha dado la ocasión.
+ 
+ 
+ 
+ JULIÁN 
+ Oíd, tened compasión
+ 
+ 
+ de mis sillas y mi estrado.
+ 
+ 
+Mirad, yo os tengo cariño;
+ 
+  
+ cuando vais desafiado,
+ 
+ 
+ no tiréis tan arriesgado,
+ 
+ 
+ que os puede matar un niño.  
+ 
+ 
+ (Vanse.) 
+ (Salen DOÑA CLARA, MARI CHAVES y CARTILLA.) 
+ 
+ CARTILLA 
+ 
+   ¿Doña Clara?
+ 
+ 
+ 
+ CLARA 
+ ¿Cartilla? ¿Mari Chaves?
+ 
+ 
+ 
+ MARICHISPA 
+  ¿Qué traes? Di.
+ 
+ 
+ 
+ CARTILLA 
+   Que riñó.
+ 
+ 
+ 
+ CLARA 
+ ¿Quién ha reñido?
+ 
+ 
+ 
+ CARTILLA 
+  No es nada. Don Julián es el herido,  
+ 
+ 
+ y no saldrá la fiesta muy de balde,
+ 
+ 
+ que en busca de tu casa anda un alcalde.
+ 
+ 
+ 
+ CLARA 
+ ¿Y agora adónde ha ido?
+ 
+ 
+ 
+ CARTILLA 
+ 
+A la otra casa donde tú has vivido.
+ 
+ 
+ 
+ CLARA 
+  Pues ¿qué he de hacer?
+ 
+ 
+ 
+ CARTILLA 
+  Yo quiero aconsejarte 
+ 
+ que mudemos los trastos a otra parte.
+ 
+ 
+ 
+ CLARA 
+ 
+ ¡Oh, mal haya!
+ 
+ 
+ 
+ CARTILLA 
+   Señora, no te indines.
+ 
+ 
+ La menguada que quiere a espadachines...
+ 
+ 
+ 
+ CLARA 
+ Pues ¿quién ha de mudarme?
+ 
+ 
+ 
+ CARTILLA 
+ No te afanes,
+ 
+  
+ que prevenidos traigo ganapanes.    
+ 
+ Entre todo el ganado.
+ 
+ 
+ 
+ (Salen dos GANAPANES.) 
+ 
+ GANAPÁN .º 
+ Seor menguado,
+ 
+ 
+ él será el manso si este es el ganado.
+ 
+ 
+ 
+ MARICHISPA 
+  Descuelguen los países.
+ 
+ 
+ 
+ CLARA 
+  Tú y el ama
+ 
+ 
+ tomad la llave y desarmad la cama. 
+ 
+ 
+ Cierren los cofres.
+ 
+ 
+ 
+ 
+GANAPÁN .º 
+  Ya está descolgado.  
+ 
+ 
+ CLARA 
+ Doblen presto la alfombra y el estrado.
+ 
+ 
+ 
+ CARTILLA 
+  ¿Qué espacio es este, reyes?
+ 
+ 
+ 
+ GANAPÁN .º 
+  ¿Quién se para?
+ 
+ 
+ 
+ CLARA 
+  Dale a uno la redoma de la cara.
+ 
+ 
+ (Sale DON CLEMENTE, con GANAPANES.) 
+ 
+ CLEMENTE 
+ 
+ Esta es la casa. Lleguen, buena gente.
+ 
+ 
+ 
+ CLARA 
+  ¿Quién ha entrado?
+ 
+ 
+ 
+ CLEMENTE 
+ Yo soy.
+ 
+ 
+ 
+ CLARA 
+  
+¿Es don Clemente?  
+ 
+ ¡Ah traidor! Por ti andamos... 
+ 
+ 
+ 
+ CLEMENTE 
+ 
+   ¿Que  te enfadas?
+ 
+ 
+ 
+ CLARA 
+  ...yo y mis alhajas todas arrastradas.
+ 
+ 
+ 
+ MARICHISPA 
+  ¿Que nada disimules?
+ 
+ 
+ Entren dentro a cargar con los baúles.
+ 
+ 
+ 
+ CLARA 
+  
+Si esta vez salgo yo de esta congoja,    
+ 
+ nunca más mancebito de la hoja.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ ¿No te pones el manto?
+ 
+ 
+ 
+ CLARA 
+  ¡Ay enemigo!  
+ 
+ (Pónese el manto.)  
+ ¿Quién me ha de acompañar?
+ 
+ 
+ 
+ (Sale DOÑA BEATRIZ.) 
+ 
+ BEATRIZ 
+ Yo voy contigo,
+ 
+ 
+ que las que hacemos amorosas ligas,
+ 
+  
+ hoy enemigas y después amigas.    
+ 
+ (Sale MARI CHAVES con la plata, 
+y dásela a CARTILLA.) 
+ 
+ MARICHISPA 
+ 
+ Aquí vienen la taza y la salvilla,
+ 
+ 
+ las cucharas y platos.
+ 
+ 
+ 
+ CLARA 
+ Tú, Cartilla,
+ 
+ 
+ puedes llevarlo.
+ 
+ 
+ 
+ CARTILLA 
+ Yo tengo cuidado.
+ 
+ 
+ 
+ CLARA 
+ Dale también el tenedor quebrado. 
+ 
+ 
+ 
+ MARICHISPA 
+  Yo le llevo en la manga.
+ 
+ 
+ 
+ CLARA 
+ ¡Oh cruel!
+ 
+ 
+ 
+ BEATRIZ 
+  
+¡Oh ingrato! 
+ 
+ 
+ 
+ (Salen los GANAPANES con la ropa.) 
+ 
+ GANAPÁN .º 
+  Oye vusted: ¿adónde va este hato?
+ 
+ 
+ 
+ CARTILLA 
+ 
+Sígame a mí.
+ 
+ 
+ 
+ 
+GANAPÁN .º 
+ ¿Los cofres?
+ 
+ 
+ 
+ 
+GANAPÁN .º 
+ ¿Los colchones?
+ 
+ 
+ 
+ CLARA 
+  De aquí adelante, todos Chapetones.
+ 
+ 
+ 
+ 
+GANAPÁN .º 
+ Carga este lío.
+ 
+ 
+ (Cargan el estrado y los países.) 
+ 
+ GANAPÁN .º 
+   ¡Arriba!
+ 
+ 
+ 
+ BEATRIZ 
+  ¡Hora menguada!
+ 
+ 
+ 
+ MARICHISPA 
+  ¿Tu cama de madera se está armada?   
+ 
+ 
+ BEATRIZ 
+ ¿Dónde vamos?
+ 
+ 
+ 
+ CARTILLA 
+ Al Carmen, imagino.
+ 
+ 
+ 
+ CLARA 
+  ¡Cielos, no más con hijos de vecino!
+ 
+ 
+ 
+  (Vanse, y salen JUAN MARTÍNEZ y DON JULIÁN, herido.) 
+ 
+ JUAN 
+ 
+   Aquí os habéis de curar.
+ 
+ 
+ 
+ JULIÁN 
+  No sé cómo me reporto.
+ 
+  
+ ¿Habeisme agora paseado 
+ 
+ todo el lugar en contorno,
+ 
+ 
+ y habeisme vuelto a traer
+ 
+ 
+ a esta casa?
+ 
+ 
+ 
+ JUAN 
+ Por vos solo
+ 
+ 
+ hiciera yo esta fineza.
+ 
+ 
+ 
+ JULIÁN 
+  ¿Cuál es?
+ 
+ 
+ 
+ JUAN 
+   Esperad un poco.
+ 
+ 
+ ¿Doña Hipólita?
+ 
+ 
+ (Sale HIPÓLITA.) 
+ 
+ HIPÓLITA 
+  ¿Quién llama?
+ 
+ 
+ 
+ JUAN 
+ Yo soy, que a pedir socorro
+ 
+ 
+ vengo hoy a vuestra piedad,
+ 
+ 
+ como ayer a vuestros ojos. 
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿Qué es esto?
+ 
+ 
+ 
+ JUAN 
+    Es un caballero   
+ 
+ que, de puro valeroso,
+ 
+ 
+ el pecho tiene pasado
+ 
+ 
+ y trae los dos cascos rotos.
+ 
+ 
+ Suplícoos, señora mía,
+ 
+  
+ que permitáis, sin enojo,
+ 
+ 
+ que esté un hora en vuestra casa,
+ 
+ 
+ para que sin alboroto
+ 
+ 
+ se le tome aquí la sangre.
+ 
+ 
+ Que yo por mi cuenta tomo
+ 
+  
+ que él os quede apasionado, 
+ 
+ y yo agradecido y todo.
+ 
+ 
+ 
+ HIPÓLITA 
+  Caballero, ayer me visteis
+ 
+ 
+ y ayer, sin saber yo cómo,
+ 
+ 
+ os entrasteis en mi casa,
+ 
+  
+ con tal lenguaje y tal modo 
+ 
+ que os creyera socarrón
+ 
+ 
+ si vos cubrierais lo tonto.
+ 
+ 
+ Pues veniros a mi casa,
+ 
+ 
+ con caravanas de propio,
+ 
+  
+ el mismo que ayer huisteis, 
+ 
+ como si fuerais el otro,
+ 
+ 
+ a que yo os cure un herido,
+ 
+ 
+ es el mayor desahogo
+ 
+ 
+ que he visto.
+ 
+ 
+ 
+ JULIÁN 
+   Señora mía,
+ 
+  
+ desangrándome estoy todo,
+ 
+ 
+ y para una herida es
+ 
+ 
+ mal bálsamo un circunloquio.
+ 
+ 
+ 
+ JUAN 
+ Pues ¿fue por vos la pendencia,
+ 
+ 
+ y os hacéis de rogar?
+ 
+ 
+ 
+ JULIÁN 
+ 
+¿Cómo?
+ 
+  
+ ¿Por esta señora fue? 
+ 
+ 
+ Hasta salir sano y todo,
+ 
+ 
+ no he de irme de aquesta casa.
+ 
+ 
+ 
+ HIPÓLITA 
+ 
+ Advertid que yo me corro
+ 
+ 
+ que tal se diga de mí.
+ 
+ 
+ 
+ JUAN 
+  
+ Yo desafié a don Piadoso,
+ 
+ 
+ decir quiero, a don Clemente...
+ 
+ 
+ 
+ HIPÓLITA 
+  Bien decís, que eso es lo propio.
+ 
+ 
+ 
+ JUAN 
+ ...y este caballero fue
+ 
+ 
+ mi padrino.
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿Y saben todos
+ 
+ 
+ que fue por mí?
+ 
+ 
+ 
+ JUAN 
+  No lo saben.   
+ 
+ 
+ JULIÁN 
+ 
+ Señores, ¿estamos locos?
+ 
+ 
+ Curadme, que me desangro,
+ 
+ 
+ y hablad luego como un tordo.
+ 
+ 
+ Haced que traigan un huevo.
+ 
+ 
+ 
+ JUAN 
+ No traigo blanca.
+ 
+ 
+ 
+ JULIÁN 
+  
+Esto es otro.   
+ 
+ 
+ Tomad este real de a dos
+ 
+ 
+ y enviad presto, acabad.
+ 
+ 
+ 
+ JUAN 
+  Corro.
+ 
+ 
+ ¿No basta gastar con Clara
+ 
+ 
+ sin gastar con yema y todo?  
+ 
+ 
+ (Vase.) 
+ (Dentro, los GANAPANES.) 
+ 
+ GANAPÁN .º 
+   Descarguen aquí la ropa.  
+  
+ 
+ 
+ 
+ HIPÓLITA 
+  ¿Qué ruido es este?
+ 
+ 
+ 
+ GANAPÁN .º 
+  Aquí pongo 
+ 
+ 
+ aqueste hato.
+ 
+ 
+ 
+  (Dentro, CARTILLA.) 
+ 
+   CARTILLA 
+ En la antesala  
+ 
+ 
+ pueden descargarlo todo.
+ 
+ 
+ (Sale CARTILLA.) 
+ 
+ HIPÓLITA 
+ 
+¿Cartilla?
+ 
+ 
+ 
+ CARTILLA 
+ Señora mía,
+ 
+  
+ perdóname si te estorbo, 
+ 
+ que te hago depositaria
+ 
+ 
+ de este ajuar, porque nosotros
+ 
+ 
+ con un don Julián pleiteamos,
+ 
+ 
+ y él salió con su negocio,
+ 
+  
+ y siendo tú la culpada, 
+ 
+ han imaginado todos
+ 
+ 
+ que lo ha sido doña Clara.
+ 
+ 
+ Con ella, a ponerse en cobro,
+ 
+ 
+ viene otra vecina suya.
+ 
+  
+ Tú, señora, sin enojo  
+ 
+ las recibe, pues importa
+ 
+ 
+ a tu fama y tu decoro.
+ 
+ 
+ Y si ven que eres culpada
+ 
+ 
+ agora, ha de ser forzoso
+ 
+  
+ que tus escritorios anden
+ 
+ 
+ por los otros escritorios.
+ 
+ 
+ Julián está malherido.
+ 
+ 
+ 
+ JULIÁN 
+ Y está mal curado y todo.
+ 
+ 
+ Venga ese vino y el huevo.
+ 
+ 
+ (Sale el REGIDOR  
+   con vino,
+huevo y plato.) 
+ 
+   JUAN 
+   El vino y huevo están prontos;   
+ 
+ pero no hallo cirujano
+ 
+ 
+ para curarle, y yo sobro.
+ 
+ 
+ 
+ CARTILLA 
+ 
+ Yo le curaré mejor
+ 
+ 
+ que ninguno.
+ 
+ 
+ 
+ JULIÁN 
+ Me conformo.
+ 
+ 
+ 
+ CARTILLA 
+  
+ Bata uced [aqu]esa clara.
+ 
+ 
+ (Baten el huevo, sacan paños.) 
+ 
+ HIPÓLITA 
+  Aquí hay paños.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Venga el opio,
+ 
+ 
+ que yo rociaré la herida.
+ 
+ 
+ 
+   (Bate la clara el REGIDOR, echa una bendición CARTILLA
+y hace señas que quite la mano y bebe.) 
+ 
+   JUAN 
+  Quién pudiera de este modo
+ 
+ 
+ batir la otra Clara.
+ 
+ 
+ 
+ CARTILLA 
+   En nombre
+ 
+  
+ de Dios todopoderoso, 
+ 
+ quite vusted esa mano.
+ 
+ 
+ 
+   (Bebe CARTILLA y, estando con el vino en la boca para ruciar, 
+hace señas que quiten la mano y bébese el vino.) 
+ 
+ JULIÁN 
+  ¿Se lo ha bebido?
+ 
+ 
+ 
+ CARTILLA 
+ 
+Era un sorbo.
+ 
+ 
+ 
+ JULIÁN 
+ Señor mío, acabe presto.
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿Qué dice?
+ 
+ 
+ 
+ JUAN 
+ Yo no le oigo.
+ 
+ 
+ 
+ CARTILLA 
+  ¿Cómo no le han trasquilado?   
+ 
+ (Vuelve a beber y hacer señas
+que cómo no le trasquilan.) 
+ 
+ JULIÁN 
+ 
+¿Se lo ha bebido?
+ 
+ 
+ 
+ CARTILLA 
+  Era poco.
+ 
+ 
+ 
+ JUAN 
+ 
+ Mas que ha de faltarnos vino.
+ 
+ 
+ 
+ CARTILLA 
+  ¿Eso qué importa? Ir por otro.
+ 
+ 
+ 
+ JULIÁN 
+  Cure usted sin trasquilar.
+ 
+ 
+ 
+ CARTILLA 
+   Por marzo fuera más propio.
+ 
+ 
+ (Vuelve a beber CARTILLA.) 
+ 
+ JULIÁN 
+  ¿Se lo bebió?
+ 
+ 
+ 
+ CARTILLA 
+ 
+   Sí, señor,
+ 
+ 
+ que el vino es muy pernicioso
+ 
+ 
+ para heridas, y con él
+ 
+ 
+ les crece la sangre a todos.
+ 
+ 
+ 
+ JULIÁN 
+   Pues póngame uced la clara.
+ 
+ 
+ 
+ CARTILLA 
+ 
+Dice bien. Ya se la pongo;
+ 
+ 
+ venga un paño.
+ 
+ 
+ 
+ HIPÓLITA 
+ Aquí está un lienzo.
+ 
+ 
+ 
+ (Pónele la clara CARTILLA y átale un lienzo.) 
+ 
+ CARTILLA 
+ 
+ Yo le ato.
+ 
+ 
+ (Dentro, CLEMENTE.) 
+ 
+   CLEMENTE 
+ Entren poco a poco, 
+  
+ 
+ 
+ no quiebren los contadores.
+ 
+ 
+ 
+ JULIÁN 
+  Tesoreros quiebran solo. 
+ 
+ (Sale DON CLEMENTE, 
+túrbase de ver al REGIDOR y a DON JULIÁN.) 
+ 
+ CLEMENTE 
+ Doña Hipólita, yo vengo...
+ 
+ 
+ Señor don Julián, vos ¿cómo
+ 
+ 
+ dentro de esta casa? Y vos,
+ 
+ 
+ segunda vez a mis ojos,
+ 
+  
+ ¿cómo os atrevéis a entrar?
+ 
+ 
+ 
+ HIPÓLITA 
+ Esperad, que yo respondo
+ 
+ 
+ por los dos. En esta casa
+ 
+ 
+ no hay dueño que sea más propio
+ 
+ 
+ que don Julián, a quien yo
+ 
+  
+ por mi dueño reconozco. 
+ 
+ (Aparte.)  
+ (Así me pienso vengar.)   
+ 
+ 
+ CLEMENTE 
+ Cierra el labio licencioso,
+ 
+ 
+ que has de ser mía, aunque agora...
+ 
+ 
+ (Salen al paño DOÑA CLARA, DOÑA BEATRIZ 
+y MARI CHAVES.) 
+ 
+ CLARA 
+ 
+¿Que yo llegue cuando oigo
+ 
+  
+ mi desprecio de sus labios? 
+ 
+ 
+ BEATRIZ 
+ ¡Cielos! ¿Cómo me reporto?
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Yo no quiero a doña Clara.
+ 
+ 
+ 
+ CLARA 
+  ¿Que esto escucho?
+ 
+ 
+ 
+ JULIÁN 
+  Yo tampoco.
+ 
+ 
+ 
+ CLEMENTE 
+ Yo a doña Beatriz no estimo.
+ 
+ 
+ 
+ JULIÁN 
+ Ni yo la quiero.
+ 
+ 
+ 
+ BEATRIZ 
+  ¿Que esto oigo?   
+ 
+ 
+ CLEMENTE 
+  La presente para mí
+ 
+ 
+ es la que amo.
+ 
+ 
+ 
+ JULIÁN 
+ 
+ Ese es mi tono.
+ 
+ 
+ 
+ CLEMENTE 
+ Beatriz es fea.
+ 
+ 
+ 
+ CARTILLA 
+ Y Clarilla
+ 
+ 
+ un poco falsa.
+ 
+ 
+ 
+ JULIÁN 
+ Y dos pocos.
+ 
+ 
+ 
+ CLEMENTE 
+  Hipólita es...
+ 
+ 
+ 
+ CLARA 
+  Ya yo salgo.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+ ...la que quiero.
+ 
+ 
+ 
+ BEATRIZ 
+ Yo me arrojo.
+ 
+ 
+ 
+ JULIÁN 
+ Y yo la quiero también.
+ 
+ 
+ (Descúbrense DOÑA CLARA y DOÑA BEATRIZ.) 
+ 
+ CLARA 
+ 
+ Pues, traidor...
+ 
+ 
+ 
+ BEATRIZ 
+ Pues, alevoso...
+ 
+ 
+ 
+ CLARA 
+ ...¿tú anoche no me adorabas?
+ 
+  
+ Pero este escarmiento tomo.
+ 
+ 
+ ¿Doña Hipólita?
+ 
+ 
+ 
+ HIPÓLITA 
+ ¿Qué quieres?
+ 
+ 
+ 
+ CLARA 
+ Que me oigas te pido solo.
+ 
+ 
+ 
+ HIPÓLITA 
+  Ya te escucho.
+ 
+ 
+ 
+ JUAN 
+  Don Julián,
+ 
+ 
+ hagamos aquí otro corro.
+ 
+ 
+ 
+ JULIÁN 
+ 
+Cartilla, amigo.
+ 
+ 
+ 
+ CARTILLA 
+    Ya llego. 
+ 
+ 
+   (Hacen dos corros, las mujeres uno y los hombres otro.)  
+ Llégate tú.
+ 
+ 
+ 
+ CLARA 
+ Oídme todos:
+ 
+ 
+ ya veis que todos los hombres
+ 
+ 
+ son falsos y mentirosos.
+ 
+ 
+ 
+ CLEMENTE 
+ 
+Ya veis que toda mujer
+ 
+  
+ es más falsa que nosotros. 
+ 
+ Pues escarmiento, y dejarlas.
+ 
+ 
+ 
+ HIPÓLITA 
+  Pues dejarlos.
+ 
+ 
+ 
+ JUAN 
+ Eso escojo.
+ 
+ 
+ 
+ CLARA 
+  Hacer camisas de tienda,
+ 
+ 
+ y no hablallos.
+ 
+ 
+ 
+ BEATRIZ 
+ Me conformo.
+ 
+ 
+ 
+ CLEMENTE 
+   Rezar por que Dios nos libre 
+ 
+ de mujeres y demonios.
+ 
+ 
+ 
+ CLARA 
+  ¡Ah, quién estuviera agora
+ 
+ 
+ en el teatro famoso
+ 
+ 
+ del Príncipe! 
+ 
+ 
+ CLEMENTE 
+   ¡Quién se hallara
+ 
+  
+ en el coliseo heroico 
+ 
+ de la Cruz! 
+ 
+ 
+ BEATRIZ 
+ 
+Di: ¿qué dijeras?
+ 
+ 
+ 
+ CARTILLA 
+  Di: ¿qué dijeras?
+ 
+ 
+ 
+ CLARA 
+ A todos
+ 
+ 
+ les dijera de esta suerte.
+ 
+ 
+ 
+ CLEMENTE 
+ Y yo a todos de este modo:
+ 
+  
+ Galán, que entras por un lado   
+ 
+ 
+ con dama de mucho toldo,
+ 
+ 
+ pensando que eres querido
+ 
+ 
+ y el otro no, abrir el ojo.
+ 
+ 
+ 
+ CLARA 
+ 
+ Abre el ojo la que tienes
+ 
+  
+ mocito como un pimpollo,
+ 
+ 
+ que son todos de oropel
+ 
+ 
+ y parecen todos de oro.
+ 
+ 
+ 
+ 
+JULIÁN 
+ Abre el ojo  
+  tú que das
+ 
+ 
+ estrado, y advierte, tonto,
+ 
+  
+ que tú entras por el estrado 
+ 
+ y otro por el escritorio.
+ 
+ 
+ 
+ HIPÓLITA 
+ Abre el ojo,  
+  dama honrada.
+ 
+ 
+ 
+ REGIDOR 
+ 
+ Tú que gastas abre el ojo,
+ 
+ 
+ que pagas a una criada
+ 
+  
+ que ha de servir a los otros.
+ 
+ 
+ 
+ MARICHISPA 
+ 
+ Terceras de estas señoras,
+ 
+ 
+ poned vuestra cara en cobro.
+ 
+ 
+ 
+ CLEMENTE 
+ Y pues todas son traidoras...
+ 
+ 
+ 
+ CLARA 
+ 
+ Y pues salen falsos todos,
+ 
+ 
+ todas a una voz...
+ 
+ 
+ 
+ CLEMENTE 
+   ...los cuatro 
+ 
+ a una voz y a un mismo tono...
+ 
+ 
+ 
+ CLARA 
+  ...digamos...
+ 
+ 
+ 
+ CLEMENTE 
+  ...decir podemos
+ 
+ 
+ de rabia...
+ 
+ 
+ 
+ BEATRIZ 
+   ...de ira...
+ 
+ 
+ 
+ JULIÁN 
+  ...de enojo...
+ 
+ 
+ 
+ TODAS 
+ 
+ ...abrir el ojo, señoras.
+ 
+ 
+ 
+ TODOS 
+   ...señores, abrir el ojo.
+ 
+ 
+ 
+ CARTILLA 
+  Y don Francisco de Rojas,
+ 
+ 
+ postrado a esos pies heroicos, 
+ 
+ pide el vítor y el perdón.
+ 
+ 
+ Pues nobles sois, sed piadosos. 
+ 
+ 
+ 
+ 
