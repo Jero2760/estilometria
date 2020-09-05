@@ -1,0 +1,8341 @@
+
+ 
+ Félix Lope de Vega y Carpio 
+ LO QUE HA DE SER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Las personas que hablan en ella.  
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ NISE 
+ 
+ 
+ PEROL 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ CELIO 
+ 
+ 
+ ALBANO 
+ 
+ 
+ TEODORO 
+ 
+ 
+ MÚSICOS 
+ 
+ 
+ SEVERO 
+ 
+ 
+ CINTIA 
+ 
+ 
+ ALCALDE VILLANO 
+ 
+ 
+ EL REY 
+ 
+ 
+ UN PINTOR 
+ 
+ 
+ CRIADOS 
+ 
+ 
+ CAPITÁN 
+ 
+ 
+ TAMBOR 
+ 
+ 
+ 
+ De los  náufragos que perecen en la nave al principio de la obra solo se escuchan
+                     tres voces “dentro”. Para el XML hemos creado los personajes de los tres “Náufragos”
+                     pero en la edición solo se muestran externamente sus tres voces como en el texto de
+                     base de esta edición.
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ Jornada I 
+ Salen LEONARDO y NISE, labradores. 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Favorecido de ti, 
+ Nise, ¿qué puedo envidiar? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Lisonjas no han de faltar. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Por qué me tratas así? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+  
+ No hay cosa que pueda en mí 
+ solicitar voluntad, 
+ como tratarme verdad. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Pues en qué te han engañado 
+ lengua y ojos que te han dado 
+  
+ el alma y la voluntad? 
+ 
+ 
+ 
+ Ellos, señora, te miran 
+ con el respeto que deben, 
+ pues cuando a verte se atreven, 
+ como del sol se retiran, 
+  
+ sus niñas dentro suspiran 
+ por las de tus ojos bellos, 
+ que tienen su vida en ellos 
+ quien vio suspirar los ojos, 
+ pues para no darte enojos 
+  
+ suspira el alma por ellos. 
+ 
+ 
+ 
+ La lengua que te ha ofendido, 
+ si con tanta honestidad 
+ como el velo a la verdad 
+ de un corazón tan rendido. 
+  
+ A la fe que de tu olvido 
+ nace tu desconfïanza, 
+ mas poco daño me alcanza, 
+ pues siendo ingrata a mi fe 
+ por lo menos viviré 
+  
+ seguro de tu mudanza. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ 
+ Quien te ve, Leonardo, hablar, 
+ tan preciado de discreto 
+ y de uno y de otro conceto, 
+ discurrir para engañar; 
+  
+ pues no pienses que has de dar 
+ ejemplo a trágico amor. 
+ Yo confieso tu valor, 
+ y que me inclino a escucharte, 
+ pero no para fïarte 
+  
+ esperanzas de favor, 
+ 
+ 
+ 
+ vete con Dios a la aldea, 
+ que aquí orillas de la mar 
+ quiero algún coral buscar, 
+ que me entretiene y recrea, 
+  
+ entre conchas de librea 
+ algún ramo suele haber 
+ que me causa más placer 
+ que oír mentiras de amantes, 
+ mas que su espuma inconstantes 
+  
+ para menguar y crecer. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Buscar coral, Nise hermosa, 
+ en mar de perlas mejores, 
+ con más ardientes colores 
+ que tiene al alba la rosa, 
+  
+ pudiera tu codiciosa 
+ mano más cerca de ti, 
+ y perdóname si fui 
+ necio en darte este consejo, 
+ si le sabes de tu espejo 
+  
+ por no escucharle de mí, 
+ 
+ 
+ 
+ rigurosa fue mi estrella 
+ en rendirme a tu rigor. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Yo estimo en mucho tu amor, 
+ no hay por qué te quejes della. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ No creerme, Nise bella, 
+ siento más que el despreciarme. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ ¿A qué puedo aventurarme 
+ mas que a no darte ocasión 
+ de celos con afición? 
+  
+ ¿A qué otro puede obligarme? 
+ 
+ 
+ 
+ (Dentro.) 
+ 
+ 
+ .º 
+ 
+ 
+ ¡Qué miserable desdicha! 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ ¡Aorza, vira amura, amaina! 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ ¡Arriba, que nos perdemos! 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ ¡Ten, zaborda, furia estraña! 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Gritos dan, algún navío 
+ corre tormenta. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ En la playa 
+ lo mostraban los delfines 
+ dando vueltas en el agua. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Qué voces tan tristes, Nise. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+  
+ Es teatro de desgracias 
+ el mar. 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ ¡Acosta de presto 
+ la barca, acosta la barca, 
+ sálvese la Infanta en ella! 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ ¿Y quién ha de ir con la Infanta? 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+  
+ Yo he de ir. 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ No, sino yo. 
+ 
+ 
+ 
+ 
+ 
+ .º 
+ 
+ Baja en tanto que se matan. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Fiero rigor de las ondas, 
+ merecido de quien anda 
+ contra su naturaleza 
+  
+ fuera de su dulce patria 
+ sobre una tabla. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Bien dices, 
+ ¿pero dónde fabricaran 
+ mayor invención los hombres 
+ para ver tierras estrañas? 
+  
+ No fuera común el mundo 
+ si aquel primer argonauta 
+ no hubiera dado a las ondas 
+ ciudades de lienzo y tablas. 
+ 
+ 
+ 
+ (Sale PEROL, villano.) 
+ 
+ 
+ PEROL 
+ 
+ Mala bestia mar furioso, 
+  
+ que si Dios no te enfrenara 
+ te hubieras tragado el mundo. 
+ ¿Qué tienes que nunca paras? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Qué es esto, hermano Perol? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Que en turbulenta borrasca 
+  
+ se tragó el mar una nave 
+ desde la quilla a la gavia. 
+ Yo estaba sobre una peña 
+ que los golpes de las aguas 
+ sufre como la porfía, 
+  
+ de un necio el que sabe y calla, 
+ cuando veo por los bordes 
+ bajar un bulto a una barca 
+ y que luego se va a pique 
+ sin perdonar una tabla; 
+  
+ fluctúa la barca luego 
+ porque del mar la inconstancia 
+ ya la sepulta en las ondas, 
+ ya por las nubes la ensalza 
+ pero de un viento impelida, 
+  
+ la rota barca en la playa 
+ dio con ella donde queda 
+ cubierta de espuma y algas. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Pues, bestia, ¿no fuera bien 
+ que a ver lo que era llegaras 
+  
+ el bulto que estaba en ella? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ A donde no me va nada 
+ nunca me meto en peligros. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Bella Nise, aquí me aguarda, 
+ que el valiente corazón 
+  
+ que me anima y acompaña 
+ favorecer me aconseja 
+ a quien desde allí me llama. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Y yo, Leonardo, te ruego 
+ 
+ (Vase.) 
+ que a ver lo que fuere vayas, 
+  
+ y si es hombre le ayudes, 
+ y si es hacienda la traigas, 
+ que suelen grandes riquezas 
+ en fortunas tan estrañas 
+ ser despojo de las ondas. 
+  
+ ¿Qué hay, Perol, de nuestras vacas? 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Bien dices, trate el pastor 
+ de sus ovejas y cabras, 
+ el mercader de su hacienda 
+ y el soldado de sus armas. 
+  
+ No han sido malas las crías, 
+ toda tu hacienda se guarda 
+ para que su dueño seas, 
+ dime por qué no te casas. 
+ ¿Leonardo no es mayoral, 
+  
+ y el mejor destas montañas? 
+ ¿No es el más noble, el más rico 
+ y el más discreto? ¿Qué aguardas? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Todo lo conozco y veo 
+ y aunque Leonardo me agrada, 
+  
+ no de suerte que me obligue 
+ a darle esas esperanzas. 
+ 
+ 
+ 
+ (Saca LEONARDO en brazos a CASANDRA.) 
+ 
+ 
+ LEONARDO 
+ 
+ Ánimo, señora mía. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ No os espantéis si me falta 
+ valor en esta ocasión, 
+  
+ que aunque le tengo en el alma, 
+ he visto el rostro a la muerte. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Llega, Nise, llega y habla 
+ a esta principal señora 
+ que era el bulto de la barca. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+  
+ Admirada del suceso 
+ apenas me atrevo a hablarla. 
+ Ah, señora. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¡Qué consuelo! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Ella es persona de chapa. 
+ ¡Qué lindo vestido y joyas! 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+  
+ No es mucho si la desmaya 
+ el peligro en que se ha visto. 
+ De aqueste monte en la falda 
+ está mi casa, aunque pobre, 
+ allá podremos llevarla. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ No, Nise bella, perdona. 
+ Yo la libré y a mi casa 
+ tengo de llevarla agora, 
+ que quiero allí regalarla. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Harasme un grande disgusto. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ ¿Yo a ti, Nise, por qué causa? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ ¿No basta que yo lo diga? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Bastó, pero ya no basta. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Quién sois, amigos? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Señora, 
+ pastores destas montañas. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ ¿Y esta tierra? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Alejandría. 
+ Vuestra historia será larga, 
+ descansad que tiempo os queda 
+ para que podáis contarla. 
+ Gran fortuna habéis corrido. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ No pudo ser más airada, 
+ si bien pues que tengo vida, 
+ no quiero en todo culparla. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Vamos, cerca está la aldea. 
+ ¿Has visto más bella dama, 
+  
+ Nise, que aquesta señora? 
+ ¿Qué nombre tenéis? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Casandra. 
+ 
+ 
+ 
+ (Llévala.) 
+ 
+ 
+ NISE 
+ 
+ ¿Qué te parece, Perol, 
+ cual la lleva y cual la alaba? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Pésate de esto? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ En estremo. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ ¿No eras tú quien despreciaba 
+ a Leonardo? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Poco entiendes, 
+ pues esta treta no alcanzas 
+ de condición de mujeres. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Qué quieres decir? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Que aman 
+  
+ con celos y aborrecidas 
+ y que aborrecen amadas. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ PEROL 
+ 
+ Eso pasa desde hoy, 
+ doy celos a cuantas andan 
+ en el valle y aborrezco 
+  
+ cuantas me miran y hablan. 
+ No sé para qué dijeron 
+ que amor con amor se paga, 
+ que donde celos no soplan 
+ nunca amor alza la llama. 
+ 
+ 
+ 
+ (Vase.) 
+ (Salen el PRÍNCIPE ALEJANDRO, MÚSICOS, CELIO, ALBANO, TEODORO, Criados.) 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+  
+ Ya falta entretenimiento. 
+ ¡Cómo dura mi prisión! 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Siéntate y esta canción 
+ escucha. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ No hay sufrimiento. 
+ 
+ 
+ 
+ 
+ 
+ [MÚSICOS] 
+ 
+ 
+ 
+ (Cantan.)  Estaba Alejandro Magno,
+                            
+  
+ fundador desta ciudad. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ No prosigáis más, dejad 
+ la música. Dime, Albano, 
+ 
+ 
+ 
+ ¿qué hay de nuevo? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Tantas cosas 
+ que no sabré referillas. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Hay tanto tiempo de oíllas 
+ que por largas y enfadosas 
+ 
+ 
+ 
+ no les faltará lugar. 
+ ¿Qué es lo que quiere de mí 
+ el Rey? ¿Para qué nací, 
+  
+ si aquí me quiere enterrar? 
+ 
+ 
+ 
+ Tantos años como tengo 
+ preso en aqueste castillo. 
+ Por Dios que me maravillo 
+ cómo la vida entretengo. 
+ 
+ 
+ 
+  
+ ¿Qué hice en naciendo yo, 
+ qué intenté sin lengua y manos? 
+ Decid, dioses soberanos, 
+ ¿qué inocencia os ofendió? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ 
+ Señor, deja de pensar 
+  
+ en cosas de tanta pena. 
+ Lo que Júpiter ordena, 
+ ¿cómo se puede escusar? 
+ 
+ 
+ 
+ ¿Tras tantos años, agora 
+ tienes tanto sentimiento? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ El verme tan hombre siento, 
+ y siento que el Rey me adora 
+ 
+ 
+ 
+ y que tras eso me tiene 
+ encerrado donde estoy. 
+ ¿Soy algún áspid? ¿Qué soy? 
+  
+ ¿Qué imagina? ¿Qué previene? 
+ 
+ 
+ 
+ ¿Téngole yo de quitar 
+ el reino? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Si de esa suerte 
+ te afliges, tendrá la muerte 
+ en tu verde edad lugar. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ 
+  
+ ¿Pues qué haré en toda esta tarde? 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Recitar algunos versos 
+ cultos, castigados, tersos, 
+ aunque el nombre me acobarde, 
+ 
+ 
+ 
+ pues tú los haces tan bien. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Diga Albano. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ ¿Yo, señor? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Sin prólogo y sin temor 
+ pide que aplauso te den. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ 
+ Oíd los tres un soneto. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Di primero la ocasión, 
+  
+ que sin esta prevención 
+ se entiende mal el conceto. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ 
+ Puesto el brazo, en un bufete 
+ de una bugía, en la llama 
+ se quemó el puño una dama. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Secreto fuego promete. 
+ 
+ 
+ 
+ ¿Merecíase quemar 
+ la mano? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ El puño bastó. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Fue la causa celos? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ No. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Yo la dejara abrasar. 
+ 
+ Soneto 
+ 
+  
+ Cándida y no pintada mariposa, 
+ al fuego se acercó sin ver el fuego, 
+ pero sin ser su centro él, mi señora luego, 
+ quiso templarse en nieve tan hermosa. 
+ No es esa, no, tu esfera luminosa, 
+  
+ dijo el amor, que entonces era fuego, 
+ «que yo soy rayo y tiemblo cuando llego 
+ a nieve de mi fuego vitoriosa». 
+ Sordo a su envidia, cuanto más ardiente, 
+ el muro de la nieve fue pasando 
+  
+ puño a una mano de sí misma ausente; 
+ el fuego está riendo, amor llorando, 
+ crece la llama, y Silvia no la siente; 
+ quién fuera lo que estaba imaginando. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ 
+ Tú lo dijiste muy bien 
+  
+ y no poco te has quemado 
+ de que ella se haya dejado 
+ quemar el puño también. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Diga Celio. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ A Laura vi, 
+ agradeció mis desvelos 
+  
+ y dándome muchos celos 
+ finge tenerlos de mí. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Da celos y está celosa; 
+ mucho sabe esa mujer. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Con esto la di a entender 
+  
+ lo que no pudiera en prosa. 
+ 
+ Soneto 
+ 
+ Laura, ¿quién son aquellos embozados, 
+ al mismo niño amor tan parecidos, 
+ que no füeron por andar vestidos 
+ y quieren encubrirse declarados, 
+  
+ aquellos envidiosos desvelados, 
+ con lo que más adoran más fingidos, 
+ que quieren de sospechas ofendidos 
+ siendo traidores presumir de honrados? 
+ Aquellas sombras que despierta sueños 
+  
+ y aquel sueño de amor con los desvelos 
+ de ardientes llamas y accidentes fríos, 
+ estas del miedo y de la envidia señas, 
+ ¿quién duda que dirás que son tus celos?, 
+ pues, Laura, no lo son, que son los míos. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+  
+ Gracioso epigrama. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ A ti 
+ todo te agrada, señor, 
+ que tu ingenio y tu valor 
+ muestran su grandeza así. 
+ 
+ 
+ 
+ Escriben que Cicerón, 
+  
+ oyendo al representante 
+ galo, que en Roma triunfante 
+ tuvo excelente opinión, 
+ 
+ 
+ 
+ vio silbar y murmurar, 
+ y que comenzó a decir: 
+  
+ «mancebos, el escribir 
+ es ingenio y no el silbar, 
+ 
+ 
+ 
+ y esto al hombre se prohíbe, 
+ porque en diferencia igual; 
+ silba cualquier animal, 
+  
+ pero solo el hombre escribe.» 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Celio, no es mi condición 
+ tan dulce, si no me agrada, 
+ no alabo. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Está confirmada 
+ de ejemplos tu discreción. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ 
+  
+ El Rey aquí te ha enviado 
+ un maestro de armas tal 
+ que no ha permitido igual. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Nuevas de ese hombre me han dado 
+ 
+ 
+ 
+ y me dicen que es un Marte. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+  
+ Brava opinión ha tenido. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Un filósofo ha venido 
+ con ánimo de enseñarte, 
+ 
+ 
+ 
+ que se burla de Platón. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Pues no le dejéis entrar, 
+  
+ que aquí no se da lugar 
+ a los que soberbios son. 
+ 
+ 
+ 
+ No quiero nada con él, 
+ que hombre que se alaba así, 
+ ¿qué puede enseñarme a mí 
+  
+ sino ser necio con él? 
+ 
+ 
+ 
+ Si mi padre me dejara 
+ ver el mundo yo supiera 
+ y más de verle aprendiera 
+ que Sócrates me enseñara. 
+ 
+ 
+ 
+  
+ Quien no ve del mundo más 
+ que este castillo en que estoy, 
+ donde si dos pasos doy 
+ es fuerza que vuelva atrás, 
+ 
+ 
+ 
+ ¿qué puede saber, Albano? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+  
+ Triste estás. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Venid conmigo. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Un pensamiento enemigo 
+ mata con la propia mano. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Hoy al Rey significad 
+ mi cuidado y sentimiento, 
+  
+ que no he de tener contento 
+ hasta tener libertad. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Sale LEONARDO.) 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Antiguo amor ya pasado, 
+ parece que estáis corrido 
+ de veros puesto en olvido 
+  
+ por otro nuevo cuidado. 
+ Mas si fuistes despreciado, 
+ como de Nise lo fuistes, 
+ mucha disculpa tuvisteis, 
+ que en amar con tal desprecio 
+  
+ no digo que fuistes necio, 
+ mas mucho lo parecistes. 
+ 
+ 
+ 
+ Vino Casandra, que ya 
+ se llama Laura en la aldea, 
+ por bien pensamiento sea 
+  
+ que pienso que sí será, 
+ ya que en vuestro traje está 
+ justamente la queréis. 
+ Y a Nise olvidado habéis, 
+ que aunque amado no seáis, 
+  
+ por lo menos me vengáis 
+ del agravio que sabéis. 
+ 
+ 
+ 
+ No os parezca liviandad 
+ haber tan presto olvidado, 
+ que donde Laura ha llegado, 
+  
+ nadie tiene libertad. 
+ Estaba en mi voluntad 
+ Nise, mas Laura llegó 
+ y que saliese mandó, 
+ pues si Nise, porque entraba 
+  
+ Laura el lugar le dejaba, 
+ ¿qué culpa le tuve yo? 
+ 
+ 
+ 
+ Viva Laura y viva en mí, 
+ que aunque me atrevo, villano, 
+ a un ángel tan soberano, 
+  
+ justamente me perdí. 
+ Y si aborrecido fui 
+ de Nise, con tal rigor 
+ querer a Laura es mejor 
+ aunque sea aborrecido, 
+  
+ pues olvido por olvido 
+ tiene Laura más valor. 
+ 
+ 
+ 
+ (Sale CASANDRA de labradora.) 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Sin admitir esperanza 
+ de volver a ser quien soy, 
+ en tan nuevo traje estoy 
+  
+ contenta de la mudanza. 
+ Que todo estado es mudanza 
+ a quien salió de fortuna 
+ tan áspera y importuna, 
+ que donde la vida queda 
+  
+ no tiene acción en que pueda 
+ decir que pasó ninguna. 
+ 
+ 
+ 
+ Salí del mar proceloso 
+ a la tierra que me veo, 
+ donde ha hallado mi deseo 
+  
+ puesto, aunque humilde, amoroso. 
+ Un labrador generoso 
+ me aposenta en su lugar, 
+ su traje vengo a tomar, 
+ tiempo no hay más que decir, 
+  
+ mas quien no sabe subir 
+ no se espante de bajar. 
+ 
+ 
+ 
+ Su entendimiento me agrada 
+ y me causa admiración 
+ ver tan noble condición 
+  
+ en tan rústica posada, 
+ no pobre y mal adornada, 
+ que algún rico en la ciudad 
+ no tiene su autoridad. 
+ Hay libros y armas, que es cosa 
+  
+ que me tienen sospechosa, 
+ de más alta calidad. 
+ 
+ 
+ 
+ Con esto en mi pensamiento 
+ se va entrando su valor, 
+ no digo que tengo amor, 
+  
+ mas tengo agradecimiento, 
+ bien que voy entrando a tiento, 
+ que no me atrevo a fiar 
+ de quien me puede engañar, 
+ que pensando agradecer 
+  
+ puedo llegar a querer 
+ y no es disculpa pensar. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Laura bella, pues así 
+ quieres que te llamen ya, 
+ ¿dónde bueno? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Donde va 
+  
+ mi pensamiento sin mí; 
+ mirando el mar desde aquí 
+ el pensamiento entretengo, 
+ y a perder el temor vengo 
+ que tuve en tanto rigor, 
+  
+ si bien, aún tengo temor 
+ con saber que no le tengo. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Antes pienso que en sosiego 
+ está después que te vio, 
+ puesto que te codició 
+  
+ para su sirena luego, 
+ que tú en esferas de fuego 
+ le pudieras transformar, 
+ a lo menos con llegar, 
+ le dejas resplandeciendo 
+  
+ como sol que amaneciendo, 
+ se estiende por todo el mar. 
+ 
+ 
+ 
+ Yo, Laura, sé bien quién eres 
+ y te respeto y te adoro, 
+ esto con aquel decoro 
+  
+ que de quien soy te difieres, 
+ jamás de Leonardo esperes 
+ más que aquesta cortesía 
+ y pues no puedes ser mía 
+ déjame solo quererte, 
+  
+ porque no puede ofenderte 
+ quien te adora y desconfía. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Leonardo, estoy admirada 
+ de tu mucha discreción; 
+ tengo una justa afición 
+  
+ a que me siento obligada. 
+ Soy quien soy, de ser amada 
+ no le ha pesado a mujer 
+ lo que te puedo querer 
+ conforme a mi calidad, 
+  
+ te ofrece mi voluntad 
+ que es lo más que puede ser. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ ¿Pues quién eres? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ No me pidas 
+ que te diga más de mí. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Pues mientras vives aquí 
+  
+ con prendas desconocidas 
+ que te quiera no me impidas, 
+ y mientras no sé quién eres 
+ te querré, aunque no me quieres, 
+ pues te igualo, aunque me ves 
+  
+ tan rústico, que después 
+ te querré por lo que fueres. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Bien dices, quiéreme a mí, 
+ haz cuenta que soy tu igual, 
+ que no procediendo mal 
+  
+ no puede pesarme a mí; 
+ pero no sabrás quién fui, 
+ porque entonces puede ser 
+ no quererme por tener 
+ respeto a mi ser primero, 
+  
+ por ser tan grande y no quiero 
+ que me dejes de querer. 
+ 
+ 
+ 
+ (Sale un CAPITÁN y un TAMBOR.) 
+ 
+ 
+ CAPITÁN 
+ 
+ 
+ Echad ese bando aquí, 
+ pues ya entramos en la aldea. 
+ 
+ 
+ 
+ 
+ 
+ TAMBOR 
+ 
+ Si aquí mandáis, aquí sea. 
+ 
+ 
+ 
+ 
+ 
+ CAPITÁN 
+ 
+  
+ Pues comienza. 
+ 
+ 
+ 
+ 
+ 
+ TAMBOR 
+ 
+ Digo ansí: 
+ 
+ Su Majestad del rey de Alejandría ofrece a cualquier persona que matare algún león
+                           docientos escudos, si fuere de humilde calidad, y si la tuviere, hácele merced del
+                           oficio que pidiere. Mándase pregonar porque venga a noticia de todos.
+                         
+ 
+ 
+ (Tocan y vanse.) 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Estraño pregón. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Aquí 
+ todos los años se da. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Pues dime al Rey qué le va 
+ en que persigan ansí 
+ 
+ 
+ 
+  
+ al rey de los animales, 
+ siendo rey? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Las ocasiones 
+ de aborrecer los leones 
+ son a su cuidado iguales. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ ¿Es por los ganados? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ ¿pues por qué ocasión? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Escucha, 
+ verás que la causa es mucha, 
+ que a su temor le obliga. 
+ 
+ Octava real 
+ 
+ Nicandro Augusto, rey de Alejandría, 
+ tuvo un hijo del reino deseado 
+  
+ en Natalia, su esposa, a quien tenía 
+ amor de ningún hombre imaginado. 
+ Quiso saber de Anaximandro un día, 
+ astrólogo de Persia celebrado, 
+ los sucesos del Príncipe en tal punto, 
+  
+ que estaba el cielo en sus desdichas junto. 
+ 
+ Octava real 
+ 
+ Pronosticole el sabio que tendría 
+ hasta los años veinte y nueve o treinta 
+ peligro de matarle un león el día 
+ que llegase a mirar su faz sangrienta. 
+  
+ Con esta temerosa astrología 
+ el afligido rey Ramiro intenta, 
+ para guardar al príncipe Alejandro, 
+ asiera el mismo Apolo Anaximandro. 
+ 
+ Octava real 
+ 
+ Fabrica, pues, un ínclito palacio, 
+  
+ la cerca de en torno de tan alto muro, 
+ que se admiraba el celestial topacio 
+ de verle acometer su cristal puro. 
+ Lo que contiene su labrado espacio, 
+ no como en Creta el laberinto escuro, 
+  
+ sino claro y espléndido, es sujeto, 
+ digno de verlo de un varón perfecto. 
+ 
+ Octava real 
+ 
+ Hay un bosque famoso que acompaña 
+ con dulces aguas un pequeño río, 
+ que se trujo a pesar de una montaña, 
+  
+ hijo engendrado de su centro frío. 
+ Jardines son las márgenes que baña, 
+ donde su pie jamás puso el estío 
+ y engaña por las aguas fugitivas 
+ ninfas de perlas que parecen vivas. 
+ 
+ Octava real 
+ 
+  
+ Corre la yerba el siempre temeroso 
+ conejo, que no ha dado el Rey licencia 
+ para animal mayor, así celoso 
+ respeta de los cielos la inclemencia, 
+ aves que son del elemento undoso, 
+  
+ lascivar por el agua en competencia 
+ pescan los peces y el anzuelo a veces, 
+ picando el cebo los convierte en peces. 
+ 
+ Octava real 
+ 
+ Las salas, las riquezas, las pinturas 
+ exceden todo humano pensamiento; 
+  
+ las fiestas, bailes, danzas y hermosuras 
+ fuera alabarlas mucho atrevimiento. 
+ Y en medio destas glorias y venturas 
+ dicen que no está el Príncipe contento, 
+ que a un hombre preso es diligencia vana 
+  
+ buscarle gusto en la riqueza humana. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ ¿Pues cómo se dio a entender 
+ el rey que verdad sería 
+ esa vana astrología? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Porque es forzoso temer, 
+ 
+ 
+ 
+  
+ ¡oh, Laura!, teniendo amor. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Que un león ha de matalle? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Esto le obliga a encerralle 
+ con tan estraño temor. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ ¿Y tanto tiempo ha de estar? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Ya tiene lo más cumplido. 
+ 
+ 
+ 
+ (Salen CINTIA y NISE, labradoras.) 
+ 
+ 
+ CINTIA 
+ 
+ Esto tiene prevenido 
+ para servirle el lugar. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ 
+ Aquí está Laura y está 
+ la que me mata de celos. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+  
+ Guárdente, Laura, los cielos. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¡Oh, Cintia! ¿Qué hay por allá? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ 
+ Ya hablas como en aldea. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Pues ya, ¿qué tengo de ser? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Lo que hay de nuevo es hacer 
+  
+ y plega a Dios que lo sea, 
+ 
+ 
+ 
+ una fiesta y regocijo 
+ las mozas deste lugar 
+ al Príncipe. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Su pesar 
+ Leonardo agora me dijo, 
+ 
+ 
+ 
+  
+ que la causa no sabía. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Guárdanle en esa prisión 
+ porque dicen que un león 
+ le ha de dar la muerte un día. 
+ 
+ 
+ 
+ Bravo baile se ha trazado, 
+  
+ todo le ha compuesto Gil. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Es poeta? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Y tan sutil 
+ que anda solo por el prado. 
+ 
+ 
+ 
+ Damón le vio el otro día 
+ hacer gestos componiendo. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Bueno a fe. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Yo no lo entiendo, 
+ o es ciencia o es fantasía. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Estoy por acompañaros. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Ojalá que tú quisieras 
+ y a nuestro pariente vieras. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Son sus celos tan raros, 
+ 
+ 
+ 
+ que Leonardo dice dél 
+ que me ha puesto un gran deseo. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¡Ay, Laura!, y como lo creo 
+ verás lo que temo en él. 
+ 
+ 
+ 
+  
+ ¡No vayas, por vida mía! 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ ¿Por qué la estorbas que vaya? 
+ ¿Siempre ha de ser desta playa 
+ ninfa o sirena baldía? 
+ 
+ 
+ 
+ Ve, Laura, que para ti 
+  
+ son palacios, que no aldeas, 
+ bien es que al Príncipe veas 
+ y no villanos aquí. 
+ 
+ 
+ 
+ No habrá tenido en su vida 
+ más contento que tendrás. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ ¿Ese consejo le das? 
+ No, Laura, si eres servida; 
+ 
+ 
+ 
+ ¿que allá, qué puedes ganar?, 
+ y más si saben quien eres. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Ignoras que a las mujeres 
+  
+ no se les puede quitar 
+ 
+ 
+ 
+ aquesto que llaman ver? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Haz tu gusto. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Muy bien hace, 
+ la mujer para eso nace. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Tú no debieras nacer. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ 
+  
+ Vamos, Laura, que hay allá 
+ cosas dignas de tu gusto, 
+ créeme a mí, que no es justo 
+ que le busques por acá. 
+ 
+ 
+ 
+ Vamos, vamos. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Ven, Leonardo, 
+  
+ y verás al Rey también. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No veré yo ningún bien 
+ donde tanto mal aguardo. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ 
+ ¿Qué placer han de tener 
+ las mozas si vas con ellas? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ También voy, Cintia, por vellas. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ No he tenido más placer 
+ 
+ 
+ 
+ que haberte dado pesar. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Nise, ¿en qué te ofendí yo? 
+ ¿Tú no me aborreces? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ No. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Pues yo me sabré vengar. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen ALEJANDRO, y SEVERO, su ayo.) 
+ 
+ 
+ SEVERO 
+ 
+ 
+ El haberte entretenido 
+ agradezco aquellas damas. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Las fiestas de la ciudad 
+ de muy buenas no me agradan. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+  
+ Todos desean servirte; 
+ todos de agradarte tratan. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Así lo creo, Severo, 
+ y el Rey mi señor lo manda, 
+ pero entre tantos contentos, 
+  
+ si estas comedias y galas, 
+ no hallo para mi gusto 
+ la libertad que me falta. 
+ Sale coronado el sol 
+ de su diadema dorada, 
+  
+ saca las fingidas perlas 
+ que dio a las flores el alba. 
+ Y despreciando su cueva 
+ por las ásperas montañas, 
+ el más feroz animal, 
+  
+ libre corre, alegre caza. 
+ Hasta el más pobre pastor 
+ desampara su cabaña 
+ y a su gusto y albedrío 
+ lleva sus traviesas cabras. 
+  
+ No hay hombre en ciudad o aldea 
+ que a su ejercicio no salga; 
+ los unos van a sus pleitos, 
+ los otros a sus labranzas. 
+ Y yo no salgo de aquí, 
+  
+ aquí me halla la mañana 
+ y aquí me busca la noche, 
+ triste estado, pena estraña, 
+ ¿para qué he nacido rey? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Señor, ya tu padre trata 
+  
+ de que salgas deste fuerte, 
+ que el reino también se cansa 
+ de verte en tanta tristeza, 
+ y por mi vida que hagas, 
+ si te ha obligado mi vida, 
+  
+ en la fe de tu crïanza. 
+ Fuerza a tu gusto y deseo 
+ y que estas damas gallardas 
+ te vuelvan a entretener. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ No, Severo, traigan armas, 
+  
+ pero déjenlas agora 
+ y dadme un libro. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Si acabas 
+ la Iliada podrás leer 
+ la Ulisea. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Ya me enfadan 
+ tantos trabajos de Ulises, 
+  
+ dame las fortunas varias 
+ de Teágenas. 
+ 
+ 
+ 
+ (Sale CELIO.) 
+ 
+ 
+ CELIO 
+ 
+ Señor, 
+ el aldea de Floralba 
+ viene a entretenerte un rato 
+ con una rústica danza 
+  
+ si le das licencia. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Entre, 
+ que como a veces agrada 
+ más una margen de un río 
+ rústicamente esmaltada 
+ que un cultivado jardín; 
+  
+ así las cosas que traza 
+ la humilde capacidad 
+ de gente inocente y llana. 
+ 
+ 
+ 
+ (Salen un ALCALDE VILLANO, MÚSICOS, y PEROL, NISE, CASANDRA, CINTIA, y villanos, y
+                     LEONARDO.)
+                   
+ 
+ 
+ ALCALDE 
+ 
+ Turbado estoy. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ No tembléis. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ ¿Tengo de arrimar la vara? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ Claro está. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Tenelda vós. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Yo no la quiero, arrimalda. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Señor. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Qué decís, buen hombre? 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Perol. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Qué? 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ ¿Los reyes hablan? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Pues qué pensastes? 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Pensé, 
+  
+ como su grandeza es tanta, 
+ que otros hablaban por ellos, 
+ señor N 
+ X Nota del editor este verso y el siguiente son truncados, aunque aparezcan independientes en la edición
+                                    que tomamos de base
+                                  
+ .
+                            
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Qué bella aldeana, 
+ Severo, la del rebozo; 
+ di que descubra la cara. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+  
+ Serrana, quitaos el velo. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Quién lo manda? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Yo, serrana. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Obedezco. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Gentil moza. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Burla su mercé. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Burlara 
+ de mí mismo; un ángel sois. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+  
+ No has dicho tales palabras, 
+ señor, a mujer ninguna. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Es la villana estremada, 
+ llegaos más, llegaos a mí. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Que me llegue? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¡La desgracia 
+  
+ que temí me ha sucedido! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Qué te ha sucedido? ¡Calla! 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Si apenas la vio Alejandro, 
+ cuando como ves la alaba, 
+ si están hablando los dos, 
+  
+ Perol, ¿no es cierto que el alma 
+ le ha dicho quién es? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ No digas 
+ disparates. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Mucho hablan, 
+ ¡quién oyera lo que dicen! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Preguntarala si guarda 
+  
+ cabras, ovejas y dónde 
+ tiene su campo y labranza, 
+ si hay berros en sus arroyos, 
+ si vende pan, si le amasa, 
+ si hay tomillos en sus vegas, 
+  
+ si están en cierne sus parras, 
+ si hay en su trigo amapolas, 
+ si hay hormigas en las parvas, 
+ si hay mostranzos en su soto, 
+ si hay en su huerta borrajas, 
+  
+ perejil y yerbabuena, 
+ y otras cosas desta traza, 
+ que como está aquí no sabe 
+ lo que por el mundo pasa. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Yo, Perol, me estoy muriendo. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ En fin, que no sois casada. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ No, señor, mas cerca estuve. 
+ Allá por cierta borrasca 
+ se deshizo el casamiento. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Cómo es vuestro nombre? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Laura. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Por Júpiter, Laura bella, 
+ que el talle, el rostro y la gracia 
+ no parecen parto humilde 
+ de tan ásperas montañas. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Alcalde, decid que bailen. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+  
+ Señor. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Llegad y llamalda. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Señor. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Qué queréis? 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Los mozos. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¡Qué buena prosa! 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Estremada. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Cómo os llamáis? 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ ¿Yo, señor? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Vós, pues. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ Yo, señor, Juan Rana. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Pues decid que bailen. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ ¡Hola!, 
+ dice el Rey que bailen. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Vaya. 
+ 
+ 
+ 
+ (Canten y bailen.) 
+ 
+ 
+ [MÚSICOS] 
+ 
+ 
+ 
+ (Canten.)  Saltó la niña en cabello
+                            
+ a coger flores de azar, 
+ y ella y el aurora a un tiempo 
+  
+ mirando las flores van. 
+ Siguiéndola viene amor, 
+ que tras de un verde arrayán, 
+ contemplando su hermosura, 
+ codició su libertad. 
+  
+ En el nácar de una rosa 
+ iba a poner su cristal 
+ cuando viéndola amor dijo 
+ para enamorarla más: 
+ 
+ Seguidilla 
+ 
+ «Ofendidos me tienen N 
+ X Nota del editor Los ocho versos siguientes estaban originalmente en cuatro dodecasílabos. Hasta el
+                                    XVII las seguidillas se escribían en dos dodecasílabos.
+                                  
+ 
+ 
+  
+ tus ojos bellos, 
+ pues me ponen la culpa 
+ que tienen ellos. 
+ 
+ Seguidilla 
+ 
+ Toma el arco la niña, 
+ que yo no quiero 
+  
+ ser amor, pues que matas 
+ a amor con ellos.» 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ ¿Hay gracia Severo, amigo, 
+ como la desta aldeana? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Tiene razón vuestra alteza. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Otra vez por él la alaba. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Y qué importa que la alabe? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No sabes que la alabanza 
+ nace de amor. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ A lo menos 
+ nacen tus celos sin causa. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Dar quiero joyas a todas. 
+ Entrad, entrad. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ ¡Ea, serranas, 
+ nadie ha podido en el mundo 
+ alegrar tristeza tanta 
+ si no es vosotras; entrad! 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+  
+ Vamos, Nise. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Cintia, hermana, 
+ Alejandro, o yo me engaño, 
+ pone los ojos en Laura. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ ¿Pues qué mejor para ti? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Bien dices, si en ella para, 
+  
+ Dios nos saque de palacio 
+ con bien. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Gente cortesana 
+ siempre es discreta y cortés. 
+ 
+ 
+ 
+ (Éntranse ellas.) 
+ 
+ 
+ PEROL 
+ 
+ Entrad, alcalde Juan Rana, 
+ y os darán a vós también. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+  
+ ¿Paréceos que tengo cara 
+ para darme alguna cosa? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Pues no? Sois como unas natas. 
+ 
+ 
+ 
+ 
+ 
+ ALCALDE 
+ 
+ ¡Yo dentro, adiós y a ventura! 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ LEONARDO 
+ 
+ Mi vida, Perol, se acaba, 
+  
+ que presto se concertaron 
+ las voluntades. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Repara 
+ en que dices desatinos. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Como era señora Laura, 
+ digo, Casandra, que presto 
+  
+ volvió a ser Laura Casandra, 
+ qué contenta estará agora, 
+ como en su esfera dorada 
+ irá el sol de su hermosura 
+ por esas vestidas salas 
+  
+ de tantas tapicerías. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Fuera de su centro estaba, 
+ no es mucho que esté en su centro 
+ entre joyas, oro y plata. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Cegaran antes mis ojos, 
+  
+ que vieran en confïanza 
+ de haberle dado la vida 
+ su hermosura soberana. 
+ Vamos, Perol, al aldea 
+ antes que el Príncipe salga, 
+  
+ que temo mi atrevimiento. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Mira quién es y calla, 
+ y tengas que es error 
+ con poderosos palabras 
+ que el viento derriba encinas 
+  
+ y perdona humildes cañas. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Llévame presto de aquí. 
+ ¡Ay, Laura! ¡Ay, loca esperanza! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Las joyas mudan envidia, 
+ que no los celos de Laura. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jornada II 
+ Salen el REY, el PRÍNCIPE y SEVERO. 
+ 
+ 
+ REY 
+ Octava real 
+ 
+  
+ Tanta tristeza en ti de pocos días, 
+ Alejandro, a esta parte estraña cosa. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Con ellos crecen las desdichas mías, 
+ ¿qué causa me preguntas más forzosa? 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ De mi justa obediencia te desvías 
+  
+ tan alabada en ti por milagrosa, 
+ algo te han dicho porque de otro modo 
+ blasón fue tuyo obedecerme en todo. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ Octava real 
+ 
+ Ya sé la causa porque aquí me tienes 
+ en injusta prisión tan largos años, 
+  
+ que cada instante de sus horas vienes 
+ a entretener tu vida en mis engaños. 
+ Y ya de tal manera la entretienes, 
+ que por librarte de pensar mis daños, 
+ mi desesperación hará que pida 
+  
+ a la muerte remedio de mi vida. 
+ 
+ Octava real 
+ 
+ Por dicha quiero yo salir al monte, 
+ donde pueda matarme alguna fiera 
+ de las que mira el Sol en horizonte 
+ como si Venus tú y yo Adonis fuera. 
+  
+ Quiero ya que la caza me remonte 
+ por su crespa cerviz que en la ribera 
+ del mar se empina a la más alta nube 
+ que por escalas de peñascos sube. 
+ 
+ Octava real 
+ 
+ Quiérome no más de ver en compañía 
+  
+ del más leal que tu privanza crea 
+ cuatro arbolillos y una fuente fría 
+ que hacen adorno a una pequeña aldea. 
+ ¿Es mucho que me des licencia un día 
+ para que a cuatro labradores vea? 
+  
+ ¿Qué Cortes pido yo, ni qué ciudades, 
+ donde andan rebozadas las verdades? 
+ 
+ Octava real 
+ 
+ ¿En qué nave solícita me embarco 
+ por el rigor de la salada espuma? 
+ ¿Qué Cesar soy de Amidas en el barco, 
+  
+ cuando mi engaño tu valor presuma? 
+ ¿A quién voy a vencer? ¿Qué flecha de arco 
+ dio el yerro al blanco y retiro la pluma? 
+ Mas bien será que el de la muerte sea, 
+ pues no me dejan ver tan pobre aldea. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ REY 
+ Silva (tirada) 
+ 
+  
+ ¿Qué es aquesto, Severo, cómo llega 
+ Alejandro a tan loco desvarío? 
+ ¿Qué aldea es esta contra el gusto mío? 
+ ¿No sabe que no puedo 
+ darle licencia para tanto daño? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+  
+ Señor, de que es ciudad te desengaño, 
+ aquí vive una bella labradora 
+ que con menos clavel sale la aurora, 
+ y para verla lo que dice intenta. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Esa afición su entendimiento afrenta. 
+  
+ ¿No hay damas en la Corte, no hay señoras? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ La bendición, señor, del gusto ignoras. 
+ Tal vez agrada lo que no merece 
+ ser por amor amado y se aborrece 
+ lo que de amar es digno. No he podido, 
+  
+ en tanto amor, un átomo de olvido 
+ poner por más que persuadirle intento. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Un hombre de tan claro entendimiento 
+ no habla de aplicar a lo que es justo 
+ la inclinación y el gusto, y agradarse de damas 
+  
+ que en el yelo mayor encienden llamas. 
+ Sin duda es invención la labradora 
+ para poder salir hasta el aldea, 
+ salir, Severo, y aun huir desea, 
+ pues esa blanca aurora, 
+  
+ vestida de claveles y jazmines, 
+ véngale a ver, Severo; no imagines 
+ que ha de salir de aquí. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Triste le veo. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Pues sufra y viva, que su bien deseo. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen LEONARDO y PEROL.) 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ ¿Qué me dices? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Que ha venido 
+  
+ Laura. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Laura. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Laura hermosa, 
+ no hay más incrédula cosa 
+ que un pecho al amor rendido, 
+ 
+ 
+ 
+ y por vida de Perol, 
+ no porque lisonja sea, 
+  
+ que parece que en la aldea 
+ faltaba hasta agora el sol. 
+ 
+ 
+ 
+ Si crédito no me das 
+ pregunta al prado, a las flores, 
+ si vieron tales olores 
+  
+ en sus pimpollos jamás. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ ¡Oh, qué bien se echa de ver, 
+ todo se alienta y restaura! 
+ ¿Cómo viene? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Como Laura, 
+ que no hay más que encarecer. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+  
+ No lo hubiera dicho yo, 
+ ¡oh, qué envidia te he tenido! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Soy sabio, soy entendido, 
+ aunque venturoso no. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ En fin, Laura vino ya 
+  
+ del peligro del palacio. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Peligro en tan breve espacio; 
+ segura en sí mi señora está, 
+ 
+ 
+ 
+ pues que dél Laura ha venido 
+ sin palabra descortés. 
+ 
+ 
+ 
+ (Salen CASANDRA y CINTIA.) 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Plegue a Dios, mas esta es. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Dicen que estaba ofendido 
+ 
+ 
+ 
+ y no ha tenido razón. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Amor, Laura, todo es celos. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Guarden tu vida los cielos. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Sí harán, que tus ojos son; 
+ 
+ 
+ 
+ ya te aguardaban los campos, 
+ bosques, árboles y fuentes, 
+ bellísima labradora, 
+ que de los palacios vienes. 
+  
+ Por tus ojos, que no he visto 
+ el Sol en el cielo alegre 
+ después que con tu partida, 
+ dando mi vida a la muerte. 
+ En los fines del estío 
+  
+ todo se alegra y florece, 
+ por ti presumen los campos 
+ que la primavera vuelve. 
+ No hay prado, bosque ni selva 
+ que no se vista de verde, 
+  
+ y sola está mi esperanza, 
+ tan desnuda como siempre. 
+ Envidia tengo a los prados 
+ que pisados reverdecen 
+ de esos pies a donde amor 
+  
+ tantas libertades tiene. 
+ No hay flor que a tomar olores 
+ no salga aunque al tiempo pese, 
+ las clavelinas por grana, 
+ las azucenas por nieve. 
+  
+ Yo solo en tu sol, ¡ay, Laura!, 
+ que no tenga vida quieres, 
+ pues anocheces en mí 
+ cuando entre dos amaneces. 
+ Pero dime de Alejandro 
+  
+ las nuevas que el alma tiene, 
+ que le vi inclinado a amarte. 
+ Tú sabes lo que mereces, 
+ sosiega, Laura, mis celos, 
+ que rayos de amor parecen. 
+  
+ Serás laurel para mí, 
+ que los rayos no le ofenden 
+ y así tengas tanta dicha 
+ como hermosura que dejes, 
+ atrevimiento a mis brazos, 
+  
+ licencia de los que vienen, 
+ que si respondes ingrata, 
+ flores, campos, prados, fuentes, 
+ abrasarán mis suspiros 
+ y llorarán tus desdenes. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+  
+ Después, querido Leonardo, 
+ que quiero pagarte así 
+ lo que mi causa encareces, 
+ pues tú no sabrás fingir. 
+ Después de rústico baile, 
+  
+ donde tan bien parecí 
+ a quien no me lo parece, 
+ porque yo no sé mentir. 
+ Después, digo, que te fuiste 
+ y me dejaste sin mí, 
+  
+ con lástima de mirarte, 
+ enmudecer y sentir. 
+ Quiso Alejandro que entrase 
+ donde en sus riquezas vi 
+ trasladar su plata el indio, 
+  
+ su rubio metal Ofir, 
+ la China el blanco diamante, 
+ Ceilán el rojo rubí, 
+ Ganges su topacio ardiente, 
+ Éufrates su azul zofir, 
+  
+ sus pensiles, Babilonia; 
+ que el más pequeño jardín, 
+ pudiera con mayor fama 
+ ser de sus muros pensil. 
+ Y abriéndome un escritorio, 
+  
+ que fue lo mismo que abrir 
+ puesta a las luces la noche, 
+ otras tantas joyas vi. 
+ Hurtar pudieran a Midas, 
+ igualar y competir 
+  
+ con las riquezas de Creso, 
+ causa de su triste fin. 
+ Díjome: «hermosa aldeana, 
+ aunque nunca yo lo fui, 
+ haz cuenta que todas estas 
+  
+ se labraron para ti. 
+ Cuantas te agradaren toma.» 
+ Yo, Leonardo, respondí: 
+ «no guarnecen ricas prendas, 
+ sayal tan grosero y vil. 
+  
+ Guarda, famoso Alejandro, 
+ para quien iguale en ti 
+ las riquezas destas joyas, 
+ que la aldea en que nací 
+ aún no sabe que es cristal, 
+  
+ porque se suele servir 
+ de arroyos para tocarse 
+ sin fingir rosa y jazmín.» 
+ Enojose y viendo yo 
+ un cupido relucir 
+  
+ que navegaba en un mar 
+ sobre un hermoso delfín. 
+ Tomele por contentarle 
+ y de la cuadra salí 
+ llamando a Cintia y a Nise, 
+  
+ y esto me dijo al salir: 
+ «Aunque al amor lleves, Laura, 
+ más amor dejas en mí, 
+ que eres la primer mujer 
+ a quien el alma rendí. 
+  
+ Venme a ver pues que me has muerto, 
+ venme a ver, Laura gentil, 
+ que si yo salir pudiera, 
+ yo fuera a buscarte a ti. 
+ Estoy en esta prisión 
+  
+ por una estrella infeliz, 
+ ya no la siento, que siento 
+ la del alma que te di.» 
+ Con esto quedose y triste, 
+ si fue de verme partir, 
+  
+ no lo sé, mas sé que luego 
+ que del castillo salí, 
+ me di prisa para verte 
+ porque ya con verte aquí, 
+ de fin la historia y la ausencia, 
+  
+ que el amor no tiene fin. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Nunca pensó mi paciencia 
+ de ver, ¡ay, pena mortal!, 
+ tanto bien a tanto mal 
+ como fue, Laura, tu ausencia. 
+ 
+ 
+ 
+  
+ Mi muerte fue tu partida, 
+ pero ya con solo verte 
+ corrida se fue la muerte 
+ y vino alegre la vida, 
+ 
+ 
+ 
+ si bien no pudo tener 
+  
+ seguridad del amor 
+ de un hombre cuyo valor 
+ tanto me da que temer. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Oye por tu vida. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Di. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¡Ay, Cintia, qué linda mano 
+  
+ te has dado a lo cortesano! 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Yo, Perol, a bulto fui. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ 
+ A bulto en corte he visto, 
+ que es lo mismo que a río vuelto 
+ andar, Cintia, el diablo suelto. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+  
+ ¿Qué importa si yo resisto? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ 
+ Hubo pellizco de paje, 
+ necedad de gentilhombre 
+ y otras cosas deste nombre 
+ hizo novedad el traje. 
+ 
+ 
+ 
+  
+ Nadie se llegó al olor 
+ del tomillo del aldea, 
+ nadie te llamó Amaltea. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ A fe que vienes de humor. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ 
+ Bonitos son los lindones 
+  
+ para que perdonen nada. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Laura fue la festejada, 
+ que tiene ilustres razones 
+ 
+ 
+ 
+ y sabía responder. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Qué te dio el Príncipe a ti? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+  
+ ¿A mí, Perol? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ A ti. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ A mí 
+ no me dieron a escoger, 
+ 
+ 
+ 
+ en rubíes y diamantes; 
+ esta cadena me dio. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Quieres prestármela? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ No. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ ¿No respondes? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ No te espantes, 
+ 
+ 
+ 
+ que no hay hombre que a mujer 
+ vuelva cosa que le preste. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Bravo desengaño es este 
+ y, ¿qué nos soléis volver 
+ 
+ 
+ 
+  
+ de todo cuanto os prestamos? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Sois hombres, Perol, es justo 
+ que es traición sobre mal gusto 
+ dar la mujer. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Bien medramos, 
+ 
+ 
+ 
+ Cintia, quien tiene de dar, 
+  
+ o sea hombre o sea mujer, 
+ cuando se llega a querer. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ La cadena he de guardar 
+ 
+ 
+ 
+ si más razones alegas, 
+ que en un pleito hay peticiones, 
+  
+ trampas, notificaciones, 
+ pasos y pasiones ciegas. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ De todo estoy satisfecho; 
+ descansa, Laura, si acaso 
+ lo estás. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Desde el primer paso. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ No es aquel rústico techo 
+ 
+ 
+ 
+ a propósito de quien 
+ de tantas riquezas viene. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Aunque las que estimo tiene. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Vida los cielos te den. 
+ 
+ 
+ 
+ (Vanse.) 
+ 
+ 
+ PEROL 
+ 
+ 
+  
+ En efeto, no hay que hablar 
+ en esto de la... 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Ya entiendo, 
+ mucho me cansas pidiendo. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Pues yo tengo que te dar 
+ 
+ 
+ 
+ una cosa que es muy buena. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+  
+ Si es alma, sácala al sol. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Pues no seré yo, Perol, 
+ si no os pesco la cadena. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen el REY, SEVERO, TEODORO y CELIO.) 
+ 
+ 
+ REY 
+ 
+ 
+ ¿Es posible que ha llegado 
+ el Príncipe a tal tristeza? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+  
+ No se espante vuestra alteza. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Pues, ¿no me ha de dar cuidado? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ 
+ Quien de la prisión de amor 
+ se admira, no tenga nombre 
+ de hombre, porque en el hombre 
+  
+ es natural su rigor, 
+ 
+ 
+ 
+ pero tú juzgar no debes 
+ en tus años de sus daños. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ No se me olvidan los años, 
+ que son los años muy breves 
+ 
+ 
+ 
+  
+ y en materia de querer 
+ Alejandro inobediente; 
+ pasar deste fuerte el puente, 
+ cosa que no puede ser. 
+ 
+ 
+ 
+ Sé lo que dijo Platón 
+  
+ describiendo en el Timeo 
+ su atrevimiento y deseo, 
+ pero no será razón 
+ 
+ 
+ 
+ que tal licencia le dé. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Y si de pena se muere, 
+  
+ ¿qué remedio habrá que espere 
+ tu cuidado? 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Yo lo sé. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ 
+ ¿Cómo? 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Trae del aldea 
+ esa bella labradora, 
+ que como decís adora. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+  
+ ¿Y no puede ser que sea 
+ 
+ 
+ 
+ mujer de tanto valor 
+ que a su fuerza se resista? 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Puede ser, mas con la vista 
+ templa su fuerza el amor, 
+ 
+ 
+ 
+  
+ que tampoco yo querría 
+ dar lugar a cosa injusta. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Pues si vuestra alteza gusta 
+ de su salud... 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Es la mía. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ 
+ Hoy iremos Celio y yo, 
+  
+ y le trairemos a Laura. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Lo que su vida restaura 
+ es mi salud, que otra no, 
+ 
+ 
+ 
+ y Severo la tendrá 
+ en guarda porque es razón 
+  
+ mirar su honor y opinión. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ En viéndola templará 
+ 
+ 
+ 
+ la tristeza de su ausencia. 
+ 
+ 
+ 
+ (Vanse el REY y SEVERO, y sale el PRÍNCIPE.) 
+ 
+ 
+ PRÍNCIPE 
+ 
+ ¿Qué os ha dicho el Rey, Teodoro? 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Que con el gusto decoro 
+  
+ venga Laura a tu presencia, 
+ 
+ 
+ 
+ pero que la tenga en guarda 
+ Severo. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Tenga en buen hora; 
+ vea yo mi labradora 
+ discreta, hermosa y gallarda, 
+ 
+ 
+ 
+  
+ que no pasa mi deseo 
+ la margen de la razón. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Vencer la propia pasión 
+ fue siempre el mayor trofeo. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Partid los dos a buscar 
+  
+ de mi salud el remedio, 
+ pues no hay montañas en medio, 
+ ni montes de airado mar. 
+ Id a ese pobre lugar, 
+ rico de tan gran tesoro, 
+  
+ amigos Celio y Teodoro, 
+ y para sol más bizarro 
+ pedid al del cielo el carro, 
+ todo de diamantes y oro. 
+ 
+ 
+ 
+ Y si el de Venus traía 
+  
+ cisnes por más majestad, 
+ caballos blancos llevad 
+ como nieve helada y fría. 
+ Decid a la prenda mía 
+ que mi padre, para darme 
+  
+ salud, quiere que a curarme 
+ venga aquesta ocasión, 
+ porque como no es león 
+ no teme que ha de matarme. 
+ 
+ 
+ 
+ Y engáñase, que recelo 
+  
+ que Laura tiene en su oriente 
+ al león por ascendente, 
+ séptimo signo del cielo. 
+ Pues, ¿qué importa su desvelo 
+ si el pronóstico ha cumplido? 
+  
+ Muerto a sus manos he sido, 
+ tan honrado, aunque encubierto, 
+ que es el león que me ha muerto 
+ dentro del cielo nacido. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen CASANDRA y NISE.) 
+ 
+ 
+ NISE 
+ 
+ 
+ Después, Laura, que veniste 
+  
+ a la aldea, estoy de suerte 
+ que se acobarda la muerte 
+ de matar vida tan triste. 
+ Fiando mucho en quien fuiste, 
+ nunca te he querido, ¡ay cielos!, 
+  
+ decir mis locos desvelos, 
+ porque cuando fuese culpa 
+ siempre tiene amor disculpa, 
+ pero no en pidiendo celos. 
+ 
+ 
+ 
+ Olvidome el labrador 
+  
+ que por güésped has tenido 
+ por quererte, que el olvido 
+ fue siempre sombra de amor. 
+ Pensé yo de tu valor 
+ que del Príncipe vinieras 
+  
+ enamorada y que dieras 
+ lugar a tus pensamientos 
+ sin que tus merecimientos, 
+ tan bajamente ofendieras. 
+ 
+ 
+ 
+ Pero engañeme, pues ya 
+  
+ pagas su necia afición. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Si tus palabras lo son, 
+ el efeto lo dirá, 
+ si te ha olvidado será 
+ porque nunca le has querido. 
+  
+ De mí, Nise, no lo ha sido 
+ y no he nacido en aldea, 
+ mas puede ser que lo sea 
+ si tú despiertas mi olvido. 
+ 
+ 
+ 
+ Es Leonardo muy buen hombre, 
+  
+ mas no bueno para mí, 
+ porque pienso que nací 
+ muy desigual a su nombre. 
+ Mi voluntad no te asombre, 
+ que se la debo tener, 
+  
+ pues no más de por mujer 
+ me ha dado tanto favor, 
+ que era no tenerle amor 
+ dejarle de conocer. 
+ 
+ 
+ 
+ Él es ido a la ciudad 
+  
+ a llevar muerto un león 
+ y a ciertos premios que son 
+ celo de honor en su edad; 
+ direle tu necedad 
+ cuando venga, si tú quieres. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+  
+ No, mi Laura, no te alteres; 
+ el verme alterar te admira. 
+ ¿No sabes ya que es la ira 
+ mayorazgo en las mujeres? 
+ 
+ 
+ 
+ (Sale PEROL.) 
+ 
+ 
+ PEROL 
+ 
+ 
+ Lindamente ha sucedido. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ ¿Qué hay, Perol? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Leonardo vuelve 
+ de la ciudad vitorioso. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Albricias por él mereces; 
+ di a Nise que te las dé. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Por qué, si tú me las debes? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ El porqué Nise lo sabe 
+ y con Leonardo se entiende. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Cólera tenemos ya, 
+ oye, ansí Venus aumente 
+ tus años y tu hermosura. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Lo que ha pasado, refiere. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ En la plaza del castillo, 
+ que está del jardín enfrente, 
+ estaba un alto teatro 
+ para tres nobles jueces. 
+  
+ El Príncipe, en un balcón 
+ sobre un bordado tapete 
+ de tela de oro, mostraba 
+ la luz que el sol en su oriente; 
+ colgadas diversas armas 
+  
+ la joventud noble encienden 
+ con los premios que a otra parte 
+ igualmente resplandecen; 
+ después de haber presentado 
+ Leonardo el león valiente, 
+  
+ que aun muerto causaba espanto, 
+ que aun muerto pueden temerle, 
+ bajamos a ver la plaza 
+ en que al Príncipe entretienen 
+ carreras, fuerzas y espadas, 
+  
+ y hacen señal que comiencen. 
+ Sale un fuerte luchador 
+ en camisa y zaragüelles, 
+ barbado de pecho y brazos, 
+ calzado de frente y sienes. 
+  
+ Quítase Leonardo un sayo, 
+ y como un toro arremete, 
+ alza el hombro, traba el brazo, 
+ nervios y güesos le tuerce. 
+ Gimen, anhelan, suspiran, 
+  
+ sudan, braman, finalmente 
+ al competidor cansado, 
+ Leonardo en la tierra tiende. 
+ Danle una cadena de oro 
+ y codicia conocerle 
+  
+ Alejandro, dando causa 
+ a que a más premio se aliente. 
+ Dentro de un hora a la plaza, 
+ digo a la palestra, vuelve, 
+ donde tiraban la barra, 
+  
+ mozos gallardos y fuertes. 
+ Tomola en la fuerte mano 
+ y una vez que la revuelve 
+ al mayor tiro de todos 
+ pasa seis palmos o siete. 
+  
+ Danle una copa de plata, 
+ descansa y partirse quiere, 
+ pero viendo las espadas, 
+ irse por bajeza tiene. 
+ Vase para su contrario 
+  
+ y con tajos y reveses 
+ rompió los cascos a cuatro, 
+ lo mismo hiciera de veinte. 
+ Danle una sarta de perlas 
+ tan bella que me parece 
+  
+ que la veo en tu garganta, 
+ aunque es nieve sobre nieve. 
+ 
+ 
+ 
+ (Salen TEODORO y CELIO.) 
+ 
+ 
+ CELIO 
+ 
+ 
+ Aquí dicen que ha de estar 
+ con algunas labradoras. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Qué esto, gente a estas horas? 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+  
+ Habrán llegado al lugar 
+ 
+ 
+ 
+ para pasar a la sierra. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Sí, que cazadores son. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Aquí están. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Buena ocasión. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Bravo monte. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Fértil tierra. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ 
+  
+ Venus os guarde, aldeanas, 
+ y logre vuestra hermosura. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Júpiter os dé ventura. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ ¿En qué damas cortesanas 
+ 
+ 
+ 
+ puede haber más perfección? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ ¿Qué es lo que buscáis, señores? 
+ Porque si sois cazadores 
+ de un espantoso león, 
+ 
+ 
+ 
+ vino un labrador ayer 
+ a dar nuevas al aldea. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+  
+ Como mi gente le vea 
+ no os dejará qué temer. 
+ 
+ 
+ 
+ ¿Destruyen mucho el ganado? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ No llegan tanto al lugar. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Di que nos dejen andar 
+  
+ en su coche por el prado, 
+ 
+ 
+ 
+ Laura, así te guarde Dios. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¡Qué lindo coche traéis! 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Entrad en él si queréis 
+ andar un rato las dos 
+ 
+ 
+ 
+  
+ por el prado o el aldea. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Ha tanto que no me vi 
+ en coche que aun por aquí 
+ tendré a ventura que sea. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ 
+ Pues entrad. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Entremos, Nise. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+  
+ Cochero, esas damas lleva. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Brava fiesta. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Cosa nueva. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ No es menester que le avise, 
+ 
+ 
+ 
+ que él sabe lo que ha de hacer. 
+ Pica al castillo, Danteo. 
+ 
+ 
+ 
+ (Éntrense.) 
+ 
+ 
+ PEROL 
+ 
+  
+ ¡Ay, cielos!, ¿qué es lo que veo? 
+ Engaño debe de ser. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ 
+ (Dentro.)  Menos priesa, porque quiero
+                            
+ ir con mucha autoridad. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ 
+ (Dentro.)  No vais hacia la ciudad
+                            
+  
+ sino hacia el prado, cochero. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ 
+ Laura, al Príncipe os llevamos, 
+ no volveréis a la aldea. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Quién habrá que aquesto crea? 
+ ¿En qué Libia o Citia estamos? 
+ 
+ 
+ 
+  
+ ¿Esto se ha de consentir? 
+ Como corren los caballos 
+ es imposible alcanzallos 
+ aunque los quiera seguir. 
+ 
+ 
+ 
+ ¡Ay, triste!, ¿qué hará Leonardo? 
+ 
+ 
+ 
+ (Sale LEONARDO.) 
+ 
+ 
+ LEONARDO 
+ 
+  
+ ¿Qué es esto? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿De dónde vienes? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Del lugar donde me han dicho 
+ que salió Laura a la fuente. 
+ ¿Dónde está Laura, Perol? 
+ ¿De qué te turbas?, ¿qué tienes?, 
+  
+ ¿qué ha sucedido, que el alma 
+ hablar lo que callas quiere? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ De ese príncipe Alejandro, 
+ a quien no sin causa temes, 
+ vinieron aquí en un coche 
+  
+ dos criados y otra gente. 
+ Hablaron con Laura y Nise, 
+ y como tienen mujeres 
+ espíritu ambulativo 
+ y no hay cosa que no intenten, 
+  
+ rogaron a los traidores 
+ que andar un rato las dejen 
+ en su coche por el prado. 
+ Luego los dos lo conceden, 
+ entran las dos y ellos entran, 
+  
+ y como el milano suele, 
+ en agarrando los pollos, 
+ volar por el aire leve, 
+ parten al castillo dando 
+ con ánimo diferente 
+  
+ ellas voces y ellos prisa, 
+ quedando yo desta suerte, 
+ que robando a Proserpina 
+ lloraba la diosa Ceres, 
+ o para decir mejor, 
+  
+ como gallina que pierde 
+ los pollos pues yo lo fui 
+ en no morir y atreverme. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No temía yo sin causa, 
+ ¡oh, cómo las almas siempre 
+  
+ son profetas de los daños, 
+ y lo que ha de venir temen! 
+ Cual suele cándida garza 
+ saber cuál halcón la prende, 
+ así el amante en sus celos 
+  
+ conoce al que ha de vencerle. 
+ ¡Oh, fuerza de poderosos! 
+ ¡Oh, Alejandro, que tú puedes 
+ solo en el mundo quitarme 
+ lo que tus prendas merecen! 
+  
+ Pero entre tantas desdichas, 
+ ¿de qué sirve entretenerme? 
+ Seguirla tengo, Perol, 
+ aunque mil vidas me cueste. 
+ Toda esta hacienda te toma, 
+  
+ que voy a morir. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Detente, 
+ que es locura lo que intentas. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Pues, perro, ¿tú me detienes?, 
+ ¿no conoces mi valor? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Iré contigo a perderme. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Sin Laura no quiero vida, 
+ con ella es vida la muerte. 
+ 
+ 
+ 
+ (Vanse y salen SEVERO y el REY.) 
+ 
+ 
+ SEVERO 
+ 
+ 
+ Laura dicen que ha llegado. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Advertid que esté con vós 
+ y que tengáis con los dos, 
+  
+ Severo, mucho cuidado; 
+ 
+ 
+ 
+ basta que el Príncipe vea 
+ esta mujer, que no es bien 
+ que más licencia le den. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Aunque es de una pobre aldea 
+ 
+ 
+ 
+  
+ miraré con justo celo 
+ su honor en esta ocasión, 
+ con más ojos que el pavón 
+ que puso Juno en el cielo. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ 
+ Con Lisarda puede estar, 
+  
+ y honestamente la vea, 
+ de suerte que solo sea 
+ honesto ver, casto hablar. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ SEVERO 
+ 
+ 
+ Yo fío de su valor 
+ lo que del tuyo podría. 
+ 
+ 
+ 
+ (Sale el PRÍNCIPE, CASANDRA, y NISE, CELIO y TEODORO.) 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Esto más es tiranía 
+ que desatinos de amor, 
+ darme la muerte es mejor 
+ si os causo desasosiego. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Si sabes que amor es ciego, 
+  
+ Laura, en tanta discreción, 
+ juzgas mi amor a traición. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Dejadme volver os ruego. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Volver, ¿cómo o de qué suerte? 
+ ¿No sabes que enfermo estoy 
+  
+ de verte y que desde hoy 
+ me verás volviendo a verte? 
+ ¿No ves que escusas mi muerte 
+ y mi médico has de ser? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Pues si os he venido a ver, 
+  
+ quien el ser médico imita 
+ en haciendo la visita, 
+ ¿por qué no se ha de volver? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Cuando un hombre como yo 
+ enferma, un médico está 
+  
+ con él siempre y no se va. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Y no se va? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Laura, no, 
+ y este mal que a mí me dio 
+ quiere el médico presente 
+ para cualquier accidente, 
+  
+ porque si me viene a dar, 
+ ¿cómo se ha de remediar 
+ estando el médico ausente? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ ¿Qué accidente puede daros 
+ que no los haga mayores 
+  
+ el verme? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Males de amores 
+ no son de curar tan claros 
+ y quieren tantos reparos 
+ cuanto son los pensamientos. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Pues de otros medicamentos, 
+  
+ mas que el veros, no soy yo 
+ dotor que los estudió 
+ en humildes nacimientos. 
+ 
+ 
+ 
+ Dejad que vuelva a mi aldea, 
+ que os doy palabra de ser 
+  
+ vuestro médico y volver 
+ a que vuestro mal me vea. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Sí, mas porque todo sea 
+ como en fin enfermedad, 
+ la mano, Laura, me dad, 
+  
+ que en el pulso del amor 
+ conoceréis de qué ardor 
+ enfermó la voluntad. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ No me mandéis que lo intente, 
+ que en esta mala porfía 
+  
+ curo por astrología 
+ y conozco por la frente. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Vós haréis que mi accidente 
+ os las tome. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¡No haréis tal!, 
+ si ya no es que vuestro mal 
+  
+ se ha convertido en locura, 
+ y ese es mal que no se cura 
+ sino con locura igual. 
+ 
+ 
+ 
+ Obligadme honestamente, 
+ yo sabré corresponder. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ ¿Posible es que esta mujer 
+ ha nacido humildemente, 
+ Severo? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ ¿Señor? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Quien siente 
+ desta manera su honor 
+ no tiene oculto valor. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+  
+ Déjala estar con Lisarda, 
+ que ha de ser su honesta guarda, 
+ que allá tratarán tu amor; 
+ 
+ 
+ 
+ ten esperanza y paciencia. 
+ Vamos, Laura, donde estéis 
+  
+ como vós misma queréis. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Esto es amor o es violencia? 
+ Vamos, Nise. 
+ 
+ 
+ 
+ (Vanse los tres.) 
+ 
+ 
+ NISE 
+ 
+ Ten prudencia. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Qué tengo de hacer, Teodoro, 
+ si un ángel hermoso adoro, 
+  
+ y en las desdichas que paso 
+ de sus tibiezas me abraso, 
+ de su desdén me enamoro? 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ 
+ Señor, a tu gran poder 
+ no se podrá resistir, 
+  
+ principios son de sufrir 
+ aunque es humilde mujer. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Severo no ha de querer 
+ vete con ese cuidado, 
+ que en efeto te ha criado. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ ¡Ay, Celio!, pues con Lisarda, 
+ su hija mayor, la guarda; 
+ el rey se lo habrá mandado. 
+ 
+ 
+ 
+ (Salen PEROL y LEONARDO.) 
+ 
+ 
+ PEROL 
+ 
+ 
+ Aquí está Alejandro, mira 
+ el desatino que intentas. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ A un amante persuades, 
+ viento coges, el mar siembras. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Mirad quién se ha entrado aquí. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿No conoce vuestra alteza 
+ a un labrador que luchaba, 
+  
+ que tiraba y hacía fuerzas, 
+ y que con diversas armas 
+ descalabró en tu presencia 
+ los maestros más famosos? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Pues qué quieres?, ¿no te premian?, 
+  
+ ¿pretendes algún oficio? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No hay oficio que pretenda 
+ en palacio, porque soy 
+ pobre en una pobre aldea, 
+ a la cual pienso que son 
+  
+ los que están en tu presencia. 
+ Fueron dos crïados tuyos 
+ y sacaron con cautela 
+ una mujer en un coche, 
+ con quien sus deudos conciertan 
+  
+ casarme, que está sin padre, 
+ súpelo y vengo por ella 
+ o a morir determinado. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Qué historia troyana o griega 
+ tal desatino de amor 
+  
+ como el deste amante cuenta? 
+ Esta es la causa, Teodoro, 
+ porque esta villana necia 
+ se resiste a quien yo soy. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Estas, Señor, no se prendan, 
+  
+ sino allá con sus iguales. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Qué respondes, no me entregas 
+ a Laura, no se lo mandas? 
+ Que no he de volver sin ella. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Esto ya pasa de amor, 
+  
+ o es locura o es soberbia 
+ notable. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Probad, llegad, 
+ mataréis quien lo desea, 
+ ¿a qué aguardáis, cortesanos? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ ¡Pues muera el villano, muera! 
+  
+ ¡Mételos a cuchilladas! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ No debe de ser muy fácil, 
+ que lindamente les pega. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¡Hola, guardadla, soldados! 
+ ¡No se vio cosa como esta 
+  
+ en casa de un hombre vil! 
+ 
+ 
+ 
+ (Sale SEVERO.) 
+ 
+ 
+ SEVERO 
+ 
+ ¿Qué es esto, señor? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Que sea 
+ un rústico de ese monte 
+ tan atrevido? ¿Que venga 
+ a pedirme a Laura a mí 
+  
+ y con locura tan ciega 
+ acuchille a mis criados? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Ahorcalle de una almena, 
+ porque él no podrá salir 
+ con tanta guarda a la puerta. 
+ 
+ 
+ 
+ (Salen TEODORO y CELIO.) 
+ 
+ 
+ TEODORO 
+ 
+  
+ Algún demonio es el hombre. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ No he visto tigre tan fiera 
+ con un escuadrón de picas; 
+ pudieron prenderle apenas, 
+ no se ha visto igual valor. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Ahórquenle porque sea 
+ escarmiento a sus iguales. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Será afrentar la grandeza 
+ de tu generoso nombre. 
+ El castigo se suspenda, 
+  
+ pues está preso, que yo 
+ le haré ejemplo de su aldea 
+ por honor tuyo y por ser 
+ de toda aquella ribera 
+ del mar el mozo más fuerte. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Como tú quisieres sea, 
+ y pues ya Laura no tiene, 
+ como este ejemplo lo muestra, 
+ tanto amor como blasona, 
+ permíteme que entre a verla, 
+  
+ que no es razón que queriendo 
+ a un labrador de una sierra, 
+ parto humilde, tenga en poco 
+ tan arrogante y soberbia 
+ a quien hoy Alejandría 
+  
+ por su Príncipe respeta. 
+ ¡Vive Júpiter sagrado 
+ que he de forzarla! 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ No creas 
+ que de aquesta puerta pases. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Pues tú la puerta me cierras? 
+  
+ ¡Quítate della, Severo! 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ No pienso quitarme della 
+ aunque me quites la vida. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¡Toma! 
+ 
+ 
+ 
+ (Dale un bofetón.) 
+ 
+ 
+ SEVERO 
+ 
+ ¿A mi rostro esta afrenta? 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ Señor, ¿qué has hecho a tu ayo? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ ¡Apártate y agradezca 
+ que no le di con la daga! 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ ¿Con poderosos paciencia? 
+ 
+ 
+ 
+ (Vanse los tres.) 
+ 
+ 
+ SEVERO 
+ 
+ ¡Por los soberanos dioses 
+ que cielo y tierra gobiernan 
+  
+ que he de vengarme, rapaz, 
+ aunque mi Príncipe seas! 
+ Yo descubriré el secreto 
+ y haré que el Imperio pierdas, 
+ que en injuria y sin razón 
+  
+ no es la venganza bajeza. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jornada III 
+ Salen SEVERO y LEONARDO. 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ No sentiré la prisión, 
+ si tan buen alcaide tengo. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ A darte la vida vengo, 
+ Leonardo, en esta ocasión. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+  
+ Lástima te habrá movido 
+ de que un hombre enamorado 
+ a morir determinado 
+ éntrase tan atrevido 
+ 
+ 
+ 
+ donde, si no era volando, 
+  
+ era imposible salir. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ A pesar has de vivir 
+ de quien está deseando 
+ 
+ 
+ 
+ tu muerte, porque es razón 
+ ayudarte a defender 
+  
+ si del Príncipe has de ser 
+ el esperado león. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ ¿Yo, Severo, de qué suerte? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Óyeme atento y sabrás 
+ cuán cerca de ser rey estás. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ ¿Yo? ¿Por dónde o cómo? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Advierte, 
+ 
+ 
+ 
+ Nicandro famoso, rey 
+ de cuantas provincias baña 
+ por siete bocas el Nilo 
+ de Roseto a Demiata 
+  
+ y del Cairo a Alejandría, 
+ en su verde edad pasada 
+ quiso con notable amor 
+ a una bellísima dama 
+ llamada Antonia, a quien diera 
+  
+ Semiramis y Cleopatra, 
+ como en la rara hermosura, 
+ ventaja en letras y en armas. 
+ Destos amores naciste, 
+ oye, no te alteres, calla, 
+  
+ que el decirte este secreto 
+ no fue, Leonardo, sin causa. 
+ Era yo solo el criado 
+ de quien Nicandro fïaba 
+ estos amores de Antonia. 
+  
+ Cuando tres años cumplías 
+ muere tu madre y se casa 
+ el Rey con Natalia bella, 
+ del rey de la Persia hermana, 
+ nace el Príncipe, tu hermano, 
+  
+ a quien Alejandro llaman 
+ porque no menos fortuna 
+ de su nacimiento aguardan. 
+ Deste mira el nacimiento 
+ y por las estrellas halla 
+  
+ que un león le ha de dar muerte 
+ si no le esconden y guardan 
+ hasta que treinta años cumpla. 
+ Con esto Nicandro labra 
+ este fuerte en que le tiene 
+  
+ mientras tantos años pasan. 
+ Y a ti por una sospecha 
+ criar en las montañas manda 
+ sin que supieses quién eras, 
+ porque Leonardo te llamas, 
+  
+ que dice que puede ser 
+ que los cielos te señalan, 
+ Leonardo, por el león, 
+ y así el nombre le acobarda, 
+ que al Príncipe ha de matar 
+  
+ quitando con arrogancia 
+ el legítimo laurel 
+ y no le ha engañado el alma, 
+ pues habiendo yo criado 
+ esta fiera, en confianza 
+  
+ del premio, porque le quise 
+ defender que viese a Laura 
+ porque el Rey me había mandado 
+ que la guardase Lisarda, 
+ mi hija, su mano fiera 
+  
+ sin respeto de mis canas 
+ puso en mi rostro, que ha sido 
+ la causa, y tan justa causa, 
+ de declararte quién eres 
+ para que en tanta venganza 
+  
+ seas, Leonardo, el león 
+ del Príncipe que me agravia. 
+ Serás rey de Alejandría 
+ y librarás a quien amas 
+ deste tirano mancebo 
+  
+ que está cerca de forzarla. 
+ Mátale y reina, Leonardo, 
+ pues tu padre te desama; 
+ mira que tu madre Antonia 
+ no fue menos que Natalia. 
+  
+ No goce a Laura Alejandro, 
+ que para empresa tan alta 
+ ya a tus brazos y a tu frente 
+ esperan laurel y Laura. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Con notable admiración 
+  
+ y atentamente escuché, 
+ Severo, lo que ya sé 
+ de tu estraña relación. 
+ Dices que soy el león 
+ que determina la suerte, 
+  
+ que de Alejandro la muerte, 
+ porque me llamo Leonardo; 
+ pues laurel y Laura aguardo, 
+ ¿no es ansí? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Sí, hijo. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Advierte, 
+ haz cuenta que como es uno 
+  
+ Dïos, cien mil mundos crio, 
+ y que pudiera ser yo 
+ su rey sin faltar ninguno, 
+ y que el amor importuno 
+ de Laura me da más penas 
+  
+ que hay en los montes arenas, 
+ y que por Laura y laurel 
+ me dan lazo de un cordel 
+ y el reino de dos almenas, 
+ 
+ 
+ 
+ que Laura, laurel y muerte, 
+  
+ no me darán ocasión 
+ a ser Leonardo león 
+ aunque el cielo lo concierte; 
+ porque si el sabio, el que es fuerte, 
+ es señor de las estrellas, 
+  
+ aunque me lo manden ellas, 
+ puedo yo con mi albedrío 
+ gozar de mi señorío 
+ y dejar de obedecellas. 
+ 
+ 
+ 
+ Goce a Laura, aunque la adoro, 
+  
+ y goce el reino mi hermano 
+ y perdone el soberano 
+ cielo el perderle el decoro. 
+ Si un león, que ser yo ignoro, 
+ le ha de matar ese nombre, 
+  
+ razón será que me asombre, 
+ pues haciendo crueldad tal 
+ vengo a quedar animal 
+ y nací para ser hombre. 
+ 
+ 
+ 
+ Lo que tú puedes hacer 
+  
+ guardándote yo secreto, 
+ lo que a los cielos prometo 
+ es dejarme a Laura ver, 
+ porque si lo que ha de ser 
+ es fuerza que te fastidia. 
+  
+ Mil fieras tiene Numidia, 
+ no temas que en la ocasión 
+ al cielo falte un león 
+ ni al poderoso una envidia. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ 
+ ¿Quiéresme dar dos mil veces 
+  
+ los brazos? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Pues no, Severo, 
+ como a mi Príncipe te quiero. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Ser rey del mundo mereces, 
+ y de tu virtud me ofreces 
+ grande indicio, ni me deja 
+  
+ lo que me niegas con queja, 
+ que no hacer el mal también 
+ aun puede parecer bien 
+ al mismo que le aconseja. 
+ 
+ 
+ 
+ El cielo te ha de pagar, 
+  
+ no ha de olvidarse de ti, 
+ porque en lo que has hecho aquí 
+ tu virtud le ha de obligar. 
+ No demos que sospechar, 
+ ven conmigo, que en efeto 
+  
+ ver a Laura te prometo, 
+ pero a callar obligado. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Hombre que un reino ha dejado 
+ sabrá callar un secreto. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen el PRÍNCIPE y CASANDRA.) 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ Ya es, Laura, mucho desdén, 
+  
+ ya se corre mi valor. 
+ ¿Es mejor el labrador 
+ rústico que quieres bien? 
+ 
+ 
+ 
+ Mira, Laura, que me das 
+ ocasión de aborrecerte. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Tendrela yo de quererte 
+ porque me aborrezcas más. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ ¿Eso es locura? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Es valor. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Tú, valor? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿No puede ser? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Es de mujer? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Y mujer. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ ¿Que tiene a un villano amor? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Quedo, Alejandro, que yo 
+ no fui más de agradecida 
+ si dél he sido querida 
+ fue ocasión, defeto no. 
+ 
+ 
+ 
+  
+ Demás que en ese villano 
+ hay prendas para querer 
+ cualquier principal mujer. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ No estoy yo corrido en vano, 
+ 
+ 
+ 
+ vive Júpiter, que creo 
+  
+ que tu necia resistencia 
+ ha de llegar a violencia 
+ de mi amoroso deseo. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Tente, tente, que en llegando 
+ a no haber otro remedio, 
+  
+ te pondré un mar de por medio 
+ porque ya me voy cansando. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ ¿Pues qué misterio hay en ti?, 
+ que han de ser las causas muchas. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Tú le sabrás si me escuchas. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Va, te escucho. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Advierte. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Di. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Yo, generoso africano, 
+ soy de los fines de Europa, 
+ hija soy del rey de Atenas, 
+ que no humilde labradora. 
+  
+ Mi proprio nombre es Casandra, 
+ que las desdichas me nombran 
+ Laura, aunque nunca he podido 
+ salir dellas vitoriosa. 
+ Quiso mi padre casarme, 
+  
+ concertáronse las bodas 
+ con el príncipe Seleuco, 
+ hijo del rey de Antioquía. 
+ Labrose una fuerte nave, 
+ que de la popa a la proa, 
+  
+ cuando era gigante el mar 
+ le pudo servir de joya. 
+ Del archipiélago bravo 
+ mansas estaban las olas 
+ cuando me embarcó mi padre 
+  
+ con lágrimas amorosas. 
+ Acompáñanme sus grandes 
+ y algunas grandes señoras, 
+ y el Embajador, a quien 
+ el mar la embajada acorta. 
+  
+ Damos al viento los lienzos, 
+ él brama en las pardas sogas, 
+ a cuya música ayudan 
+ las trompetas sonorosas. 
+ Dejamos atrás las islas, 
+  
+ que el archipiélago adornan 
+ tantas que en lejos parece 
+ que todas son una sombra. 
+ Pero a la vista de Candia, 
+ el viento que estaba en popa, 
+  
+ por proa enviste la nave 
+ con tempestad espantosa. 
+ El Sol se esconde, las nubes 
+ se enlutan de negras tocas, 
+ los elementos se alteran 
+  
+ en batalla tan furiosa. 
+ La confusión va creciendo, 
+ auméntase la congoja, 
+ dan voces, tal vez amaina 
+ y tal vez vira la borda. 
+  
+ Yo triste estaba aprendiendo 
+ estos nombres a mi costa, 
+ lengua del mar que se estudia 
+ cuando es todo Babilonia. 
+ A este tiempo las deidades, 
+  
+ a nuestras lágrimas sordas, 
+ más fuerza al ábrego envían, 
+ más licencia al fiero bóreas. 
+ Rómpese el árbol mayor 
+ y a tres o cuatro personas 
+  
+ quita el temor de aguardar 
+ a que la nave se rompa. 
+ Entonces ya sin consejo 
+ una pobre barca abordan 
+ que iba de la nave asida 
+  
+ con un pedazo de escota. 
+ Métenme en ella bajando 
+ por una embreada soga 
+ sobre quien ha de ir conmigo, 
+ los más nobles se alborotan. 
+  
+ Llegan, en fin, a las manos, 
+ dellos en el mar se arrojan, 
+ dellos en los bordes muertos 
+ beben las saladas ondas. 
+ Impele la barca el mar, 
+  
+ las estrellas y las olas 
+ entran juntas en consejo 
+ de mi muerte lastimosa. 
+ Aquel viento que se engendra 
+ del ártico polo escombra 
+  
+ entonces con tal furor 
+ las montañas espumosas, 
+ que de sierra en sierra de agua, 
+ da con las tablas ya rotas 
+ en una playa y la arena 
+  
+ me sepulta en algas toda, 
+ cuando Leonardo, el villano 
+ que dices, desde las rocas 
+ deste mar de Alejandría 
+ dio mejor fin a mi historia 
+  
+ que Codro a la de Pompeyo, 
+ pues llegando desemboza 
+ la barca de algas y espumas 
+ y hace que en sus brazos ponga 
+ más agua que cuerpo y vida, 
+  
+ donde mi esperanza cobra 
+ la que no pensó tener. 
+ Así los cielos revocan, 
+ tal vez, primeras sentencias, 
+ con revistas más piadosas. 
+  
+ Diome su casa y su pecho, 
+ Laura me nombra y me adora, 
+ esta obligación le debo, 
+ mira si son estas obras 
+ dignas de agradecimiento. 
+  
+ Esto soy, tú piensa agora 
+ lo que soy y cuánto a mí 
+ yo pienso guardar mi honra. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+ De turbado y admirado 
+ aun no supe detenella; 
+  
+ que tú eres, Casandra bella, 
+ reina, qué bien lo has mostrado 
+ en el valor y cuidado. 
+ De tu defensa, que espero 
+ decir a mi padre quiero 
+  
+ la ventura que he tenido, 
+ pues un ángel ha venido 
+ contra un animal tan fiero. 
+ 
+ 
+ 
+ Ya no hay que temer león, 
+ ya se han cumplido los años. 
+  
+ Teodoro. 
+ 
+ 
+ 
+ (Sale TEODORO.) 
+ 
+ 
+ TEODORO 
+ 
+ ¿Señor? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Engaños 
+ hace la imaginación, 
+ mas no, que verdades son. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ ¿De qué súbita alegría 
+ estás desta suerte? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ El día 
+  
+ que vi de Laura los ojos 
+ cesaron cuantos enojos 
+ de mis fortunas temía. 
+ 
+ 
+ 
+ Hazme luego retratar; 
+ llama, Teodoro, el Penor, 
+  
+ que este famoso pintor 
+ del león me ha de vengar. 
+ Con un pie me ha de pintar 
+ sobre el león ya vencido, 
+ después que Laura ha venido 
+  
+ y que la mano en la daga 
+ quiero abrir sangrienta llaga 
+ en el animal rendido. 
+ 
+ 
+ 
+ Parte y que venga le di 
+ mientras a mi padre digo 
+  
+ que el rey de Atenas, su amigo, 
+ a Casandra tiene aquí. 
+ Laura es su hija y de mí 
+ será tan presto mujer, 
+ cuanto el Rey lo ha de saber. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+  
+ ¿Laura es infanta de Atenas? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ El cielo, entre tantas penas, 
+ tanto bien me quiere hacer. 
+ 
+ 
+ 
+ Vamos porque parta alguno 
+ a Grecia y lleve la nueva, 
+  
+ que ya la fama la lleva 
+ por los campos de Neptuno. 
+ 
+ 
+ 
+ 
+ 
+ TEODORO 
+ 
+ No hay en el reino ninguno 
+ como Celio. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Celio vaya, 
+ y cuando vuelva a esta playa 
+  
+ de ella me hallará marido 
+ y el pronóstico cumplido 
+ que tanto al reino desmaya. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen CASANDRA, LEONARDO, PEROL y CINTIA.) 
+ 
+ 
+ LEONARDO 
+ 
+ 
+ Toda la gloria de verte 
+ me has templado con oírte, 
+  
+ mil cosas pensé decirte 
+ y ya no más de mi muerte. 
+ 
+ 
+ 
+ Que si le has dicho, señora, 
+ que eres infanta de Atenas 
+ has dado fin a sus penas, 
+  
+ porque Alejandro te adora 
+ 
+ 
+ 
+ y se ha de casar contigo. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Mientras avisan al Rey, 
+ como es de los tiempos ley, 
+ se tratará cuanto digo. 
+ 
+ 
+ 
+  
+ No bastan humanos medios 
+ a grandes resoluciones, 
+ porque fuertes ocasiones 
+ tienen fuertes los remedios 
+ 
+ 
+ 
+ y yo no puedo escusar 
+  
+ de hacer defensa a mi honor 
+ con decirle mi valor. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Bien te pudiera culpar 
+ 
+ 
+ 
+ si un secreto te dijera, 
+ pero la palabra he dado. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Leonardo, tú, rey de un prado 
+ y señor de una ribera, 
+ 
+ 
+ 
+ ¿cómo puedes igualar 
+ a quien como yo nació? 
+ Es imposible que yo 
+  
+ a más me pueda obligar 
+ 
+ 
+ 
+ que a tenerte grande amor. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Yo conozco mi bajeza 
+ y que entre tanta grandeza 
+ soy un pobre labrador, 
+ 
+ 
+ 
+  
+ pienso que saldré de aquí, 
+ según me ha dicho Severo. 
+ Volverme a mi monte quiero 
+ y morir como nací 
+ 
+ 
+ 
+ solo te ruego. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Habla quedo. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ ¡Ay, Cintia!, ¿tú qué serás, 
+ porque ya tan grave estás, 
+ que tengo a tus cosas miedo? 
+ 
+ 
+ 
+ ¿De dónde serás Infanta? 
+ ¿En qué nave habrás venido? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+  
+ Yo, Perol, soy lo que he sido. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿La Corte no te levanta 
+ 
+ 
+ 
+ el pensamiento siquiera 
+ a decir una mentira? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ El ser quien soy me retira 
+  
+ de toda vana quimera. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ 
+ Toma ejemplo del papel 
+ que se hace de trapos viejos 
+ y sube hasta los Consejos 
+ y a que escriba el Rey en él. 
+ 
+ 
+ 
+  
+ ¿Quién hay que aliento no cobre, 
+ viendo el papel que ha subido 
+ a escribirle un Rey si ha sido 
+ una camisa de un pobre? 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ 
+ Sí, pero siempre verás 
+  
+ que le queda el mal olor. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Tú tienes poco valor, 
+ ya que en la ocasión estás 
+ 
+ 
+ 
+ y del papel no te espantes, 
+ pues le queda a toda ley 
+  
+ de estar en manos del Rey 
+ el buen olor de los guantes; 
+ 
+ 
+ 
+ corto ingenio y gran desmayo 
+ tiene, Cintia, y sin valor, 
+ quien llega hasta el resplandor 
+  
+ del Sol sin hurtalle un rayo; 
+ 
+ 
+ 
+ ¿pero qué tïenes, ama, 
+ reina y señora de Atenas, 
+ que te dará más cadenas 
+ que tiene lenguas la fama? 
+ 
+ 
+ 
+  
+ Bien me puedes, Cintia, dar 
+ la que el Príncipe te dio. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ ¿Pues qué soy agora yo 
+ o en qué me puedo fiar? 
+ 
+ 
+ 
+ ¿No eres más necio, Perol, 
+  
+ para pescar la cadena? 
+ ¿Te dan los ejemplos pena 
+ de llegar al Rey y al Sol? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ 
+ Malicias, yo no lo digo, 
+ sino por lo que has de ser, 
+  
+ si es Laura del Rey mujer. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ ¡Ay, cómo te entiendo amigo! 
+ 
+ 
+ 
+ ¿No dije el otro día 
+ que los hombres han de dar 
+ y las mujeres tomar? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ Un hombre dicen que había, 
+ 
+ 
+ 
+ que en las pendencias tiraba 
+ un pomo atado a un cordel 
+ y luego tirando dél 
+ con el pomo se quedaba. 
+ 
+ 
+ 
+  
+ ¡Oh, si diésemos así, 
+ qué linda cosa que fuera!, 
+ y que cuando un hombre diera 
+ luego lo volviera a sí, 
+ 
+ 
+ 
+ deste dar quedara el brazo 
+  
+ sabroso. 
+ 
+ 
+ 
+ 
+ 
+ CINTIA 
+ 
+ Qué lindo dar. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Aqueste modo de dar 
+ se había de llamar pomazo. 
+ 
+ 
+ 
+ Leonardo, escóndete presto 
+ que viene el Príncipe. 
+ 
+ 
+ 
+ (Sale SEVERO.) 
+ 
+ 
+ LEONARDO 
+ 
+ ¡Ay, cielos, 
+  
+ qué presto vi crecer los celos! 
+ No viene el amor tan presto, 
+ 
+ 
+ 
+ libre me quisiera hallar 
+ o müerto, pues he llegado N 
+ X Nota del editor a causa de la rima en redondillas corrijo por «he llegado» 
+ 
+ 
+ a tiempo que en tal estado 
+  
+ no hay que temer ni esperar. 
+ 
+ 
+ 
+ ¿No dijiste que tendría 
+ libertad? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Si quieres irte, 
+ puedes. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Qué podré decirte, 
+ oh, Laura, en tan triste día? 
+ 
+ 
+ 
+  
+ Al monte vuelvo a morir, 
+ ten lástima de una vida 
+ de quien eres homicida. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ No sé qué pueda decir 
+ 
+ 
+ 
+ entre tantas confusiones. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ ¿Podré, Laura, merecer 
+ morir por ti? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ ¿Qué he de hacer? 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Leonardo, menos razones. 
+ 
+ 
+ 
+ Vete, no te halle aquí. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Al fin ya no te verán 
+  
+ mis tristes ojos. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Sí harán. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Laura, acuérdate de mí. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Lágrimas miro y no digo 
+ a voces que loca estoy, 
+ ¿qué he de hacer, si soy quien soy? 
+ 
+ 
+ 
+ (Salen el PRÍNCIPE y ALBANO.) 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Entra pues eres testigo, 
+ 
+ 
+ 
+ di a Casandra lo que pasa, 
+ di lo que el Rey respondió. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ ¿Tengo de abonarte yo? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Ya, Casandra, el Rey me casa, 
+ 
+ 
+ 
+  
+ porque este reino poseas. 
+ Ya despacha embajadores 
+ a Atenas, ya tus rigores 
+ cesarán cuando te veas 
+ 
+ 
+ 
+ señora de Alejandría. 
+  
+ Tú el fin de su dicha apruebas, 
+ llegándote tales nuevas 
+ juntas en un mismo día. 
+ 
+ 
+ 
+ De suerte que me ha contado 
+ que mañana se ha cumplido 
+  
+ el término difinido 
+ del pronóstico pasado, 
+ 
+ 
+ 
+ no falta más de mañana 
+ con que serás mi mujer 
+ y en que dejaré de ser, 
+  
+ con que desta ciencia humana 
+ 
+ 
+ 
+ de la voluntad divina 
+ y celestial influencïa 
+ que me ha costado paciencia 
+ de solo un Príncipe digna. 
+ 
+ 
+ 
+  
+ Tantos años de prisión 
+ bien pudieron merecer 
+ que fueses tú mi mujer 
+ con tanta satisfación 
+ 
+ 
+ 
+ del Rey y reino que tienes. 
+  
+ ¿No respondes? 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ No te espantes 
+ que entre males semejantes 
+ me espanten tan bien los bienes, 
+ 
+ 
+ 
+ que en mi fortuna mortal 
+ estoy de suerte tan bien 
+  
+ que me espanta más el bien 
+ porque trato más el mal. 
+ 
+ 
+ 
+ Déjame entrar a escribir 
+ al Rey, que no es bien que parta 
+ sin carta mía. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ En tu carta 
+  
+ puedes, Casandra, decir 
+ 
+ 
+ 
+ lo que sientes de mi amor; 
+ oblígame en alabarme. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ A mí me está bien honrarme 
+ de un hombre de tu valor. 
+ 
+ 
+ 
+ (Vase.) 
+ 
+ 
+ ALEJANDRO 
+ 
+ 
+  
+ ¿Qué sientes desto? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Que está 
+ dudosa de que la ensalces 
+ a tan alta monarquía. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Si la tuviera por grande 
+ mostrárame más contento. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+  
+ Los entendimientos graves, 
+ en las prósperas fortunas, 
+ más humildes muestras hacen 
+ cuando coge un gran contento, 
+ de improviso suele darles 
+  
+ suspensión a los sentidos. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Bien dices, quiero alegrarme; 
+ hoy haré a todos mercedes, 
+ pues comienza a publicarle 
+ mi libertad y tan cierta 
+  
+ que solo puede faltarme 
+ lo que el Sol desde que salga 
+ por las puertas orientales 
+ hasta que adorarlas vuelva 
+ del polo antártico tarde. 
+  
+ ¡Ay, cielos, que veré libres 
+ las populosas ciudades! 
+ Ejércitos numerosos, 
+ plazas, templos, casas, calles, 
+ como se marcha en la tierra 
+  
+ y se navegan los mares. 
+ ¡Qué notable dicha! 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Mira 
+ que el placer puede obligarte 
+ como el pesar si te dejas 
+ consumir de imaginarle; 
+  
+ divierte ese pensamiento. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Celio viene, ¿qué me traes? 
+ 
+ 
+ 
+ (Salen CELIO y un criado con dos dagas en una fuente.) 
+ 
+ 
+ CELIO 
+ 
+ Aquellas dagas, señor, 
+ de la hechura que mandaste. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Muestra, que buena es aquesta 
+  
+ y es la cuchilla notable. 
+ Esta es mejor guarnición 
+ y está por Dios que desarme 
+ a la más fuerte defensa. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ El Penor viene a mostrarte 
+  
+ el retrato que te ha hecho. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ No hay hombre que me retrate 
+ con más gracia que el Penor. 
+ 
+ 
+ 
+ (Sale el PENOR con un retrato.) 
+ 
+ 
+ PENOR 
+ 
+ Solo deseo agradarte. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Poned en ese bufete 
+  
+ las dagas. 
+ 
+ 
+ 
+ 
+ 
+ PENOR 
+ 
+ Quisiera hallarme 
+ con el ingenio de Ceusis, 
+ con el pincel de Timantes, 
+ o pues eres Alejandro, 
+ y Alejandro retratarse 
+  
+ dejaba solo de Apeles, 
+ que yo supiera imitarle. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Poned en alto el retrato. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Aquí no hay con qué se alce. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Encima de este bufete 
+  
+ bastará que se levante. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ ¿Está bien así? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Muy bien. 
+ 
+ 
+ 
+ 
+ 
+ PENOR 
+ 
+ La simetría y sus partes 
+ guardan proporción debida. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Qué bien el efecto hace 
+  
+ de querer sacar la daga. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¿Que este había de matarme, 
+ desta suerte es un león? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Por eso a tus plantas yace 
+ y triunfas dél este día. 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+  
+ Vive el cielo que he de darle 
+ una puñada de enojo, 
+ aunque el retrato se rasgue. 
+ (Dale una puñada y yérese con las dagas que están detrás.) 
+ ¡Ay, ay! 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ ¿Qué ha sido, señor? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¡Ay de mí! 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Llena de sangre 
+  
+ tienes la mano. 
+ 
+ 
+ 
+ 
+ 
+ PENOR 
+ 
+ Las dagas 
+ que estaban de esotra parte 
+ te hirieron al dar el golpe. 
+ 
+ 
+ 
+ (Sale el REY.) 
+ 
+ 
+ REY 
+ 
+ ¿Qué voces son estas? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Dadme, 
+ dadme algún remedio presto. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+  
+ ¿Quién te ha herido? 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ ¡Qué señales 
+ tan tristes de tus temores! 
+ Hice al Penor retratarme 
+ con un león a los pies 
+ y enojado de mirarle 
+  
+ dile en la pintada boca, 
+ un golpe, caso notable 
+ que en las dagas que detrás 
+ estaban, sin acordarme, 
+ mano y brazo me he pasado. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+  
+ ¡Oh, estrellas inevitables! 
+ ¡Llevadle luego de aquí! 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ ¡Ven, señor, no te desangres! 
+ 
+ 
+ 
+ 
+ 
+ ALEJANDRO 
+ 
+ Temo que el león me ha muerto. 
+ 
+ 
+ 
+ (Llévanle.) 
+ 
+ 
+ REY 
+ 
+ Dioses, ¿que en sucesos tales 
+  
+ conozca el mundo su engaño 
+ y que han de ser inviolables 
+ vuestras leyes y secretos? 
+ ¿Hay desgracia semejante? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ No será tanta la herida 
+  
+ ni querrá el cielo quitarte 
+ con un animal pintado 
+ la prenda que tanto vale. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ ¡Ay, cielo, veo que agora 
+ que nuestras fuerzas mortales 
+  
+ no impiden la que ha de ser! 
+ ¿Quién dijera que una imagen, 
+ un retrato de un león, 
+ siendo mañana en la tarde 
+ cumplido el preciso tiempo 
+  
+ en que habrá de matarle 
+ hoy fuese causa, queriendo 
+ darle un golpe que le pase 
+ la mano, sin mano el yerro, 
+ que estaba de la otra parte? 
+  
+ Mucho temo, y con razón, 
+ que aquesa herida le mate; 
+ siempre fue lo que ha de ser, 
+ por más que el hombre se guarde. 
+ 
+ 
+ 
+ (Vanse.) 
+ (Salen LEONARDO y NISE.) 
+ 
+ 
+ NISE 
+ 
+ 
+ Sin duda te has vuelto loco 
+  
+ de amores de Laura ya, 
+ que como en la Corte está 
+ tienes a la aldea en poco. 
+ 
+ 
+ 
+ Tu vestido cortesano, 
+ tu espada, ¿qué frenesí 
+  
+ te ha dado? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¡Ay, Nise, ay de mí! 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Como naciste villano 
+ 
+ 
+ 
+ y aires de señor te dieron 
+ con aquel tan necio amor, 
+ perdiste el ser labrador 
+  
+ como tus padres lo fueron. 
+ 
+ 
+ 
+ Y arrogante de tu brío 
+ y no mal entendimiento 
+ soñaste algún casamiento, 
+ que es el mayor desvarío. 
+ 
+ 
+ 
+  
+ Deja la espada, Leonardo, 
+ vuelve, vuelve al azadón. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ De mi pena y confusión 
+ solo este remedio aguardo. 
+ 
+ 
+ 
+ Yo me voy, Nise, a embarcar, 
+  
+ la causa yo me la sé, 
+ que no es posible que esté 
+ más tiempo en este lugar. 
+ 
+ 
+ 
+ Soy otro ser del que fui 
+ y como no puedo ser 
+  
+ como soy voyme a tener 
+ aquel ser lejos de aquí. 
+ 
+ 
+ 
+ ¿Porque de qué me sirviera 
+ no poder ser lo que soy? 
+ Y pues no soy donde estoy, 
+  
+ lo que siendo quien soy fuera. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ 
+ ¿Hay lástima más estraña? 
+ ¡Loco estás, pobre de ti! 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Como no sabes quién fui, 
+ no saber quién soy te engaña. 
+ 
+ 
+ 
+  
+ Ya Laura será mujer 
+ del Príncipe. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ ¿De qué modo? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Porque se ha sabido todo 
+ y Laura lo puede ser, 
+ 
+ 
+ 
+ que es hija del rey de Atenas, 
+  
+ donde embajadores van, 
+ con quien mis penas irán, 
+ que voy a embarcar mis penas. 
+ 
+ 
+ 
+ Quiero ver si puede el mar 
+ templar mi fuego. Ya es ido 
+  
+ Perol a ver si ha venido, 
+ que hoy se quieren embarcar. 
+ 
+ 
+ 
+ Quédate, Nise, con Dios. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ ¿Es posible que te vas? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No puedo más. 
+ 
+ 
+ 
+ 
+ 
+ NISE 
+ 
+ Que jamás 
+  
+ nos hemos de ver los dos. 
+ 
+ 
+ 
+ (Sale PEROL.) 
+ 
+ 
+ PEROL 
+ 
+ 
+ Sin aliento vengo a verte. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿De qué vienes sin aliento? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Fui al puerto y hallé que ya 
+ Teodoro estaba en el puesto 
+  
+ para embarcarse a Modon 
+ cuando mil hombres corriendo 
+ que se detenga le dicen 
+ porque es Alejandro muerto. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Qué Alejandro? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Qué Alejandro? 
+  
+ El Príncipe. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Santo Cielo, 
+ ¿y quién le mató? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Un león. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Es tiempo de burlas, necio, 
+ este en que me ves agora? 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿No lo crees? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No lo creo, 
+  
+ que no era posible entrar 
+ un león en su aposento 
+ aunque llovieran leones. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Pintado estaba en un lienzo 
+ a los pies de su retrato. 
+  
+ Diole un golpe tan soberbio, 
+ que en unas dagas que había 
+ detrás, qué estraño suceso, 
+ se pasó la mano y brazo, 
+ y sin humano remedio, 
+  
+ sin poderle restañar 
+ la sangre dicen que ha muerto. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Si no te burlas, es cosa 
+ la más rara, es el más nuevo 
+ caso que se oyó en el mundo. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ Las desdichas suelen luego 
+ hallar crédito, las dichas 
+ tienen dudoso a su dueño, 
+ pero porque sin pensión 
+ nunca las dichas tuvieron, 
+  
+ cuando trataba Alejandro 
+ con Casandra el casamiento, 
+ como no era de su gusto 
+ dicen que con Cintia huyendo 
+ salió del fuerte una noche, 
+  
+ cosa que en cuidado ha puesto 
+ al Rey y a toda la Corte. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Dame, Perol, dame presto 
+ mi gabán de labrador, 
+ que a ser lo que soy me vuelvo. 
+  
+ Desnúdate de soldado. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿A qué efeto? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ A que no quiero 
+ que piense el Rey cierta cosa 
+ que dirá el tiempo a su tiempo. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Vístete, que tú te entiendes. 
+ 
+ 
+ 
+ (Sale SEVERO.) 
+ 
+ 
+ SEVERO 
+ 
+  
+ Si no se ha embarcado, pienso 
+ que le hallaré en este monte. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Perol no es este Severo? 
+ ¿Dónde vas, Severo, amigo? 
+ Alguna traición sospecho. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ Octava real 
+ 
+  
+ ¡Oh, gallardo mancebo, hoy es el día 
+ que se ha de ver tu corazón valiente! 
+ La verdad alcanzó la astrología, 
+ murió Alejandro miserablemente. 
+ Casandra, huyendo al mar, que pretendía 
+  
+ embarcarse a Modon secretamente, 
+ de la gente del Rey que la buscaba 
+ fue presa cuando ya a la orilla estaba. 
+ 
+ Octava real 
+ 
+ A la Corte la vuelven, donde quiere 
+ casarse el Rey con ella en tales años, 
+  
+ si tu Casandra por aquí viniere, 
+ antes se lleven bárbaros estraños, 
+ a donde el Sol entre los yelos muere, 
+ pues que son contra ti tales engaños 
+ que la dejes al Rey porque no es justo, 
+  
+ quitarte el reino y con el reino el gusto. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ Octava real 
+ 
+ ¿Cómo casarse el Rey con prenda mía? 
+ El reino dele el Rey si darle puede, 
+ puesto que ha sido bárbara porfía 
+ que un hijo natural se desherede, 
+  
+ pero quitarme a Laura, si él envía 
+ ejército que al mar y arena excede 
+ le haré pedazos yo. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Detente un poco. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Si son ellos, aquí verás un loco. 
+ 
+ 
+ 
+ (Salen CASANDRA, y los demás que la traen, ALBANO, CELIO y el PENOR.) 
+ 
+ 
+ CASANDRA 
+ 
+ 
+ Ejércitos para mí; 
+  
+ para mí soldados y armas, 
+ ¿qué debo al Rey, que me quiere? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Señora, no seáis ingrata, 
+ que el Rey no quiere forzaros. 
+ Como sin hijos se halla 
+  
+ y reina de Alejandría 
+ ya por Alejandro os claman, 
+ quiere que vós lo seáis, 
+ quedando con él casada 
+ y dar heredero al reino 
+  
+ con hijos como pensaba, 
+ con nietos, cosa tan justa 
+ que a sus Consejos agrada 
+ y con aplauso común 
+ su reina y señora os llaman. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+  
+ Yo lo estimo, Caballeros, 
+ pero tengo ciertas causas 
+ que agradecerle me impiden 
+ honras y mercedes tantas, 
+ yo no he de pasar de aquí, 
+  
+ esta aldea es ya mi casa 
+ hasta que mi padre venga, 
+ a quien he escrito una carta, 
+ relación de mis fortunas. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Advertid que ya os aguarda 
+  
+ y a recebiros se salía. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Yo no he de ir, ¿de qué te cansas? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¡Hola, crïados del Rey! 
+ ¡Dejad a Laura o Casandra, 
+ que tiene quien la defienda, 
+  
+ en estas montañas Laura! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ ¿Este es aquel labrador 
+ que hirió en el fuerte las guardas? 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ El mismo, ¿pero qué importa? 
+ Casandra a la Corte vaya, 
+  
+ que villanos son villanos. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¡Hola, gente cortesana! 
+ ¿Sois sordos, no me escucháis? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ ¿Qué quieres, que ansí nos llamas? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿He de decirlo otra vez? 
+  
+ Dejad a Laura, que es Laura 
+ mi mujer. 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ ¡Brava locura! 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ ¿Tengo de sacar la espada? 
+ 
+ 
+ 
+ 
+ 
+ CELIO 
+ 
+ Para morir bien podrás. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Pues ya voy, ¡fuera, canalla! 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+  
+ Aquí está, señor, Perol, 
+ sacude, que son de paja. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Tantos a un hombre es vergüenza. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Dejad, infames, la Infanta. 
+ 
+ 
+ 
+ (Sale el REY.) 
+ 
+ 
+ REY 
+ 
+ ¡Estraña furia de loco, 
+  
+ detente! 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ No me obligarás, 
+ menos que con lo que sabes, 
+ que por quien eres no basta. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ ¿Por qué matas a estos hombres? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Porque me llevan el alma 
+  
+ y dicen que es para ti 
+ cuya condición tirana 
+ castigue el cielo, a quien pido 
+ de mis agravios venganza. 
+ Tienes hijo como yo 
+  
+ que pueda honrar a su patria 
+ y buscas hijo imposible 
+ a tu salud y a tus canas. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ ¿Sabes quién eres? 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Y sé 
+ que le diste la palabra 
+  
+ a mi madre, con que soy 
+ legítimo, que eso basta. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+ Severo. 
+ 
+ 
+ 
+ 
+ 
+ SEVERO 
+ 
+ Señor, yo he sido, 
+ que no es bien que tu edad larga 
+ comience agora a ser Rey. 
+ 
+ 
+ 
+ 
+ 
+ REY 
+ 
+  
+ Severo, en desdichas tantas 
+ quiero obedecer al cielo, 
+ porque las fuerzas humanas 
+ en vano lo que ha de ser 
+ con flacos miedos contrastan 
+  
+ Alejandría. Leonardo 
+ es mi hijo, yo pensaba 
+ que era el león por el nombre 
+ de la celeste amenaza 
+ y por esto le crïe 
+  
+ labrador destas montañas, 
+ para no enojar al cielo 
+ si la vida le quitaba. 
+ Él es vuestro rey. 
+ 
+ 
+ 
+ 
+ 
+ ALBANO 
+ 
+ Y el reino 
+ por rey y señor le aclama. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+  
+ Casandra, yo soy el Rey. 
+ 
+ 
+ 
+ 
+ 
+ CASANDRA 
+ 
+ Pésame, porque pensaba 
+ obligarte, labrador, 
+ con ser de Atenas infanta. 
+ 
+ 
+ 
+ 
+ 
+ PEROL 
+ 
+ Impido este casamiento, 
+  
+ si con Cintia no me casan. 
+ 
+ 
+ 
+ 
+ 
+ LEONARDO 
+ 
+ Nise, Albano ha de ser tuyo, 
+ iréis a la Corte entrambas N 
+ X Nota del editor cambio «entrambos» por «entrambas» por la rima romance 
+ ,
+                            
+ donde títulos y rentas 
+ darán honra a vuestras casas. 
+  
+ Que lo que ha de ser, aquí 
+ senado ilustre, se acaba, 
+ raro suceso que escriben 
+  
+ las historias africanas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
