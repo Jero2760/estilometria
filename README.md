@@ -19,7 +19,7 @@ Repositorios utilizados:
 
 # Colaboración
 
-Cualquier persona interesada en colaborar en este proyecto, puede hacerlo en Github o bien contactando por emai: info@publiconsulting.com
+Cualquier persona interesada en colaborar en este proyecto, puede hacerlo en Github o bien contactando por email: info@publiconsulting.com
 
 # An open collection of Spanish literature
 
